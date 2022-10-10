@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @wiwaterhouse
+- 👋 Hi, I’m William Waterhouse
 - 👀 I’m interested in learning more about open-source code and software development!
-- 🌱 I’m currently learning SQL, HTML, CSS, JavaScript and VSCode.
+- 🌱 I’m currently learning SQL, HTML, CSS, JavaScript and VSCode
 - 💞️ I’m looking to collaborate on projects around RockRMS!
-- 📫 You can reach me by email wiwaterhouse@fellowshipnwa.org.
+- 📫 You can reach me by email wiwaterhouse@fellowshipnwa.org
 
 <!---
 wiwaterhouse/wiwaterhouse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
