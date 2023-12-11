@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "441f5b003e1526c6",
+        "id": "1a25ec12536d6015",
         "type": "tabs",
         "children": [
           {
-            "id": "7e0d319054625dfb",
+            "id": "666c78fa8a831ceb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -143,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e0d319054625dfb",
+  "active": "666c78fa8a831ceb",
   "lastOpenFiles": [
+    "2023-12-11.md",
     "Conferences/RX/RX2022/Workshop4 - What To Do When Things Go Wrong.md",
     "Conferences/RX/RX2022/Workshop4-WhatToDoWhenThingsGoWrong.md",
     "Conferences/RX/RX2022/Workshop3 - SQL Best Practices.md",
@@ -179,7 +179,6 @@
     "Conferences/RX/RX2022/Dynamic Content Channel Driven Communications With Persisted Dataset.md",
     "Conferences/RX/RX2022/A Rock Reporting Journey - Peter Sanders.md",
     "Conferences/RX/RX2022/Azure Tips and Tricks.md",
-    "2023-12-11.md",
     "Dailies/2023/12-Dec/2023-12-08.md",
     "Dailies/2023/12-Dec/2023-12-07.md",
     "Dailies/2023/12-Dec/2023-12-06.md",
