@@ -1,0 +1,13 @@
+- Catilina
+- User education on updates
+- T2, activation lock computers
+- Apple Business Manager
+- Firmware password
+- No external drives from Recovery Mode
+- Total spaces
+- Catilina, system protection
+- Lease program?
+- Legality of multiple devices, JAMF
+- Illegal to install on all devices on Apple ID
+- Volume Purchase Program
+![[Apple Q_A.m4a]]

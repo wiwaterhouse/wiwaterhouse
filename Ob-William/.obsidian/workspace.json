@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "756d9af3bf228582",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4d2cc37d344af7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85e2d72eeac392b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-12-11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80b568ab5c4ab432",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b6d3111b6de3061",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15e8499f84839779",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce78ed8de5c7f2c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c9a60a462103361",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "101f4314985fc9f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a22c0169031c3fe9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25329f12e4d63854",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023-12-11.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a95d17d3a54b534",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023-12-11.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f27a6fce052bb8d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e2e55cb048825009",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-12-11.md"
+              }
+            }
+          },
+          {
+            "id": "cde312f0c2081f13",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "85e2d72eeac392b7",
+  "lastOpenFiles": [
+    "Conferences/RX/RX2022/Got Questions - Interactions Has Answers.md",
+    "Conferences/RX/RX2022/Dynamic Content Channel Driven Communications With Persisted Dataset.md",
+    "2023-12-11.md",
+    "Dailies/2023/12-Dec/2023-12-08.md",
+    "Dailies/2023/12-Dec/2023-12-07.md",
+    "Dailies/2023/12-Dec/2023-12-06.md",
+    "Dailies/2023/12-Dec/2023-12-04.md",
+    "Dailies/2023/12-Dec/2023-12-01.md",
+    "Dailies/2023/11-Nov/2023-11-30.md",
+    "Dailies/2023/11-Nov/2023-11-29.md",
+    "Dailies/2023/12-Dec",
+    "Dailies/2023/11-Nov",
+    "Dailies/2023",
+    "Conferences/RX/RX2022/Azure Tips and Tricks.md",
+    "Conferences/RX/RX2022/Dynamic Data Blocks.md",
+    "Conferences/RX/RX2022/LightningRounds.md",
+    "Conferences/RX/RX2022/NextGenRock.md",
+    "Conferences/RX/RX2022/Onboarding And Offboarding Using Project Management.md",
+    "Conferences/RX/RX2022/RXKeynote.md",
+    "Conferences/RX/RX2022/The Model Map And Lava.md",
+    "Conferences/RX/RX2022/Using Rock Mobile To Make Resources And Bible Plans Easily Accessible.md",
+    "Conferences/RX/RX2022/Utilizing Data Views To Empower Ministry.md",
+    "Conferences/RX/RX2022/Workflows Best Practices.md",
+    "Conferences/RX/RX2022/Workshop1 - Scaling Rock.md",
+    "Conferences/RX/RX2022/Workshop2 - Security Best Practices.md",
+    "Conferences/RX/RX2022/Workshop3 - SQL Best Practices.md",
+    "Conferences/RX/RX2022/Workshop4 - What To Do When Things Go Wrong.md",
+    "Conferences/RX/RX2022/Triumph what to document pic.jpeg",
+    "Conferences/Spice World/Office365Apps.md",
+    "Conferences/Spice World/DNS2.0 - DSN Over HTTPS.md",
+    "Conferences/CITN/CITN 2019/Office 365 Q_A.m4a",
+    "Conferences/CITN/CITN 2019/IT Helpdesk Roundtable.m4a",
+    "Conferences/CITN/CITN 2019/Practical Security.m4a",
+    "Conferences/CITN/CITN 2019/Office Smorgasbord part 2.m4a",
+    "Conferences/CITN/CITN 2019/Office Smorgasbord.m4a",
+    "Conferences/CITN/CITN 2019/Teams PBX Church IT Conference.m4a",
+    "Conferences/CITN/CITN 2019/Apple Q_A.m4a",
+    "Research/Personal Data deletion request.png",
+    "Research/COPPA example.png",
+    "Quick Notes/Project Communication Screenshots/Screenshot 2023-02-06 at 11.50.50 AM.png",
+    "Quick Notes/Project Communication Screenshots/Screenshot 2023-02-06 at 11.50.45 AM.png",
+    "Quick Notes/Project Communication Screenshots/Screenshot 2023-02-06 at 2.13.39 PM.png",
+    "Notes/Previous BGC Config 2.png",
+    "Notes/Previous BGC Config.png",
+    "Archive Notes/PFS/PFS 2022 rough draft_3.png",
+    "Archive Notes/PFS/PFS 2022 rough draft_2.png",
+    "Untitled.canvas"
+  ]
+}
