@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1a25ec12536d6015",
+        "id": "ccc2138b89740dc3",
         "type": "tabs",
         "children": [
           {
-            "id": "666c78fa8a831ceb",
+            "id": "5517892f9c0d9a97",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,12 +155,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15e8499f84839779",
+  "active": "5517892f9c0d9a97",
   "lastOpenFiles": [
-    "2023-12-14.md",
-    "2023-12-14.md",
+    "Dailies/2023/11-Nov/2023-11-30.md",
+    "Dailies/2023/11-Nov/2023-11-29.md",
+    "Dailies/2023/12-Dec/2023-12-01.md",
+    "Dailies/2023/12-Dec/2023-12-04.md",
+    "Dailies/2023/12-Dec/2023-12-06.md",
+    "Dailies/2023/12-Dec/2023-12-07.md",
+    "Dailies/2023/12-Dec/2023-12-08.md",
     "Dailies/2023/12-Dec/2023-12-11.md",
     "Dailies/2023/12-Dec/2023-12-12.md",
+    "2023-12-14.md",
+    "2023-12-14.md",
     "Conferences/RX/RX2022/Workshop4 - What To Do When Things Go Wrong.md",
     "Conferences/RX/RX2022/Workshop4-WhatToDoWhenThingsGoWrong.md",
     "Conferences/RX/RX2022/Workshop3 - SQL Best Practices.md",
@@ -177,13 +184,6 @@
     "Conferences/RX/RX2022/Onboarding And Offboarding Using Project Management.md",
     "Conferences/RX/RX2022/Next Gen Rock.md",
     "Conferences/RX/RX2022/Lightning Rounds.md",
-    "Conferences/RX/RX2022/Got Questions - Interactions Has Answers.md",
-    "Conferences/RX/RX2022/Dynamic Data Blocks.md",
-    "Conferences/RX/RX2022/Dynamic Content Channel Driven Communications With Persisted Dataset.md",
-    "Conferences/RX/RX2022/A Rock Reporting Journey - Peter Sanders.md",
-    "Conferences/RX/RX2022/Azure Tips and Tricks.md",
-    "Dailies/2023/12-Dec/2023-12-08.md",
-    "Dailies/2023/12-Dec/2023-12-07.md",
     "Dailies/2023/12-Dec",
     "Dailies/2023/11-Nov",
     "Dailies/2023",
