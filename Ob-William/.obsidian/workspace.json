@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "101f4314985fc9f5",
@@ -156,11 +155,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "666c78fa8a831ceb",
+  "active": "15e8499f84839779",
   "lastOpenFiles": [
-    "2023-12-12.md",
     "2023-12-14.md",
-    "2023-12-11.md",
+    "2023-12-14.md",
+    "Dailies/2023/12-Dec/2023-12-11.md",
+    "Dailies/2023/12-Dec/2023-12-12.md",
     "Conferences/RX/RX2022/Workshop4 - What To Do When Things Go Wrong.md",
     "Conferences/RX/RX2022/Workshop4-WhatToDoWhenThingsGoWrong.md",
     "Conferences/RX/RX2022/Workshop3 - SQL Best Practices.md",
@@ -184,7 +184,6 @@
     "Conferences/RX/RX2022/Azure Tips and Tricks.md",
     "Dailies/2023/12-Dec/2023-12-08.md",
     "Dailies/2023/12-Dec/2023-12-07.md",
-    "Dailies/2023/12-Dec/2023-12-06.md",
     "Dailies/2023/12-Dec",
     "Dailies/2023/11-Nov",
     "Dailies/2023",
