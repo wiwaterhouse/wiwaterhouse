@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-14.md",
+                "file": "2023-12-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-14.md",
+                "file": "2023-12-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-14.md",
+                "file": "2023-12-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-14.md"
+                "file": "2023-12-15.md"
               }
             }
           },
@@ -157,6 +157,8 @@
   },
   "active": "5517892f9c0d9a97",
   "lastOpenFiles": [
+    "Dailies/2023/12-Dec/2023-12-14.md",
+    "2023-12-15.md",
     "Dailies/2023/11-Nov/2023-11-30.md",
     "Dailies/2023/11-Nov/2023-11-29.md",
     "Dailies/2023/12-Dec/2023-12-01.md",
@@ -166,8 +168,6 @@
     "Dailies/2023/12-Dec/2023-12-08.md",
     "Dailies/2023/12-Dec/2023-12-11.md",
     "Dailies/2023/12-Dec/2023-12-12.md",
-    "2023-12-14.md",
-    "2023-12-14.md",
     "Conferences/RX/RX2022/Workshop4 - What To Do When Things Go Wrong.md",
     "Conferences/RX/RX2022/Workshop4-WhatToDoWhenThingsGoWrong.md",
     "Conferences/RX/RX2022/Workshop3 - SQL Best Practices.md",
@@ -183,7 +183,6 @@
     "Conferences/RX/RX2022/RXKeynote.md",
     "Conferences/RX/RX2022/Onboarding And Offboarding Using Project Management.md",
     "Conferences/RX/RX2022/Next Gen Rock.md",
-    "Conferences/RX/RX2022/Lightning Rounds.md",
     "Dailies/2023/12-Dec",
     "Dailies/2023/11-Nov",
     "Dailies/2023",
