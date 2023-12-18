@@ -22,4 +22,4 @@ From Start to project assigned
 	2. Marking cancelled for denied
 
 #project-plugin #todo 
-- [ ] clone video entry form to start out
+- [x] clone video entry form to start out
