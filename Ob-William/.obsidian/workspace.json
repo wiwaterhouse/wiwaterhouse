@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Design Project Process.md",
+                "file": "2023-12-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Design Project Process.md",
+                "file": "2023-12-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Design Project Process.md",
+                "file": "2023-12-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Design Project Process.md"
+                "file": "2023-12-22.md"
               }
             }
           },
@@ -170,8 +170,9 @@
   },
   "active": "5517892f9c0d9a97",
   "lastOpenFiles": [
-    "2023-12-18.md",
     "Notes/Design Project Process.md",
+    "2023-12-22.md",
+    "2023-12-18.md",
     "Dailies/2023/12-Dec/2023-12-15.md",
     "Dailies/2023/12-Dec/2023-12-14.md",
     "Dailies/2023/11-Nov/2023-11-30.md",
@@ -196,7 +197,6 @@
     "Conferences/RX/RX2022/Triumph what to document pic.jpeg",
     "Conferences/RX/RX2022/The Model Map And Lava.md",
     "Conferences/RX/RX2022/RXKeynote.md",
-    "Conferences/RX/RX2022/Onboarding And Offboarding Using Project Management.md",
     "Dailies/2023/12-Dec",
     "Dailies/2023/11-Nov",
     "Dailies/2023",
