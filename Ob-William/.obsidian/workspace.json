@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ccc2138b89740dc3",
+        "id": "80e90b846f1c29fe",
         "type": "tabs",
         "children": [
           {
-            "id": "5517892f9c0d9a97",
+            "id": "b93ab5f383bfea53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-12-22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d049d935ffae70c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-12-18.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -81,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "101f4314985fc9f5",
@@ -98,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-22.md",
+                "file": "Dailies/2023/12-Dec/2023-12-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-22.md",
+                "file": "Dailies/2023/12-Dec/2023-12-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-22.md"
+                "file": "Dailies/2023/12-Dec/2023-12-15.md"
               }
             }
           },
@@ -168,12 +151,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5517892f9c0d9a97",
+  "active": "15e8499f84839779",
   "lastOpenFiles": [
-    "Notes/Design Project Process.md",
-    "2023-12-22.md",
-    "2023-12-18.md",
+    "Dailies/2023/12-Dec/2023-12-18.md",
     "Dailies/2023/12-Dec/2023-12-15.md",
+    "Dailies/2023/12-Dec/2023-12-22.md",
+    "Notes/Design Project Process.md",
     "Dailies/2023/12-Dec/2023-12-14.md",
     "Dailies/2023/11-Nov/2023-11-30.md",
     "Dailies/2023/11-Nov/2023-11-29.md",
