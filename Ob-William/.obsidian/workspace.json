@@ -11,8 +11,12 @@
             "id": "b93ab5f383bfea53",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-01-12.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dailies/2023/12-Dec/2023-12-15.md",
+                "file": "2024-01-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dailies/2023/12-Dec/2023-12-15.md",
+                "file": "2024-01-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dailies/2023/12-Dec/2023-12-15.md"
+                "file": "2024-01-12.md"
               }
             }
           },
@@ -151,12 +155,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15e8499f84839779",
+  "active": "b93ab5f383bfea53",
   "lastOpenFiles": [
-    "Dailies/2023/12-Dec/2023-12-18.md",
-    "Dailies/2023/12-Dec/2023-12-15.md",
-    "Dailies/2023/12-Dec/2023-12-22.md",
     "Notes/Design Project Process.md",
+    "2024-01-12.md",
+    "Quick Notes/Project Management Communication Strategy.md",
+    "Dailies/2023/12-Dec/2023-12-15.md",
+    "Dailies/2023/12-Dec/2023-12-18.md",
+    "Dailies/2023/12-Dec/2023-12-22.md",
     "Dailies/2023/12-Dec/2023-12-14.md",
     "Dailies/2023/11-Nov/2023-11-30.md",
     "Dailies/2023/11-Nov/2023-11-29.md",
@@ -178,8 +184,6 @@
     "Conferences/RX/RX2022/Utilizing Data Views To Empower Ministry.md",
     "Conferences/RX/RX2022/Using Rock Mobile To Make Resources And Bible Plans Easily Accessible.md",
     "Conferences/RX/RX2022/Triumph what to document pic.jpeg",
-    "Conferences/RX/RX2022/The Model Map And Lava.md",
-    "Conferences/RX/RX2022/RXKeynote.md",
     "Dailies/2023/12-Dec",
     "Dailies/2023/11-Nov",
     "Dailies/2023",
