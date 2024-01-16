@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-12.md",
+                "file": "Research/Outlook Classic Rendering Issues.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "design",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-12.md",
+                "file": "Research/Outlook Classic Rendering Issues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-12.md",
+                "file": "Research/Outlook Classic Rendering Issues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-12.md"
+                "file": "Research/Outlook Classic Rendering Issues.md"
               }
             }
           },
@@ -157,22 +157,25 @@
   },
   "active": "b93ab5f383bfea53",
   "lastOpenFiles": [
+    "New Quick Notes/2024/Jan/2024-01-12.md",
+    "Research/Outlook Classic Rendering Issues.md",
+    "New Quick Notes/2024/Jan",
+    "New Quick Notes/2024",
     "Notes/Design Project Process.md",
-    "2024-01-12.md",
     "Quick Notes/Project Management Communication Strategy.md",
-    "Dailies/2023/12-Dec/2023-12-15.md",
+    "New Quick Notes/2023/12-Dec/2023-12-15.md",
     "Dailies/2023/12-Dec/2023-12-18.md",
     "Dailies/2023/12-Dec/2023-12-22.md",
-    "Dailies/2023/12-Dec/2023-12-14.md",
-    "Dailies/2023/11-Nov/2023-11-30.md",
-    "Dailies/2023/11-Nov/2023-11-29.md",
-    "Dailies/2023/12-Dec/2023-12-01.md",
-    "Dailies/2023/12-Dec/2023-12-04.md",
-    "Dailies/2023/12-Dec/2023-12-06.md",
-    "Dailies/2023/12-Dec/2023-12-07.md",
-    "Dailies/2023/12-Dec/2023-12-08.md",
-    "Dailies/2023/12-Dec/2023-12-11.md",
-    "Dailies/2023/12-Dec/2023-12-12.md",
+    "New Quick Notes/2023/12-Dec/2023-12-14.md",
+    "New Quick Notes/2023/11-Nov/2023-11-30.md",
+    "New Quick Notes/2023/11-Nov/2023-11-29.md",
+    "New Quick Notes/2023/12-Dec/2023-12-01.md",
+    "New Quick Notes/2023/12-Dec/2023-12-04.md",
+    "New Quick Notes/2023/12-Dec/2023-12-06.md",
+    "New Quick Notes/2023/12-Dec/2023-12-07.md",
+    "New Quick Notes/2023/12-Dec/2023-12-08.md",
+    "New Quick Notes/2023/12-Dec/2023-12-11.md",
+    "New Quick Notes/2023/12-Dec/2023-12-12.md",
     "Conferences/RX/RX2022/Workshop4 - What To Do When Things Go Wrong.md",
     "Conferences/RX/RX2022/Workshop4-WhatToDoWhenThingsGoWrong.md",
     "Conferences/RX/RX2022/Workshop3 - SQL Best Practices.md",
@@ -182,18 +185,15 @@
     "Conferences/RX/RX2022/Workflows Best Practices.md",
     "Conferences/RX/RX2022/WorkflowsBestPractices.md",
     "Conferences/RX/RX2022/Utilizing Data Views To Empower Ministry.md",
-    "Conferences/RX/RX2022/Using Rock Mobile To Make Resources And Bible Plans Easily Accessible.md",
     "Conferences/RX/RX2022/Triumph what to document pic.jpeg",
-    "Dailies/2023/12-Dec",
-    "Dailies/2023/11-Nov",
-    "Dailies/2023",
+    "New Quick Notes/2023/12-Dec",
+    "New Quick Notes/2023/11-Nov",
+    "New Quick Notes/2023",
     "Conferences/CITN/CITN 2019/Office 365 Q_A.m4a",
     "Conferences/CITN/CITN 2019/IT Helpdesk Roundtable.m4a",
     "Conferences/CITN/CITN 2019/Practical Security.m4a",
     "Conferences/CITN/CITN 2019/Office Smorgasbord part 2.m4a",
     "Conferences/CITN/CITN 2019/Office Smorgasbord.m4a",
-    "Conferences/CITN/CITN 2019/Teams PBX Church IT Conference.m4a",
-    "Conferences/CITN/CITN 2019/Apple Q_A.m4a",
     "Research/Personal Data deletion request.png",
     "Research/COPPA example.png",
     "Quick Notes/Project Communication Screenshots/Screenshot 2023-02-06 at 11.50.50 AM.png",
