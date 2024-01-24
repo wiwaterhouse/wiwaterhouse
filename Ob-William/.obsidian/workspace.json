@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-16.md",
+                "file": "Random Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-16.md",
+                "file": "Random Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-16.md",
+                "file": "Random Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-16.md"
+                "file": "Random Notes.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "b93ab5f383bfea53",
   "lastOpenFiles": [
+    "Research/Ticketing Systems Comparison.md",
+    "Random Notes.md",
     "Research/Criteria for setting person inactive in Rock.md",
-    "2024-01-16.md",
     "Research/Outlook Classic Rendering Issues.md",
     "New Quick Notes/2024/Jan/2024-01-12.md",
     "New Quick Notes/2024/Jan",
@@ -184,7 +185,6 @@
     "Conferences/RX/RX2022/Workshop3-SQLBestPractices.md",
     "Conferences/RX/RX2022/Workshop2 - Security Best Practices.md",
     "Conferences/RX/RX2022/Workshop1 - Scaling Rock.md",
-    "Conferences/RX/RX2022/Workflows Best Practices.md",
     "Conferences/RX/RX2022/Triumph what to document pic.jpeg",
     "New Quick Notes/2023/12-Dec",
     "New Quick Notes/2023/11-Nov",

@@ -37,3 +37,10 @@ Notes for Ray on Friday:
 	- Does it include server-side processing?
 	- Is it possible to test server upgrades to improve processing?
 TIME IS CALCULATED with the stuff above it
+
+---
+Design Workflow/Project mods
+- Event/Class graphic - reword for the logo
+- Branding Project - REMOVE
+
+Checkboxes 
