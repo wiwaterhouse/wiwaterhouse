@@ -43,4 +43,4 @@ Design Workflow/Project mods
 - Event/Class graphic - reword for the logo
 - Branding Project - REMOVE
 
-Checkboxes 
+Separate out checkboxes into categories (print vs digital)
