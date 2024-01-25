@@ -44,3 +44,6 @@ Design Workflow/Project mods
 - Branding Project - REMOVE
 
 Separate out checkboxes into categories (print vs digital)
+- Add print, change first to digital
+	- Label as assets
+Add info alert box with timeline blurb from Jeanine (above checkboxes)
