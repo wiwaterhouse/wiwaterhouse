@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "101f4314985fc9f5",
@@ -155,10 +155,48 @@
       "command-palette:Open command palette": false
     }
   },
+  "floating": {
+    "id": "b2e4cc2e3fb70226",
+    "type": "floating",
+    "children": [
+      {
+        "id": "902f9da70fc2100c",
+        "type": "window",
+        "children": [
+          {
+            "id": "a239bfca1e18d8cc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "084e4fb5f6cb4b9e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Design Workflow Mods.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1279,
+        "y": 25,
+        "width": 641,
+        "height": 760,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "b93ab5f383bfea53",
   "lastOpenFiles": [
-    "Research/Ticketing Systems Comparison.md",
+    "Design Workflow Mods.md",
     "Random Notes.md",
+    "Research/Ticketing Systems Comparison.md",
     "Research/Criteria for setting person inactive in Rock.md",
     "Research/Outlook Classic Rendering Issues.md",
     "New Quick Notes/2024/Jan/2024-01-12.md",
@@ -184,7 +222,6 @@
     "Conferences/RX/RX2022/Workshop3 - SQL Best Practices.md",
     "Conferences/RX/RX2022/Workshop3-SQLBestPractices.md",
     "Conferences/RX/RX2022/Workshop2 - Security Best Practices.md",
-    "Conferences/RX/RX2022/Workshop1 - Scaling Rock.md",
     "Conferences/RX/RX2022/Triumph what to document pic.jpeg",
     "New Quick Notes/2023/12-Dec",
     "New Quick Notes/2023/11-Nov",
