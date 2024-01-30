@@ -47,3 +47,6 @@ Separate out checkboxes into categories (print vs digital)
 - Add print, change first to digital
 	- Label as assets
 Add info alert box with timeline blurb from Jeanine (above checkboxes)
+---
+- tech report for Rogers didn't send to Megan
+- Photo release language still on some registrations

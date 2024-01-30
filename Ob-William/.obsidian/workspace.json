@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Workflow Mods.md",
+                "file": "Random Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Workflow Mods.md",
+                "file": "Random Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Workflow Mods.md"
+                "file": "Random Notes.md"
               }
             }
           },
@@ -183,8 +183,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 1279,
-        "y": 25,
+        "x": 639,
+        "y": 143,
         "width": 641,
         "height": 760,
         "maximize": false,
@@ -192,10 +192,10 @@
       }
     ]
   },
-  "active": "084e4fb5f6cb4b9e",
+  "active": "15e8499f84839779",
   "lastOpenFiles": [
-    "Random Notes.md",
     "Design Workflow Mods.md",
+    "Random Notes.md",
     "Research/Ticketing Systems Comparison.md",
     "Research/Criteria for setting person inactive in Rock.md",
     "Research/Outlook Classic Rendering Issues.md",
