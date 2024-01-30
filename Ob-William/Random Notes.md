@@ -48,5 +48,13 @@ Separate out checkboxes into categories (print vs digital)
 	- Label as assets
 Add info alert box with timeline blurb from Jeanine (above checkboxes)
 ---
-- tech report for Rogers didn't send to Megan
-- Photo release language still on some registrations
+- [x] tech report for Rogers didn't send to Megan
+- [x] Photo release language still on some registrations
+
+Outlook Usage
+
+| Source | Percentage | Count | Total |
+| ---- | ---- | ---- | ---- |
+| Staff | 5% | 13 | 249 |
+| External, bulk | 0.12% | 10 | 8045 |
+| External, non-bulk | 0.39% | 6 | 1315 |
