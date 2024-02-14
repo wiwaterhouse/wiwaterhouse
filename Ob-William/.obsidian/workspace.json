@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random Notes.md",
+                "file": "All Staff Newsletter Mods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Random Notes.md",
+                "file": "All Staff Newsletter Mods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random Notes.md"
+                "file": "All Staff Newsletter Mods.md"
               }
             }
           },
@@ -183,21 +183,53 @@
           }
         ],
         "direction": "vertical",
-        "x": 579,
-        "y": 227,
+        "x": 639,
+        "y": 143,
         "width": 641,
         "height": 760,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "f1e73d3346c197ca",
+        "type": "window",
+        "children": [
+          {
+            "id": "9dab8e7bfa7b6dcb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0f14f07cf7d1fcf8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "All Staff Newsletter Mods.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 639,
+        "y": 163,
+        "width": 641,
+        "height": 720,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "eaebc23811675125",
+  "active": "0f14f07cf7d1fcf8",
   "lastOpenFiles": [
+    "All Staff Newsletter Mods.md",
+    "Design Workflow Mods.md",
+    "Random Notes.md",
     "Reservation Report for Bart.md",
     "Open Path Meeting.md",
-    "Random Notes.md",
-    "Design Workflow Mods.md",
     "New Quick Notes/2024/Jan/2024-01-12.md",
     "Research/Personal Data Handling.md",
     "Research/Personal Data deletion request.png",
@@ -222,7 +254,6 @@
     "New Quick Notes/2023/12-Dec/2023-12-11.md",
     "New Quick Notes/2023/12-Dec/2023-12-12.md",
     "Conferences/RX/RX2022/Workshop4 - What To Do When Things Go Wrong.md",
-    "Conferences/RX/RX2022/Workshop4-WhatToDoWhenThingsGoWrong.md",
     "Conferences/RX/RX2022/Triumph what to document pic.jpeg",
     "New Quick Notes/2023/12-Dec",
     "New Quick Notes/2023/11-Nov",
