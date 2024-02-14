@@ -5,4 +5,4 @@
 
 
 Blog page:
-preserve aspect ratio on mobile
+- [ ] preserve aspect ratio on mobile
