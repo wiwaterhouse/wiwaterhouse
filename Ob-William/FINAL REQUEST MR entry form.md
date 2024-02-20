@@ -5,6 +5,8 @@
 	- One blurb for the timeline for photos, no more alert box for video
 	- Change ministry and cong to single-select
 	- Add attribute for fay/rog/ben/mos CC
+	- Add project board
+		- Columns from Jeanie
 - Design
 	- Event/Class graphic - reword for the logo
 	- Branding Project - REMOVE
