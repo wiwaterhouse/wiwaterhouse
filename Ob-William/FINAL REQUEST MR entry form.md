@@ -3,13 +3,18 @@
 - Photo/Video
 	- Timelines on options
 	- One blurb for the timeline for photos, no more alert box for video
+	- Change ministry and cong to single-select
+	- Add attribute for fay/rog/ben/mos CC
 - Design
-	- Design Workflow/Project mods
-		- Event/Class graphic - reword for the logo
-		- Branding Project - REMOVE
+	- Event/Class graphic - reword for the logo
+	- Branding Project - REMOVE
 	- Separate out checkboxes into categories (print vs digital)
 		- Add print, change first to digital
 			- Label as assets
 	- Add info alert box with timeline blurb from Jeanine (above checkboxes)
+		- **Digital assets:** 2-4 weeks 
+			- thumbnails, social media graphics, email headers, slide packages, event/class graphic
+		- **Print assets:** 4-6 weeks (to allow for ordering/shipping time)
+			- post cards, banners/signage, t-shirt design, book/journal, flyers
 	- Add status attribute and add to project board
 		- WOC
