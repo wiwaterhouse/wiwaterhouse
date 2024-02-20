@@ -1,0 +1,7 @@
+- Combine them
+- Single entry form, single select for photo/video and design
+- Photo/Video
+	- Timelines on options
+	- One blurb for the timeline for photos, no more alert box for video
+- Design
+	- 
