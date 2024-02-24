@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3f007ef4d846642b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FINAL REQUEST MR entry form.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO TEMPLATE MODS.md",
+                "file": "FINAL REQUEST MR entry form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO TEMPLATE MODS.md",
+                "file": "FINAL REQUEST MR entry form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO TEMPLATE MODS.md"
+                "file": "FINAL REQUEST MR entry form.md"
               }
             }
           },
@@ -192,11 +180,59 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12826ff91fa073d6",
+  "floating": {
+    "id": "b2e4cc2e3fb70226",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6973aa8c7a09e1ba",
+        "type": "window",
+        "children": [
+          {
+            "id": "d230867224c7d65b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3f007ef4d846642b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "FINAL REQUEST MR entry form.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "72a2c7a2475f5541",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.5.8"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 1448,
+        "y": 323,
+        "width": 544,
+        "height": 760,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "72a2c7a2475f5541",
   "lastOpenFiles": [
-    "Random Notes.md",
-    "TODO TEMPLATE MODS.md",
     "All Staff Newsletter Mods.md",
+    "TODO TEMPLATE MODS.md",
+    "Random Notes.md",
     "New Quick Notes/2023/11-Nov/2023-11-30.md",
     "FINAL REQUEST MR entry form.md",
     "Design Workflow Mods.md",
