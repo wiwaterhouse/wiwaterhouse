@@ -196,8 +196,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 434,
-        "y": 123,
+        "x": 460,
+        "y": 136,
         "width": 544,
         "height": 760,
         "maximize": false,
@@ -227,8 +227,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 398,
-        "y": 146,
+        "x": -687,
+        "y": 171,
         "width": 763,
         "height": 760,
         "maximize": false,
