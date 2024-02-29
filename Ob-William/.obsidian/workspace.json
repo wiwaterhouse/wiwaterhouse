@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random Notes.md",
+                "file": "2024-02-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FINAL REQUEST MR entry form.md",
+                "file": "2024-02-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FINAL REQUEST MR entry form.md",
+                "file": "2024-02-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FINAL REQUEST MR entry form.md"
+                "file": "2024-02-29.md"
               }
             }
           },
@@ -203,24 +202,13 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "72a2c7a2475f5541",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.5.8"
-                  }
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 1448,
-        "y": 323,
+        "x": 688,
+        "y": 143,
         "width": 544,
         "height": 760,
         "maximize": false,
@@ -228,13 +216,14 @@
       }
     ]
   },
-  "active": "72a2c7a2475f5541",
+  "active": "eaebc23811675125",
   "lastOpenFiles": [
+    "Random Notes.md",
+    "2024-02-29.md",
+    "FINAL REQUEST MR entry form.md",
     "All Staff Newsletter Mods.md",
     "TODO TEMPLATE MODS.md",
-    "Random Notes.md",
     "New Quick Notes/2023/11-Nov/2023-11-30.md",
-    "FINAL REQUEST MR entry form.md",
     "Design Workflow Mods.md",
     "Reservation Report for Bart.md",
     "Open Path Meeting.md",
@@ -258,7 +247,6 @@
     "New Quick Notes/2023/12-Dec/2023-12-06.md",
     "New Quick Notes/2023/12-Dec/2023-12-07.md",
     "New Quick Notes/2023/12-Dec/2023-12-08.md",
-    "New Quick Notes/2023/12-Dec/2023-12-11.md",
     "Conferences/RX/RX2022/Triumph what to document pic.jpeg",
     "New Quick Notes/2023/12-Dec",
     "New Quick Notes/2023/11-Nov",
