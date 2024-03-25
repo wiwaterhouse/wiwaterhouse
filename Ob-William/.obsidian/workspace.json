@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive Notes/Random Notes.md",
+                "file": "New Quick Notes/2024-03-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive Notes/Random Notes.md",
+                "file": "New Quick Notes/2024-03-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive Notes/Random Notes.md",
+                "file": "New Quick Notes/2024-03-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive Notes/Random Notes.md"
+                "file": "New Quick Notes/2024-03-25.md"
               }
             }
           },
@@ -166,20 +166,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15e8499f84839779",
+  "active": "a446cf584918b2bf",
   "lastOpenFiles": [
+    "Templates/Daily template.md",
+    "New Quick Notes/2024-03-25.md",
     "ToDos/BnG Project Plugin Implementation.md",
+    "Archive Notes/Random Notes.md",
     "ToDos/TODO TEMPLATE MODS.md",
     "ToDos/Reservation Report for Bart.md",
     "ToDos/FINAL REQUEST MR entry form.md",
     "ToDos/All Staff Newsletter Mods.md",
-    "New Quick Notes/2024/3-Mar/2024-03-25.md",
     "Templates",
-    "Templates/Daily template.md",
     "New Quick Notes/2024/3-Mar/2024-03-20.md",
     "New Quick Notes/2024/3-Mar/2024-03-19.md",
     "New Quick Notes/2024/3-Mar/2024-03-14.md",
-    "Archive Notes/Random Notes.md",
     "Meetings/Open Path Meeting.md",
     "ToDos",
     "Notes/Design Workflow Mods.md",
@@ -197,7 +197,6 @@
     "Research/Personal Data deletion request.png",
     "Research/Ticketing Systems Comparison.md",
     "Research/Criteria for setting person inactive in Rock.md",
-    "Research/Outlook Classic Rendering Issues.md",
     "New Quick Notes/2024/1-Jan",
     "New Quick Notes/2024",
     "Conferences/RX/RX2022/Triumph what to document pic.jpeg",

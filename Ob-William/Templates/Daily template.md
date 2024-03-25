@@ -1,5 +1,5 @@
-# Weekly Tasks
-- [ ] 
+# Weekly Priorities
+- 
 # Daily Tasks
 - [ ] 
 ---
