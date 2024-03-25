@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-25.md",
+                "file": "Archive Notes/Random Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BnG Project Plugin Implementation.md",
+                "file": "ToDos/BnG Project Plugin Implementation.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-25.md",
+                "file": "Archive Notes/Random Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-25.md",
+                "file": "Archive Notes/Random Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-25.md"
+                "file": "Archive Notes/Random Notes.md"
               }
             }
           },
@@ -166,19 +166,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a446cf584918b2bf",
+  "active": "15e8499f84839779",
   "lastOpenFiles": [
-    "BnG Project Plugin Implementation.md",
-    "2024-03-25.md",
+    "ToDos/BnG Project Plugin Implementation.md",
+    "ToDos/TODO TEMPLATE MODS.md",
+    "ToDos/Reservation Report for Bart.md",
+    "ToDos/FINAL REQUEST MR entry form.md",
+    "ToDos/All Staff Newsletter Mods.md",
+    "New Quick Notes/2024/3-Mar/2024-03-25.md",
+    "Templates",
+    "Templates/Daily template.md",
     "New Quick Notes/2024/3-Mar/2024-03-20.md",
     "New Quick Notes/2024/3-Mar/2024-03-19.md",
     "New Quick Notes/2024/3-Mar/2024-03-14.md",
-    "ToDos/FINAL REQUEST MR entry form.md",
-    "ToDos/TODO TEMPLATE MODS.md",
-    "ToDos/Reservation Report for Bart.md",
-    "Random Notes.md",
+    "Archive Notes/Random Notes.md",
     "Meetings/Open Path Meeting.md",
-    "ToDos/All Staff Newsletter Mods.md",
     "ToDos",
     "Notes/Design Workflow Mods.md",
     "New Quick Notes/2024/3-Mar/2024-03-01.md",
@@ -198,14 +200,11 @@
     "Research/Outlook Classic Rendering Issues.md",
     "New Quick Notes/2024/1-Jan",
     "New Quick Notes/2024",
-    "Notes/Design Project Process.md",
-    "Notes/Quick Notes/Project Management Communication Strategy.md",
     "Conferences/RX/RX2022/Triumph what to document pic.jpeg",
     "New Quick Notes/2023/12-Dec",
     "New Quick Notes/2023/11-Nov",
     "New Quick Notes/2023",
     "Conferences/CITN/CITN 2019/Office 365 Q_A.m4a",
-    "Conferences/CITN/CITN 2019/IT Helpdesk Roundtable.m4a",
     "Research/COPPA example.png",
     "Notes/Quick Notes/Project Communication Screenshots/Screenshot 2023-02-06 at 11.50.50 AM.png",
     "Notes/Quick Notes/Project Communication Screenshots/Screenshot 2023-02-06 at 11.50.45 AM.png",
