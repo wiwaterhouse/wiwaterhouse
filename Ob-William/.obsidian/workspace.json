@@ -8,24 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a446cf584918b2bf",
+            "id": "1b528bf1578a6565",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Quick Notes/2024-03-25.md",
+                "file": "New Quick Notes/2024-03-26.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "1b528bf1578a6565",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
               }
             }
           },
@@ -41,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Quick Notes/2024-03-25.md",
+                "file": "New Quick Notes/2024-03-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Quick Notes/2024-03-25.md",
+                "file": "New Quick Notes/2024-03-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Quick Notes/2024-03-25.md"
+                "file": "New Quick Notes/2024-03-26.md"
               }
             }
           },
@@ -179,8 +168,9 @@
   },
   "active": "1b528bf1578a6565",
   "lastOpenFiles": [
+    "New Quick Notes/2024/3-Mar/2024-03-25.md",
+    "New Quick Notes/2024-03-26.md",
     "Templates/Daily template.md",
-    "New Quick Notes/2024-03-25.md",
     "ToDos/BnG Project Plugin Implementation.md",
     "Archive Notes/Random Notes.md",
     "ToDos/TODO TEMPLATE MODS.md",
