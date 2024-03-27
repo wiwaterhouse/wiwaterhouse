@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Quick Notes/2024-03-26.md",
+                "file": "New Quick Notes/2024-03-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Quick Notes/2024-03-26.md",
+                "file": "New Quick Notes/2024-03-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Quick Notes/2024-03-26.md",
+                "file": "New Quick Notes/2024-03-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Quick Notes/2024-03-26.md"
+                "file": "New Quick Notes/2024-03-27.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "1b528bf1578a6565",
   "lastOpenFiles": [
-    "New Quick Notes/2024/3-Mar/2024-03-25.md",
     "New Quick Notes/2024-03-26.md",
+    "New Quick Notes/2024-03-27.md",
+    "New Quick Notes/2024/3-Mar/2024-03-25.md",
     "Templates/Daily template.md",
     "ToDos/BnG Project Plugin Implementation.md",
     "Archive Notes/Random Notes.md",
