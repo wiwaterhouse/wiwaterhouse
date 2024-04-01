@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Quick Notes/2024-03-29.md",
+                "file": "New Quick Notes/2024/3-Mar/2024-03-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c11ba63782190b6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Quick Notes/2024-04-01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Quick Notes/2024-03-29.md",
+                "file": "New Quick Notes/2024-04-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Quick Notes/2024-03-29.md",
+                "file": "New Quick Notes/2024-04-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Quick Notes/2024-03-29.md"
+                "file": "New Quick Notes/2024-04-01.md"
               }
             }
           },
@@ -166,10 +179,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b528bf1578a6565",
+  "active": "c11ba63782190b6b",
   "lastOpenFiles": [
-    "New Quick Notes/2024-03-28.md",
-    "New Quick Notes/2024-03-29.md",
+    "Asset Essentials Features and Overview.md",
+    "New Quick Notes/2024-04-01.md",
+    "New Quick Notes/2024/4-Apr",
+    "New Quick Notes/2024/3-Mar/2024-03-29.md",
+    "New Quick Notes/2024/3-Mar/2024-03-28.md",
     "New Quick Notes/2024/3-Mar/2024-03-27.md",
     "New Quick Notes/2024/3-Mar/2024-03-26.md",
     "New Quick Notes/2024/3-Mar/2024-03-25.md",
@@ -196,8 +212,6 @@
     "New Quick Notes/2024/2-Feb",
     "New Quick Notes/2024/2-Feb/2024-02-29.md",
     "New Quick Notes/2023/11-Nov/2023-11-30.md",
-    "New Quick Notes/2024/1-Jan/2024-01-12.md",
-    "Research/Personal Data Handling.md",
     "Research/Personal Data deletion request.png",
     "New Quick Notes/2024/1-Jan",
     "New Quick Notes/2024",
@@ -205,7 +219,6 @@
     "New Quick Notes/2023/12-Dec",
     "New Quick Notes/2023/11-Nov",
     "New Quick Notes/2023",
-    "Conferences/CITN/CITN 2019/Office 365 Q_A.m4a",
     "Research/COPPA example.png",
     "Notes/Quick Notes/Project Communication Screenshots/Screenshot 2023-02-06 at 11.50.50 AM.png",
     "Notes/Quick Notes/Project Communication Screenshots/Screenshot 2023-02-06 at 11.50.45 AM.png",
