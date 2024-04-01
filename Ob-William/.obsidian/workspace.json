@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Quick Notes/2024-04-01.md",
+                "file": "Asset Essentials Features and Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Quick Notes/2024-04-01.md",
+                "file": "Asset Essentials Features and Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Quick Notes/2024-04-01.md"
+                "file": "Asset Essentials Features and Overview.md"
               }
             }
           },
@@ -179,18 +178,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c11ba63782190b6b",
+  "floating": {
+    "id": "c460e890a9d459bb",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6aa473b541d95928",
+        "type": "window",
+        "children": [
+          {
+            "id": "00b2c9e53a83a69f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "406ded6bddd05e73",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Asset Essentials Features and Overview.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 84,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 2.5
+      }
+    ]
+  },
+  "active": "406ded6bddd05e73",
   "lastOpenFiles": [
+    "New Quick Notes/2024/3-Mar/2024-03-29.md",
     "Asset Essentials Features and Overview.md",
+    "ToDos/BnG Project Plugin Implementation.md",
     "New Quick Notes/2024-04-01.md",
     "New Quick Notes/2024/4-Apr",
-    "New Quick Notes/2024/3-Mar/2024-03-29.md",
     "New Quick Notes/2024/3-Mar/2024-03-28.md",
     "New Quick Notes/2024/3-Mar/2024-03-27.md",
     "New Quick Notes/2024/3-Mar/2024-03-26.md",
     "New Quick Notes/2024/3-Mar/2024-03-25.md",
     "Templates/Daily template.md",
-    "ToDos/BnG Project Plugin Implementation.md",
     "Archive Notes/Random Notes.md",
     "ToDos/TODO TEMPLATE MODS.md",
     "ToDos/Reservation Report for Bart.md",

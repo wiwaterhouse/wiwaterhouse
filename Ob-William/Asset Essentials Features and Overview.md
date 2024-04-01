@@ -1,5 +1,6 @@
 Meeting with Steve Wood:
 
+### Current Features
 Asset Essentials:
 - Scheduled maintenance creates new tasks
 - Labor hour tracking per person
@@ -17,8 +18,8 @@ Asset Essentials:
 	- Parts and purchase orders
 - Full team access definitions
 
-### Cons
-- Inbetween permissions limiting
+### Limitations
+- In-between permissions limiting
 - auto-assign not working in an ideal way
 - search is clunky
 - mobile app frustrating to use
