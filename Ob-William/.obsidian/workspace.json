@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Quick Notes/2024-04-02.md",
+                "file": "New Quick Notes/2024-04-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Quick Notes/2024-04-02.md",
+                "file": "New Quick Notes/2024-04-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Quick Notes/2024-04-02.md",
+                "file": "New Quick Notes/2024-04-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Quick Notes/2024-04-02.md"
+                "file": "New Quick Notes/2024-04-03.md"
               }
             }
           },
@@ -178,10 +178,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b528bf1578a6565",
+  "active": "15e8499f84839779",
   "lastOpenFiles": [
+    "New Quick Notes/2024/4-Apr/2024-04-02.md",
+    "New Quick Notes/2024-04-03.md",
     "New Quick Notes/2024/4-Apr/2024-04-01.md",
-    "New Quick Notes/2024-04-02.md",
     "Deep Work/Windows 10 Guide.md",
     "Deep Work/Mac 101.md",
     "Deep Work/Learning.md",
@@ -208,7 +209,6 @@
     "Meetings/Open Path Meeting.md",
     "ToDos",
     "Notes/Design Workflow Mods.md",
-    "New Quick Notes/2024/3-Mar/2024-03-01.md",
     "New Quick Notes/2024/3-Mar",
     "New Quick Notes/2024/2-Feb",
     "Research/Personal Data deletion request.png",
