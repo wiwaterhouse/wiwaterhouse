@@ -33,6 +33,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "0b893d877a94c8ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c873dae17adc0f65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events2HVAC Documentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +168,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -168,8 +187,9 @@
   },
   "active": "c11ba63782190b6b",
   "lastOpenFiles": [
-    "New Quick Notes/2024/4-Apr/2024-04-15.md",
+    "Events2HVAC Documentation.md",
     "New Quick Notes/2024-04-16.md",
+    "New Quick Notes/2024/4-Apr/2024-04-15.md",
     "ToDos/BnG Project Plugin Implementation.md",
     "New Quick Notes/2024/4-Apr/2024-04-09.md",
     "New Quick Notes/2024/4-Apr/2024-04-05.md",
@@ -194,7 +214,6 @@
     "ToDos/TODO TEMPLATE MODS.md",
     "ToDos/Reservation Report for Bart.md",
     "ToDos/FINAL REQUEST MR entry form.md",
-    "ToDos/All Staff Newsletter Mods.md",
     "Templates",
     "ToDos",
     "New Quick Notes/2024/3-Mar",
