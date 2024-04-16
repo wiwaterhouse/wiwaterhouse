@@ -12,6 +12,6 @@
 			4. SQL Express
 			5. Subsplash desktop (Events2HVAC remote access)
 			6. FBCAdmin local user created in LastPass
-			7. Events2HVAC local user created in LastPass
+			7. Streamside local user created in LastPass
 	2. Networking
 	3. Storage
