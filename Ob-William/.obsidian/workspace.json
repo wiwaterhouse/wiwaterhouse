@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Quick Notes/2024-04-09.md",
+                "file": "New Quick Notes/2024-04-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Quick Notes/2024-04-09.md",
+                "file": "ToDos/BnG Project Plugin Implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Quick Notes/2024-04-09.md",
+                "file": "ToDos/BnG Project Plugin Implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Quick Notes/2024-04-09.md"
+                "file": "ToDos/BnG Project Plugin Implementation.md"
               }
             }
           },
@@ -167,10 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c11ba63782190b6b",
+  "active": "15e8499f84839779",
   "lastOpenFiles": [
+    "New Quick Notes/2024/4-Apr/2024-04-09.md",
+    "New Quick Notes/2024-04-15.md",
     "New Quick Notes/2024/4-Apr/2024-04-05.md",
-    "New Quick Notes/2024-04-09.md",
     "ToDos/BnG Project Plugin Implementation.md",
     "New Quick Notes/2024/4-Apr/2024-04-04.md",
     "New Quick Notes/2024/4-Apr/2024-04-01.md",
@@ -196,7 +197,6 @@
     "ToDos/All Staff Newsletter Mods.md",
     "Templates",
     "New Quick Notes/2024/3-Mar/2024-03-20.md",
-    "New Quick Notes/2024/3-Mar/2024-03-19.md",
     "ToDos",
     "New Quick Notes/2024/3-Mar",
     "New Quick Notes/2024/2-Feb",
