@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15e8499f84839779",
+  "active": "c11ba63782190b6b",
   "lastOpenFiles": [
     "New Quick Notes/2024/4-Apr/2024-04-15.md",
     "New Quick Notes/2024-04-16.md",
