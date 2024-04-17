@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Quick Notes/2024-04-17.md",
+                "file": "New Quick Notes/2024-04-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "generic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Quick Notes/2024-04-17.md",
+                "file": "New Quick Notes/2024-04-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Quick Notes/2024-04-17.md",
+                "file": "New Quick Notes/2024-04-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Quick Notes/2024-04-17.md"
+                "file": "New Quick Notes/2024-04-22.md"
               }
             }
           },
@@ -185,10 +186,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15e8499f84839779",
+  "active": "ce78ed8de5c7f2c4",
   "lastOpenFiles": [
-    "New Quick Notes/2024/4-Apr/2024-04-16.md",
     "New Quick Notes/2024-04-17.md",
+    "New Quick Notes/2024-04-22.md",
+    "New Quick Notes/2024/4-Apr/2024-04-16.md",
     "Events2HVAC Documentation.md",
     "New Quick Notes/2024/4-Apr/2024-04-15.md",
     "ToDos/BnG Project Plugin Implementation.md",
@@ -213,7 +215,6 @@
     "Templates/Daily template.md",
     "Archive Notes/Random Notes.md",
     "ToDos/TODO TEMPLATE MODS.md",
-    "ToDos/Reservation Report for Bart.md",
     "Templates",
     "ToDos",
     "New Quick Notes/2024/3-Mar",
