@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Quick Notes/2024-04-16.md",
+                "file": "New Quick Notes/2024-04-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events2HVAC Documentation.md",
+                "file": "New Quick Notes/2024-04-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events2HVAC Documentation.md",
+                "file": "New Quick Notes/2024-04-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events2HVAC Documentation.md"
+                "file": "New Quick Notes/2024-04-17.md"
               }
             }
           },
@@ -185,9 +185,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c873dae17adc0f65",
+  "active": "15e8499f84839779",
   "lastOpenFiles": [
-    "New Quick Notes/2024-04-16.md",
+    "New Quick Notes/2024/4-Apr/2024-04-16.md",
+    "New Quick Notes/2024-04-17.md",
     "Events2HVAC Documentation.md",
     "New Quick Notes/2024/4-Apr/2024-04-15.md",
     "ToDos/BnG Project Plugin Implementation.md",
@@ -213,7 +214,6 @@
     "Archive Notes/Random Notes.md",
     "ToDos/TODO TEMPLATE MODS.md",
     "ToDos/Reservation Report for Bart.md",
-    "ToDos/FINAL REQUEST MR entry form.md",
     "Templates",
     "ToDos",
     "New Quick Notes/2024/3-Mar",
