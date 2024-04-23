@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Quick Notes/2024-04-22.md",
+                "file": "New Quick Notes/2024-04-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Quick Notes/2024-04-22.md",
+                "file": "New Quick Notes/2024-04-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Quick Notes/2024-04-22.md",
+                "file": "New Quick Notes/2024-04-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Quick Notes/2024-04-22.md"
+                "file": "New Quick Notes/2024-04-23.md"
               }
             }
           },
@@ -193,10 +193,12 @@
   },
   "active": "21d81ff8a5a0576f",
   "lastOpenFiles": [
+    "Templates/Daily template.md",
+    "New Quick Notes/2024-04-23.md",
+    "New Quick Notes/2024/4-Apr/2024-04-22.md",
     "Meetings/Events2HVAC Next Steps.md",
     "Meetings/Events2HVAC Documentation.md",
     "New Quick Notes/2024/4-Apr/2024-04-19.md",
-    "New Quick Notes/2024-04-22.md",
     "New Quick Notes/2024/4-Apr/2024-04-18.md",
     "ToDos/BnG Project Plugin Implementation.md",
     "New Quick Notes/2024/4-Apr/2024-04-17.md",
@@ -218,8 +220,6 @@
     "Asset Essentials Features and Overview.md",
     "New Quick Notes/2024/4-Apr",
     "New Quick Notes/2024/3-Mar/2024-03-27.md",
-    "New Quick Notes/2024/3-Mar/2024-03-26.md",
-    "New Quick Notes/2024/3-Mar/2024-03-25.md",
     "Templates",
     "ToDos",
     "New Quick Notes/2024/3-Mar",
