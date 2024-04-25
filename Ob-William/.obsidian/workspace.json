@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025 PFS Draft.md",
+                "file": "New Quick Notes/2024-04-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025 PFS Draft.md",
+                "file": "New Quick Notes/2024-04-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025 PFS Draft.md"
+                "file": "New Quick Notes/2024-04-25.md"
               }
             }
           },
@@ -196,7 +196,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "128d03f31e967d0c",
+  "active": "21d81ff8a5a0576f",
   "lastOpenFiles": [
     "2025 PFS Draft.md",
     "New Quick Notes/2024-04-25.md",
