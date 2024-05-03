@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,7 +179,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15e8499f84839779",
+  "active": "21d81ff8a5a0576f",
   "lastOpenFiles": [
     "New Quick Notes/2024/5-May",
     "Meetings/Events2HVAC Documentation.md",
