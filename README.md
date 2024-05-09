@@ -1,4 +1,4 @@
-- 👋 Hi, I’m William Waterhouse
+- 👋 Hi, I’m William
 - 👀 I’m interested in learning more about open-source code and software development!
 - 🌱 I’m currently learning SQL, HTML, CSS, JavaScript and VSCode
 - 💞️ I’m looking to collaborate on projects around [Rock](https://github.com/SparkDevNetwork/Rock), an open-source ChMS!
