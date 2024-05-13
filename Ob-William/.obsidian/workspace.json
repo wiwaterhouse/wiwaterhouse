@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Quick Notes/2024-05-09.md",
+                "file": "New Quick Notes/2024-05-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Quick Notes/2024-05-09.md",
+                "file": "New Quick Notes/2024-05-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Quick Notes/2024-05-09.md",
+                "file": "New Quick Notes/2024-05-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Quick Notes/2024-05-09.md"
+                "file": "New Quick Notes/2024-05-13.md"
               }
             }
           },
@@ -179,10 +179,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15e8499f84839779",
+  "active": "21d81ff8a5a0576f",
   "lastOpenFiles": [
-    "New Quick Notes/2024/5-May/2024-05-06.md",
     "New Quick Notes/2024-05-09.md",
+    "New Quick Notes/2024-05-13.md",
+    "New Quick Notes/2024/5-May/2024-05-06.md",
     "New Quick Notes/2024/5-May/2024-05-01.md",
     "New Quick Notes/2024/5-May",
     "Meetings/Events2HVAC Documentation.md",
@@ -207,7 +208,6 @@
     "Deep Work/Windows 10 Guide.md",
     "Deep Work/Mac 101.md",
     "Deep Work/Learning.md",
-    "Deep Work/KnowBe4 Training Videos.md",
     "New Quick Notes/2024/4-Apr",
     "Templates",
     "ToDos",
