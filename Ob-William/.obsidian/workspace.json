@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Quick Notes/2024-06-12.md",
+                "file": "New Quick Notes/2024-06-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Quick Notes/2024-06-12.md",
+                "file": "New Quick Notes/2024-06-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Quick Notes/2024-06-12.md",
+                "file": "New Quick Notes/2024-06-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Quick Notes/2024-06-12.md"
+                "file": "New Quick Notes/2024-06-14.md"
               }
             }
           },
@@ -171,8 +171,9 @@
   },
   "active": "c873dae17adc0f65",
   "lastOpenFiles": [
-    "New Quick Notes/2024-06-11.md",
     "New Quick Notes/2024-06-12.md",
+    "New Quick Notes/2024-06-14.md",
+    "New Quick Notes/2024-06-11.md",
     "ToDos/BnG Project Plugin Implementation.md",
     "Alta Open Rollout.md",
     "Meetings/Events2HVAC Documentation.md",
@@ -198,7 +199,6 @@
     "New Quick Notes/2024/4-Apr/2024-04-17.md",
     "New Quick Notes/2024/4-Apr/2024-04-16.md",
     "New Quick Notes/2024/4-Apr/2024-04-15.md",
-    "New Quick Notes/2024/4-Apr/2024-04-09.md",
     "New Quick Notes/2024/4-Apr",
     "Templates",
     "ToDos",
