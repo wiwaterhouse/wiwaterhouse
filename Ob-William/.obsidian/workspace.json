@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "afd2da356e07f899",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,7 +179,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c873dae17adc0f65",
+  "active": "afd2da356e07f899",
   "lastOpenFiles": [
     "New Quick Notes/2024-06-14.md",
     "New Quick Notes/2024-06-17.md",
