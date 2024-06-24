@@ -25,24 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Quick Notes/2024-06-17.md",
+                "file": "New Quick Notes/2024-06-24.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "afd2da356e07f899",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Quick Notes/2024-06-17.md",
+                "file": "New Quick Notes/2024-06-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Quick Notes/2024-06-17.md",
+                "file": "New Quick Notes/2024-06-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Quick Notes/2024-06-17.md"
+                "file": "New Quick Notes/2024-06-24.md"
               }
             }
           },
@@ -179,10 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afd2da356e07f899",
+  "active": "c873dae17adc0f65",
   "lastOpenFiles": [
-    "New Quick Notes/2024-06-14.md",
     "New Quick Notes/2024-06-17.md",
+    "New Quick Notes/2024-06-24.md",
+    "New Quick Notes/2024-06-14.md",
     "New Quick Notes/2024-06-12.md",
     "New Quick Notes/2024-06-11.md",
     "ToDos/BnG Project Plugin Implementation.md",
@@ -208,7 +199,6 @@
     "Meetings/Events2HVAC Next Steps.md",
     "New Quick Notes/2024/4-Apr/2024-04-18.md",
     "New Quick Notes/2024/4-Apr/2024-04-17.md",
-    "New Quick Notes/2024/4-Apr/2024-04-16.md",
     "New Quick Notes/2024/4-Apr",
     "Templates",
     "ToDos",
