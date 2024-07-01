@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "acce18e96bc091cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alta Open.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a502d0b6e6013aee",
             "type": "leaf",
             "state": {
@@ -179,11 +191,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15e8499f84839779",
+  "active": "0d21aee5b8e36120",
   "lastOpenFiles": [
-    "New Quick Notes/2024/7-Jul",
     "Christy back from vacay.md",
     "New Quick Notes/2024-07-01.md",
+    "Alta Open.md",
+    "New Quick Notes/2024/7-Jul",
     "iPad Kiosk Setup and Config.md",
     "New Quick Notes/2024/6-Jun/2024-06-26.md",
     "New Quick Notes/2024/6-Jun/2024-06-25.md",
@@ -218,7 +231,6 @@
     "New Quick Notes/2024/1-Jan",
     "New Quick Notes/2024",
     "Conferences/RX/RX2022/Triumph what to document pic.jpeg",
-    "New Quick Notes/2023/12-Dec",
     "Notes/Research/COPPA example.png",
     "Notes/Quick Notes/Project Communication Screenshots/Screenshot 2023-02-06 at 11.50.50 AM.png",
     "Notes/Quick Notes/Project Communication Screenshots/Screenshot 2023-02-06 at 11.50.45 AM.png",
