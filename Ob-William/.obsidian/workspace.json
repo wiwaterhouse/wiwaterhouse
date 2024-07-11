@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Quick Notes/2024-07-09.md",
+                "file": "New Quick Notes/2024-07-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Quick Notes/2024-07-09.md",
+                "file": "Christy back from vacay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Quick Notes/2024-07-09.md",
+                "file": "Christy back from vacay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Quick Notes/2024-07-09.md"
+                "file": "Christy back from vacay.md"
               }
             }
           },
@@ -179,10 +180,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d21aee5b8e36120",
+  "active": "ee9e4a2daba7fc2e",
   "lastOpenFiles": [
-    "New Quick Notes/2024-07-08.md",
-    "New Quick Notes/2024-07-09.md",
+    "New Quick Notes/2024-07-11.md",
+    "New Quick Notes/2024/7-Jul/2024-07-09.md",
+    "New Quick Notes/2024/7-Jul/2024-07-08.md",
     "Christy back from vacay.md",
     "iPad Kiosk Setup and Config.md",
     "New Quick Notes/2024/7-Jul/2024-07-02.md",
@@ -208,7 +210,6 @@
     "New Quick Notes/2024/5-May/2024-05-13.md",
     "New Quick Notes/2024/5-May/2024-05-09.md",
     "New Quick Notes/2024/6-Jun",
-    "New Quick Notes/2024/5-May/2024-05-06.md",
     "New Quick Notes/2024/5-May",
     "New Quick Notes/2024/4-Apr",
     "New Quick Notes/Templates",
