@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Christy back from vacay.md",
+                "file": "New Quick Notes/2024-07-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Christy back from vacay.md",
+                "file": "New Quick Notes/2024-07-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Christy back from vacay.md"
+                "file": "New Quick Notes/2024-07-11.md"
               }
             }
           },
@@ -180,12 +179,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee9e4a2daba7fc2e",
+  "active": "0d21aee5b8e36120",
   "lastOpenFiles": [
+    "Christy back from vacay.md",
     "New Quick Notes/2024-07-11.md",
     "New Quick Notes/2024/7-Jul/2024-07-09.md",
     "New Quick Notes/2024/7-Jul/2024-07-08.md",
-    "Christy back from vacay.md",
     "iPad Kiosk Setup and Config.md",
     "New Quick Notes/2024/7-Jul/2024-07-02.md",
     "New Quick Notes/2024/7-Jul/2024-07-01.md",
