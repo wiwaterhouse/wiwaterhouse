@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unleashing the Power of Content Channels for Dynamic Event Websites.md",
+                "file": "Conferences/RX/RX2024/Unleashing the Power of Content Channels for Dynamic Event Websites.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unleashing the Power of Content Channels for Dynamic Event Websites.md",
+                "file": "Conferences/RX/RX2024/Unleashing the Power of Content Channels for Dynamic Event Websites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unleashing the Power of Content Channels for Dynamic Event Websites.md",
+                "file": "Conferences/RX/RX2024/Unleashing the Power of Content Channels for Dynamic Event Websites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unleashing the Power of Content Channels for Dynamic Event Websites.md"
+                "file": "Conferences/RX/RX2024/Unleashing the Power of Content Channels for Dynamic Event Websites.md"
               }
             }
           },
@@ -170,13 +170,15 @@
   },
   "active": "fa3646c1c285f3ef",
   "lastOpenFiles": [
-    "Notes/iPad Kiosk Setup and Config.md",
-    "Unleashing the Power of Content Channels for Dynamic Event Websites.md",
-    "Persisted Datasets & Rigging.md",
+    "Conferences/RX/RX2024/Dive Into Shortcodes.md",
+    "Conferences/RX/RX2024/Rock Star Meeting.md",
+    "Conferences/RX/RX2024/Unleashing the Power of Content Channels for Dynamic Event Websites.md",
+    "Conferences/RX/RX2024/Persisted Datasets & Rigging.md",
     "Conferences/RX/RX2024/HTML 101.md",
     "Conferences/RX/RX2024/Rock Your Ops.md",
-    "New Quick Notes/2024-08-05.md",
     "Conferences/RX/RX2024/Guided Comm Discussions.md",
+    "Notes/iPad Kiosk Setup and Config.md",
+    "New Quick Notes/2024-08-05.md",
     "Conferences/RX/RX2024",
     "New Quick Notes/2024/7-Jul/2024-07-25.md",
     "Notes/Christy back from vacay.md",
@@ -197,8 +199,6 @@
     "New Quick Notes/2024/6-Jun/2024-06-26.md",
     "New Quick Notes/2024/6-Jun/2024-06-25.md",
     "New Quick Notes/2024/6-Jun/2024-06-24.md",
-    "New Quick Notes/2024/6-Jun/2024-06-11.md",
-    "ToDos/BnG Project Plugin Implementation.md",
     "New Quick Notes/2024/6-Jun",
     "New Quick Notes/2024/5-May",
     "New Quick Notes/2024/4-Apr",
