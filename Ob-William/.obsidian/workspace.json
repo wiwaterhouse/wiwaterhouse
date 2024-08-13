@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "ad41b5a2f33b0c28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conferences/RX/RX2024/Guided Comm Discussions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a502d0b6e6013aee",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Quick Notes/2024-08-05.md",
+                "file": "Conferences/RX/RX2024/Guided Comm Discussions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Quick Notes/2024-08-05.md",
+                "file": "Conferences/RX/RX2024/Guided Comm Discussions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Quick Notes/2024-08-05.md"
+                "file": "Conferences/RX/RX2024/Guided Comm Discussions.md"
               }
             }
           },
@@ -167,10 +180,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d21aee5b8e36120",
+  "active": "ad41b5a2f33b0c28",
   "lastOpenFiles": [
-    "New Quick Notes/2024/7-Jul/2024-07-25.md",
+    "Conferences/RX/RX2024",
     "New Quick Notes/2024-08-05.md",
+    "Conferences/RX/RX2024/Guided Comm Discussions.md",
+    "New Quick Notes/2024/7-Jul/2024-07-25.md",
     "iPad Kiosk Setup and Config.md",
     "Christy back from vacay.md",
     "New Quick Notes/2024/8-Aug",
@@ -195,8 +210,6 @@
     "New Quick Notes/Templates/Daily template.md",
     "New Quick Notes/2024/6-Jun/2024-06-17.md",
     "New Quick Notes/2024/6-Jun/2024-06-14.md",
-    "New Quick Notes/2024/6-Jun/2024-06-12.md",
-    "Alta Open Rollout.md",
     "New Quick Notes/2024/6-Jun",
     "New Quick Notes/2024/5-May",
     "New Quick Notes/2024/4-Apr",
