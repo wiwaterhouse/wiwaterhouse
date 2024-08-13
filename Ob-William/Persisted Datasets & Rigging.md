@@ -25,4 +25,4 @@ Rigging patterns
 		- use category ID in the rigging persisted dataset template
 		- can create a page and limit the block to the category
 	- Can build control panels by defining the persisted dataset that is driving the buttons on the page
-	- 
+- Can refresh datasets with a workflow action
