@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "20432ee5414afb3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conferences/RX/RX2024/Rock Your Ops.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a502d0b6e6013aee",
             "type": "leaf",
             "state": {
@@ -30,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "33597fa23f80ff4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conferences/RX/RX2024/HTML 101.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conferences/RX/RX2024/Rock Your Ops.md",
+                "file": "Conferences/RX/RX2024/HTML 101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conferences/RX/RX2024/Rock Your Ops.md",
+                "file": "Conferences/RX/RX2024/HTML 101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conferences/RX/RX2024/Rock Your Ops.md"
+                "file": "Conferences/RX/RX2024/HTML 101.md"
               }
             }
           },
@@ -167,14 +168,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20432ee5414afb3b",
+  "active": "15e8499f84839779",
   "lastOpenFiles": [
+    "Notes/iPad Kiosk Setup and Config.md",
+    "Conferences/RX/RX2024/HTML 101.md",
+    "Conferences/RX/RX2024/Rock Your Ops.md",
     "New Quick Notes/2024-08-05.md",
     "Conferences/RX/RX2024/Guided Comm Discussions.md",
-    "Conferences/RX/RX2024/Rock Your Ops.md",
     "Conferences/RX/RX2024",
     "New Quick Notes/2024/7-Jul/2024-07-25.md",
-    "Notes/iPad Kiosk Setup and Config.md",
     "Notes/Christy back from vacay.md",
     "New Quick Notes/2024/8-Aug",
     "New Quick Notes/2024/7-Jul/2024-07-22.md",
@@ -197,7 +199,6 @@
     "ToDos/BnG Project Plugin Implementation.md",
     "New Quick Notes/Templates/Daily template.md",
     "New Quick Notes/2024/6-Jun/2024-06-17.md",
-    "New Quick Notes/2024/6-Jun/2024-06-14.md",
     "New Quick Notes/2024/6-Jun",
     "New Quick Notes/2024/5-May",
     "New Quick Notes/2024/4-Apr",
