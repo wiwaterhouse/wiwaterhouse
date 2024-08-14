@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e49dc6d4f03de40a",
+        "id": "b5be9a8cb2b3c88a",
         "type": "tabs",
         "children": [
           {
-            "id": "14986382c971c180",
+            "id": "ec783a5ca3c1dd9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conferences/RX/RX2024/New to Rock \"Development\".md",
+                "file": "Custom Code - Just because you can, doesn't mean you should.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conferences/RX/RX2024/New to Rock \"Development\".md",
+                "file": "Custom Code - Just because you can, doesn't mean you should.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conferences/RX/RX2024/New to Rock \"Development\".md",
+                "file": "Custom Code - Just because you can, doesn't mean you should.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conferences/RX/RX2024/New to Rock \"Development\".md"
+                "file": "Custom Code - Just because you can, doesn't mean you should.md"
               }
             }
           },
@@ -155,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14986382c971c180",
+  "active": "ec783a5ca3c1dd9e",
   "lastOpenFiles": [
+    "Custom Code - Just because you can, doesn't mean you should.md",
     "Conferences/RX/RX2024/New to Rock \"Development\".md",
     "Notes/iPad Kiosk Setup and Config.md",
     "Conferences/RX/RX2024/Multi Day Event RSVP.md",
@@ -184,7 +185,6 @@
     "New Quick Notes/2024/7-Jul/2024-07-12.md",
     "New Quick Notes/2024/7-Jul/2024-07-02.md",
     "New Quick Notes/2024/7-Jul/2024-07-01.md",
-    "Notes/Alta Open Training Session.md",
     "New Quick Notes/2024/7-Jul",
     "New Quick Notes/2024/6-Jun",
     "New Quick Notes/2024/5-May",
