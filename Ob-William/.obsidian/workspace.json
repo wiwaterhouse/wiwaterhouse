@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b5be9a8cb2b3c88a",
+        "id": "0da397e985ae12a0",
         "type": "tabs",
         "children": [
           {
-            "id": "ec783a5ca3c1dd9e",
+            "id": "aa1a219fab9fae03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Custom Code - Just because you can, doesn't mean you should.md",
+                "file": "Whiteboard Session - Code and Development.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Custom Code - Just because you can, doesn't mean you should.md",
+                "file": "Whiteboard Session - Code and Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Custom Code - Just because you can, doesn't mean you should.md",
+                "file": "Whiteboard Session - Code and Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Custom Code - Just because you can, doesn't mean you should.md"
+                "file": "Whiteboard Session - Code and Development.md"
               }
             }
           },
@@ -155,9 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec783a5ca3c1dd9e",
+  "active": "aa1a219fab9fae03",
   "lastOpenFiles": [
-    "Custom Code - Just because you can, doesn't mean you should.md",
+    "Whiteboard Session - Code and Development.md",
+    "Conferences/RX/RX2024/Custom Code - Just because you can, doesn't mean you should.md",
     "Conferences/RX/RX2024/New to Rock \"Development\".md",
     "Notes/iPad Kiosk Setup and Config.md",
     "Conferences/RX/RX2024/Multi Day Event RSVP.md",
@@ -184,7 +185,6 @@
     "New Quick Notes/2024/7-Jul/2024-07-11.md",
     "New Quick Notes/2024/7-Jul/2024-07-12.md",
     "New Quick Notes/2024/7-Jul/2024-07-02.md",
-    "New Quick Notes/2024/7-Jul/2024-07-01.md",
     "New Quick Notes/2024/7-Jul",
     "New Quick Notes/2024/6-Jun",
     "New Quick Notes/2024/5-May",
