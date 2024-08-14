@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "b6b893ac7aa9d83b",
+            "id": "4e26cf04059874cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Keynote.md",
+                "file": "Multi Day Event RSVP.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Keynote.md",
+                "file": "Multi Day Event RSVP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Keynote.md",
+                "file": "Multi Day Event RSVP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Keynote.md"
+                "file": "Multi Day Event RSVP.md"
               }
             }
           },
@@ -168,10 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6b893ac7aa9d83b",
+  "active": "4e26cf04059874cc",
   "lastOpenFiles": [
-    "Keynote.md",
     "Notes/iPad Kiosk Setup and Config.md",
+    "Multi Day Event RSVP.md",
+    "Conferences/RX/RX2024/Keynote.md",
     "Conferences/RX/RX2024/Dive Into Shortcodes.md",
     "Conferences/RX/RX2024/Unleashing the Power of Content Channels for Dynamic Event Websites.md",
     "Conferences/RX/RX2024/Rock Star Meeting.md",
@@ -198,7 +199,6 @@
     "Notes/Alta Open Training Session.md",
     "New Quick Notes/2024/7-Jul",
     "New Quick Notes/2024/6-Jun/2024-06-26.md",
-    "New Quick Notes/2024/6-Jun/2024-06-25.md",
     "New Quick Notes/2024/6-Jun",
     "New Quick Notes/2024/5-May",
     "New Quick Notes/2024/4-Apr",
