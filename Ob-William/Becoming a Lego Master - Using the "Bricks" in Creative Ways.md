@@ -8,6 +8,6 @@
 	- Page param + HTML/Dynamic data 
 - Lava available for getting values in single and multi-selects
 - Merge templates can be used to export a roster, maybe useful for checkin?
-- 
+- Lava filters can write and read cookies
 
 https://www.triumph.tech/videos for training videos
