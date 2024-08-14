@@ -27,4 +27,5 @@
 - How to have a great partnership
 	- Consultant vs Executor
 	- Collab and discovery = consultant
-- 
+
+
