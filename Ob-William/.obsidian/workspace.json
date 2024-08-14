@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b193302a5b23e6ab",
+        "id": "e49dc6d4f03de40a",
         "type": "tabs",
         "children": [
           {
-            "id": "a502d0b6e6013aee",
+            "id": "14986382c971c180",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/iPad Kiosk Setup and Config.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e26cf04059874cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multi Day Event RSVP.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Multi Day Event RSVP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Multi Day Event RSVP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Multi Day Event RSVP.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,10 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e26cf04059874cc",
+  "active": "14986382c971c180",
   "lastOpenFiles": [
     "Notes/iPad Kiosk Setup and Config.md",
-    "Multi Day Event RSVP.md",
+    "Conferences/RX/RX2024/Multi Day Event RSVP.md",
     "Conferences/RX/RX2024/Keynote.md",
     "Conferences/RX/RX2024/Dive Into Shortcodes.md",
     "Conferences/RX/RX2024/Unleashing the Power of Content Channels for Dynamic Event Websites.md",
