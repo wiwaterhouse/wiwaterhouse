@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lava 201.md",
+                "file": "Conferences/RX/RX2024/Day 2 Keynote.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lava 201.md",
+                "file": "Conferences/RX/RX2024/Day 2 Keynote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lava 201.md",
+                "file": "Conferences/RX/RX2024/Day 2 Keynote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lava 201.md"
+                "file": "Conferences/RX/RX2024/Day 2 Keynote.md"
               }
             }
           },
@@ -155,9 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a04913900af2806",
+  "active": "15e8499f84839779",
   "lastOpenFiles": [
-    "Lava 201.md",
+    "Conferences/RX/RX2024/Lava 201.md",
     "Conferences/RX/RX2024/Lava 101.md",
     "Conferences/RX/RX2024/Day 2 Keynote.md",
     "Conferences/RX/RX2024/Becoming a Lego Master - Using the \"Bricks\" in Creative Ways.md",

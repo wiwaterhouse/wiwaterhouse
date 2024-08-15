@@ -1,3 +1,0 @@
-- Lava is just a templating language
-- Gets data by entity framework, not directly from database
-- 
