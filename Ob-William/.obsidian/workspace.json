@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "468e1d520b87727f",
+        "id": "a2b3183c6b01cef1",
         "type": "tabs",
         "children": [
           {
-            "id": "20d5ea9ec1edd426",
+            "id": "d08705cf2d1d8cb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Becoming a Lego Master - Using the \"Bricks\" in Creative Ways.md",
+                "file": "Day 2 Keynote.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Becoming a Lego Master - Using the \"Bricks\" in Creative Ways.md",
+                "file": "Day 2 Keynote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Becoming a Lego Master - Using the \"Bricks\" in Creative Ways.md",
+                "file": "Day 2 Keynote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Becoming a Lego Master - Using the \"Bricks\" in Creative Ways.md"
+                "file": "Day 2 Keynote.md"
               }
             }
           },
@@ -155,9 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cde312f0c2081f13",
+  "active": "d08705cf2d1d8cb3",
   "lastOpenFiles": [
-    "Becoming a Lego Master - Using the \"Bricks\" in Creative Ways.md",
+    "Day 2 Keynote.md",
+    "Conferences/RX/RX2024/Becoming a Lego Master - Using the \"Bricks\" in Creative Ways.md",
     "Conferences/RX/RX2024/Whiteboard Session - Code and Development.md",
     "Conferences/RX/RX2024/Custom Code - Just because you can, doesn't mean you should.md",
     "Conferences/RX/RX2024/New to Rock \"Development\".md",
@@ -184,7 +185,6 @@
     "New Quick Notes/2024/7-Jul/2024-07-15.md",
     "New Quick Notes/2024/7-Jul/2024-07-08.md",
     "New Quick Notes/2024/7-Jul/2024-07-11.md",
-    "New Quick Notes/2024/7-Jul/2024-07-12.md",
     "New Quick Notes/2024/7-Jul",
     "New Quick Notes/2024/6-Jun",
     "New Quick Notes/2024/5-May",
