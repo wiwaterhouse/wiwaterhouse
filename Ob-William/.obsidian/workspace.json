@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a04913900af2806",
+            "id": "1794c874548be38b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conferences/RX/RX2024/Day 2 Keynote.md",
+                "file": "Conferences/RX/RX2024/Project Helix - Taking Lava to the Next Level.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conferences/RX/RX2024/Day 2 Keynote.md",
+                "file": "Conferences/RX/RX2024/Project Helix - Taking Lava to the Next Level.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conferences/RX/RX2024/Day 2 Keynote.md",
+                "file": "Conferences/RX/RX2024/Project Helix - Taking Lava to the Next Level.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conferences/RX/RX2024/Day 2 Keynote.md"
+                "file": "Conferences/RX/RX2024/Project Helix - Taking Lava to the Next Level.md"
               }
             }
           },
@@ -155,11 +155,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15e8499f84839779",
+  "active": "1794c874548be38b",
   "lastOpenFiles": [
+    "Conferences/RX/RX2024/Day 2 Keynote.md",
+    "Conferences/RX/RX2024/Project Helix - Taking Lava to the Next Level.md",
     "Conferences/RX/RX2024/Lava 201.md",
     "Conferences/RX/RX2024/Lava 101.md",
-    "Conferences/RX/RX2024/Day 2 Keynote.md",
     "Conferences/RX/RX2024/Becoming a Lego Master - Using the \"Bricks\" in Creative Ways.md",
     "Conferences/RX/RX2024/Whiteboard Session - Code and Development.md",
     "Conferences/RX/RX2024/Custom Code - Just because you can, doesn't mean you should.md",
@@ -184,7 +185,6 @@
     "New Quick Notes/2024/7-Jul/2024-07-17.md",
     "New Quick Notes/2024/7-Jul/2024-07-09.md",
     "New Quick Notes/2024/7-Jul/2024-07-16.md",
-    "New Quick Notes/2024/7-Jul/2024-07-15.md",
     "New Quick Notes/2024/7-Jul",
     "New Quick Notes/2024/6-Jun",
     "New Quick Notes/2024/5-May",
