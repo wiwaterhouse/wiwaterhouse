@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c8421146dc018215",
+        "id": "2e3d2552ac99229b",
         "type": "tabs",
         "children": [
           {
-            "id": "7ac1fbb7d9abfcb5",
+            "id": "8a04913900af2806",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lava 101.md",
+                "file": "Lava 201.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lava 101.md",
+                "file": "Lava 201.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lava 101.md",
+                "file": "Lava 201.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lava 101.md"
+                "file": "Lava 201.md"
               }
             }
           },
@@ -155,9 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ac1fbb7d9abfcb5",
+  "active": "8a04913900af2806",
   "lastOpenFiles": [
-    "Lava 101.md",
+    "Lava 201.md",
+    "Conferences/RX/RX2024/Lava 101.md",
     "Conferences/RX/RX2024/Day 2 Keynote.md",
     "Conferences/RX/RX2024/Becoming a Lego Master - Using the \"Bricks\" in Creative Ways.md",
     "Conferences/RX/RX2024/Whiteboard Session - Code and Development.md",
@@ -184,7 +185,6 @@
     "New Quick Notes/2024/7-Jul/2024-07-09.md",
     "New Quick Notes/2024/7-Jul/2024-07-16.md",
     "New Quick Notes/2024/7-Jul/2024-07-15.md",
-    "New Quick Notes/2024/7-Jul/2024-07-08.md",
     "New Quick Notes/2024/7-Jul",
     "New Quick Notes/2024/6-Jun",
     "New Quick Notes/2024/5-May",
