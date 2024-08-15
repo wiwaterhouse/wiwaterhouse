@@ -1,0 +1,3 @@
+- Lava Class open for November and January
+- Focus on simplifying design, while keeping power and advanced features
+- RXCONTENT promo code for subscription

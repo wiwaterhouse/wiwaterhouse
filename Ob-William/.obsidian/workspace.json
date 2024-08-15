@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 2 Keynote.md",
+                "file": "Conferences/RX/RX2024/Day 2 Keynote.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 2 Keynote.md",
+                "file": "Conferences/RX/RX2024/Day 2 Keynote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 2 Keynote.md",
+                "file": "Conferences/RX/RX2024/Day 2 Keynote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 2 Keynote.md"
+                "file": "Conferences/RX/RX2024/Day 2 Keynote.md"
               }
             }
           },
@@ -155,9 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d08705cf2d1d8cb3",
+  "active": "15e8499f84839779",
   "lastOpenFiles": [
-    "Day 2 Keynote.md",
+    "Conferences/RX/RX2024/Day 2 Keynote.md",
     "Conferences/RX/RX2024/Becoming a Lego Master - Using the \"Bricks\" in Creative Ways.md",
     "Conferences/RX/RX2024/Whiteboard Session - Code and Development.md",
     "Conferences/RX/RX2024/Custom Code - Just because you can, doesn't mean you should.md",
