@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Quick Notes/2024-08-20.md",
+                "file": "New Quick Notes/2024-08-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All Zones Review.md",
+                "file": "New Quick Notes/2024-08-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "All Zones Review.md",
+                "file": "New Quick Notes/2024-08-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All Zones Review.md"
+                "file": "New Quick Notes/2024-08-21.md"
               }
             }
           },
@@ -169,9 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23ebce24de02bdca",
+  "active": "e65a13660fc719ad",
   "lastOpenFiles": [
     "New Quick Notes/2024-08-20.md",
+    "New Quick Notes/2024-08-21.md",
     "All Zones Review.md",
     "New Quick Notes/2024/8-Aug/2024-08-05.md",
     "Conferences/RX/RX2024/Project Helix - Taking Lava to the Next Level.md",
@@ -198,7 +198,6 @@
     "New Quick Notes/2024/8-Aug",
     "New Quick Notes/2024/7-Jul/2024-07-22.md",
     "New Quick Notes/2024/7-Jul/2024-07-19.md",
-    "New Quick Notes/2024/7-Jul/2024-07-17.md",
     "New Quick Notes/2024/7-Jul",
     "New Quick Notes/2024/6-Jun",
     "New Quick Notes/2024/5-May",
