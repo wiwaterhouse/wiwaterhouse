@@ -2,6 +2,7 @@ New zones needed:
 - TC reception door
 - TC class entry
 - TC east stairwell, zone 46
+	- ask Bart if only stairwell for elders meeting 
 
 Troubleshoot:
 - [ ] FV office internal doors not scheduled?
