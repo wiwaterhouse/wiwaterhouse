@@ -41,4 +41,11 @@ https://github.com/LPMcDude/CITN_2024
 - Seek
 - Scan
 - Key Lookup
+###### Indexes - Compression
+- Improves IO at cost of CPU
+- Applies to storage and RAM
+###### Indexes - Why not index every column?
+- Slower writes
+- 20 indexes = 20 insert ops
+- DB Bloat
 ###### 
