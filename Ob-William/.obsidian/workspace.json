@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "8bacfd3afa1dd073",
+            "id": "dc0629262dd17174",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conferences/CITN/CITN 2024/Software Architecture and Design Patterns in the real world.md",
+                "file": "Conferences/CITN/CITN 2024/App Dev 101.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conferences/CITN/CITN 2024/Software Architecture and Design Patterns in the real world.md",
+                "file": "Conferences/CITN/CITN 2024/App Dev 101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conferences/CITN/CITN 2024/Software Architecture and Design Patterns in the real world.md",
+                "file": "Conferences/CITN/CITN 2024/App Dev 101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conferences/CITN/CITN 2024/Software Architecture and Design Patterns in the real world.md"
+                "file": "Conferences/CITN/CITN 2024/App Dev 101.md"
               }
             }
           },
@@ -168,11 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bacfd3afa1dd073",
+  "active": "15e8499f84839779",
   "lastOpenFiles": [
-    "Conferences/CITN/CITN 2024/Software Architecture Design Patterns.pdf",
     "All Zones Review.md",
+    "Conferences/CITN/CITN 2024/App Dev 101.md",
     "Conferences/CITN/CITN 2024/Software Architecture and Design Patterns in the real world.md",
+    "Conferences/CITN/CITN 2024/Software Architecture Design Patterns.pdf",
     "Conferences/CITN/CITN 2024/SQL Server for Smarties.md",
     "Conferences/CITN/CITN 2024/App and WebDev Roundtable.md",
     "Conferences/CITN/CITN 2024/Day 1 Keynote.md",
@@ -205,7 +206,6 @@
     "New Quick Notes/2024/5-May",
     "New Quick Notes/2024/4-Apr",
     "New Quick Notes/Templates",
-    "ToDos",
     "Notes/Research/Personal Data deletion request.png",
     "Conferences/RX/RX2022/Triumph what to document pic.jpeg",
     "Notes/Research/COPPA example.png",
