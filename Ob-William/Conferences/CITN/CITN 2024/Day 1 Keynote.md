@@ -1,4 +1,4 @@
-AI
+AI - Collaborative tool
 - BoodleBox presenting company
 	- Collaborative GenAI
 - 67% less productive if not using gen AI
@@ -9,3 +9,4 @@ AI
 	- Misinfo and fake content
 	- Privacy concerns
 	- Bias and discrimination
+- 
