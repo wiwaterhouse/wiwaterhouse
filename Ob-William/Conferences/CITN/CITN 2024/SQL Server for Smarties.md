@@ -48,4 +48,3 @@ https://github.com/LPMcDude/CITN_2024
 - Slower writes
 - 20 indexes = 20 insert ops
 - DB Bloat
-###### 
