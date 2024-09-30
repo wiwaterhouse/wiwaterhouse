@@ -18,3 +18,4 @@
 ###### How clear is the 'next step' in app for people in your digital strategy
 - Don't build an app if you don't absolutely have to
 ###### Keep It Simple
+- strategy first, features later
