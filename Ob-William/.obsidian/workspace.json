@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All Zones Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc0629262dd17174",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conferences/CITN/CITN 2024/App Dev 101.md",
+                "file": "Conferences/CITN/CITN 2024/Modern Web Frameworks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conferences/CITN/CITN 2024/App Dev 101.md",
+                "file": "Conferences/CITN/CITN 2024/Modern Web Frameworks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conferences/CITN/CITN 2024/App Dev 101.md",
+                "file": "Conferences/CITN/CITN 2024/Modern Web Frameworks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conferences/CITN/CITN 2024/App Dev 101.md"
+                "file": "Conferences/CITN/CITN 2024/Modern Web Frameworks.md"
               }
             }
           },
@@ -168,9 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15e8499f84839779",
+  "active": "23ebce24de02bdca",
   "lastOpenFiles": [
     "All Zones Review.md",
+    "Conferences/CITN/CITN 2024/Modern Web Frameworks.md",
     "Conferences/CITN/CITN 2024/App Dev 101.md",
     "Conferences/CITN/CITN 2024/Software Architecture and Design Patterns in the real world.md",
     "Conferences/CITN/CITN 2024/Software Architecture Design Patterns.pdf",
@@ -198,7 +186,6 @@
     "Conferences/RX/RX2024/Becoming a Lego Master - Using the \"Bricks\" in Creative Ways.md",
     "Conferences/RX/RX2024/Whiteboard Session - Code and Development.md",
     "Conferences/RX/RX2024/Custom Code - Just because you can, doesn't mean you should.md",
-    "Conferences/RX/RX2024/New to Rock \"Development\".md",
     "Conferences/RX/RX2024",
     "New Quick Notes/2024/8-Aug",
     "New Quick Notes/2024/7-Jul",
