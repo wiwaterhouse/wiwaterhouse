@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "101f4314985fc9f5",
@@ -157,6 +158,7 @@
   },
   "active": "15e8499f84839779",
   "lastOpenFiles": [
+    "Conferences/CITN/CITN 2024/SEO Web Design Best Practices.pdf",
     "Conferences/CITN/CITN 2024/Tools for new devs.md",
     "Conferences/CITN/CITN 2024/SEO and Web Design Best Practices.md",
     "Conferences/CITN/CITN 2024/On a Mission with New Relic.md",
@@ -185,7 +187,6 @@
     "Conferences/RX/RX2024/Project Helix - Taking Lava to the Next Level.md",
     "Conferences/RX/RX2024/Day 2 Keynote.md",
     "Conferences/RX/RX2024/Lava 201.md",
-    "Conferences/RX/RX2024/Lava 101.md",
     "Conferences/RX/RX2024",
     "New Quick Notes/2024/8-Aug",
     "New Quick Notes/2024/7-Jul",
