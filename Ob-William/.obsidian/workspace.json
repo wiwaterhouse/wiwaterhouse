@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6f650d0817881aea",
+        "id": "510d75dbc6210e2b",
         "type": "tabs",
         "children": [
           {
-            "id": "b3902da335547519",
+            "id": "3b19e04f9f8414b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conferences/CITN/CITN 2024/SEO and Web Design Best Practices.md",
-                "mode": "source",
+                "file": "Conferences/CITN/CITN 2024/SQL Server for Smarties.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "101f4314985fc9f5",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conferences/CITN/CITN 2024/SEO and Web Design Best Practices.md",
+                "file": "CITN Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conferences/CITN/CITN 2024/SEO and Web Design Best Practices.md",
+                "file": "CITN Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conferences/CITN/CITN 2024/SEO and Web Design Best Practices.md"
+                "file": "CITN Summary.md"
               }
             }
           },
@@ -156,20 +155,58 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15e8499f84839779",
+  "floating": {
+    "id": "457616024a16ddcd",
+    "type": "floating",
+    "children": [
+      {
+        "id": "18899bddd15cff11",
+        "type": "window",
+        "children": [
+          {
+            "id": "b9f773d9ac19a11a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "964aa074cb6bcf8f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CITN Summary.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 8,
+        "y": 33,
+        "width": 1904,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "964aa074cb6bcf8f",
   "lastOpenFiles": [
-    "Conferences/CITN/CITN 2024/SEO Web Design Best Practices.pdf",
-    "Conferences/CITN/CITN 2024/Tools for new devs.md",
-    "Conferences/CITN/CITN 2024/SEO and Web Design Best Practices.md",
-    "Conferences/CITN/CITN 2024/On a Mission with New Relic.md",
-    "Conferences/CITN/CITN 2024/Modern Web Frameworks.md",
-    "All Zones Review.md",
-    "Conferences/CITN/CITN 2024/App Dev 101.md",
-    "Conferences/CITN/CITN 2024/Software Architecture and Design Patterns in the real world.md",
-    "Conferences/CITN/CITN 2024/Software Architecture Design Patterns.pdf",
     "Conferences/CITN/CITN 2024/SQL Server for Smarties.md",
+    "CITN Summary.md",
     "Conferences/CITN/CITN 2024/App and WebDev Roundtable.md",
     "Conferences/CITN/CITN 2024/Day 1 Keynote.md",
+    "Conferences/CITN/CITN 2024/Software Architecture and Design Patterns in the real world.md",
+    "Conferences/CITN/CITN 2024/Software Architecture Design Patterns.pdf",
+    "Conferences/CITN/CITN 2024/App Dev 101.md",
+    "Conferences/CITN/CITN 2024/Modern Web Frameworks.md",
+    "Conferences/CITN/CITN 2024/On a Mission with New Relic.md",
+    "Conferences/CITN/CITN 2024/Tools for new devs.md",
+    "Conferences/CITN/CITN 2024/SEO and Web Design Best Practices.md",
+    "Conferences/CITN/CITN 2024/SEO Web Design Best Practices.pdf",
+    "All Zones Review.md",
     "New Quick Notes/2024/9-Sep/2024-09-27.md",
     "Conferences/CITN/CITN 2024",
     "New Quick Notes/2024/9-Sep/2024-09-12.md",
@@ -193,7 +230,6 @@
     "New Quick Notes/2024/6-Jun",
     "New Quick Notes/2024/5-May",
     "New Quick Notes/2024/4-Apr",
-    "New Quick Notes/Templates",
     "Notes/Research/Personal Data deletion request.png",
     "Conferences/RX/RX2022/Triumph what to document pic.jpeg",
     "Notes/Research/COPPA example.png",
