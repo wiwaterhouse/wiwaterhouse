@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "510d75dbc6210e2b",
+        "id": "5e92be70133989cf",
         "type": "tabs",
         "children": [
           {
-            "id": "3b19e04f9f8414b1",
+            "id": "7e4a6976f6b5401c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conferences/CITN/CITN 2024/SQL Server for Smarties.md",
-                "mode": "preview",
+                "file": "Conferences/CITN/CITN 2024/CITN 2024 Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28aab5aca79a1d80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL Quick Ref.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CITN Summary.md",
+                "file": "SQL Quick Ref.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CITN Summary.md",
+                "file": "SQL Quick Ref.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CITN Summary.md"
+                "file": "SQL Quick Ref.md"
               }
             }
           },
@@ -155,53 +168,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "457616024a16ddcd",
-    "type": "floating",
-    "children": [
-      {
-        "id": "18899bddd15cff11",
-        "type": "window",
-        "children": [
-          {
-            "id": "b9f773d9ac19a11a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "964aa074cb6bcf8f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "CITN Summary.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 8,
-        "y": 33,
-        "width": 1904,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "964aa074cb6bcf8f",
+  "active": "28aab5aca79a1d80",
   "lastOpenFiles": [
+    "Conferences/CITN/CITN 2024/CITN 2024 Summary.md",
+    "SQL Quick Ref.md",
+    "Conferences/CITN/CITN 2024/Modern Web Frameworks.md",
+    "Conferences/CITN/CITN 2024/App Dev 101.md",
     "Conferences/CITN/CITN 2024/SQL Server for Smarties.md",
-    "CITN Summary.md",
     "Conferences/CITN/CITN 2024/App and WebDev Roundtable.md",
     "Conferences/CITN/CITN 2024/Day 1 Keynote.md",
     "Conferences/CITN/CITN 2024/Software Architecture and Design Patterns in the real world.md",
     "Conferences/CITN/CITN 2024/Software Architecture Design Patterns.pdf",
-    "Conferences/CITN/CITN 2024/App Dev 101.md",
-    "Conferences/CITN/CITN 2024/Modern Web Frameworks.md",
     "Conferences/CITN/CITN 2024/On a Mission with New Relic.md",
     "Conferences/CITN/CITN 2024/Tools for new devs.md",
     "Conferences/CITN/CITN 2024/SEO and Web Design Best Practices.md",
@@ -223,7 +200,6 @@
     "New Quick Notes/2024/8-Aug/2024-08-05.md",
     "Conferences/RX/RX2024/Project Helix - Taking Lava to the Next Level.md",
     "Conferences/RX/RX2024/Day 2 Keynote.md",
-    "Conferences/RX/RX2024/Lava 201.md",
     "Conferences/RX/RX2024",
     "New Quick Notes/2024/8-Aug",
     "New Quick Notes/2024/7-Jul",

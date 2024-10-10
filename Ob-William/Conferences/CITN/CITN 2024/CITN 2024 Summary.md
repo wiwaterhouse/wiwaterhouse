@@ -6,20 +6,39 @@ The sessions I attended at the Church IT Network Conference highlighted best pra
 
 Next Steps:  Continue learning, research and test new AI tools, and improve documentation practices.
 - Continue Learning:
+	- Take Udemy’s Web Dev Bootcamp by Colt Steele.
 	- Enroll in online courses (e.g., CodeAcademy, Udemy) based on recommendations from other church developers.
-	- 
+	- Start down the JavaScript learning path described in Modern Web Frameworks session.
 - Research and Test New AI Tools:
     - Explore AI tools like GitHub Copilot and Azure AI services.
     - Test AI tools for code review and project management.
     - Stay updated with the latest AI trends and technologies.
 - Improve Documentation Practices:
-    - Document repetitive and seasonal processes.
+    - Work with Rock team to document repetitive and seasonal processes.
     - Research tools like Tango, Scribe, and Loom for creating documentation and implement processes for documentation.
     - Regularly update and review documentation for accuracy and relevance.
 
 ___
 
+# 9
+**Next Steps Summary**: Focus on enhancing your skills through targeted learning resources.
 
+- **Enroll in Online Courses**:
+    
+    - Sign up for CodeAcademy to learn HTML, CSS, and SQL.
+    - Take Udemy’s Web Dev Bootcamp by Colt Steele.
+- **Join Learning Communities**:
+    
+    - Participate in forums like StackOverflow.
+    - Engage with communities on platforms like FreeCodeCamp.
+- **Utilize Learning Platforms**:
+    
+    - Explore tutorials on W3 Schools.
+    - Watch educational videos on Khan Academy.
+- **Practice Coding**:
+    
+    - Build projects using JavaScript and React.
+    - Use Rock U and Master Class for advanced topics.
 # My Attempt
 I was ecstatic to find out they had a developer track for the sessions! I took a lot of notes and I have a laundry list of next steps to continue learning. Here are the main points I took from the eight sessions I attended at conference:
 
