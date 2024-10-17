@@ -1,4 +1,5 @@
 ## Rock Jobs
+NO NOTIFICATIONS BY DEFAULT
 - Group Sync
 	- Not all groups need 20 minute refresh
 	- data views poorly performing
