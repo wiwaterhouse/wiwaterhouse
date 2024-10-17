@@ -1,0 +1,23 @@
+## Rock Jobs
+- Group Sync
+	- Not all groups need 20 minute refresh
+	- data views poorly performing
+	- clean up non-used groups off of sync
+	- avoid circular group syncs
+- Process workflows
+	- Don't persist if not needed
+	- should not persist every workflow
+	- Processing interval too short = bad
+		- Job runs every 10 minutes
+	- Workflows not completing = bad
+	- Make sure logging is turned off
+		- Clean out log files for workflows
+	- CLEAN UP COMPLETED WORKFLOWS
+- Persisted data views
+	- Don't persist too many data views
+	- Set the schedule for overnight for biggest data views (Aaron)
+- Poorly performing pages
+	- caching
+- SQL
+	- Open index section to use in where and order by and join
+	- 

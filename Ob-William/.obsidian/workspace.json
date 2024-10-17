@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5e92be70133989cf",
+        "id": "d07862b86eea65c3",
         "type": "tabs",
         "children": [
           {
-            "id": "7e4a6976f6b5401c",
+            "id": "c8c862a1080ca6f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conferences/CITN/CITN 2024/CITN 2024 Summary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28aab5aca79a1d80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL Quick Ref.md",
+                "file": "Database Performance Killers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Quick Ref.md",
+                "file": "Database Performance Killers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Quick Ref.md",
+                "file": "Database Performance Killers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL Quick Ref.md"
+                "file": "Database Performance Killers.md"
               }
             }
           },
@@ -168,17 +155,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28aab5aca79a1d80",
+  "active": "c8c862a1080ca6f1",
   "lastOpenFiles": [
+    "Database Performance Killers.md",
     "Conferences/CITN/CITN 2024/CITN 2024 Summary.md",
-    "SQL Quick Ref.md",
-    "Conferences/CITN/CITN 2024/Modern Web Frameworks.md",
     "Conferences/CITN/CITN 2024/App Dev 101.md",
+    "Conferences/CITN/CITN 2024/Software Architecture Design Patterns.pdf",
+    "Conferences/CITN/CITN 2024/Software Architecture and Design Patterns in the real world.md",
     "Conferences/CITN/CITN 2024/SQL Server for Smarties.md",
     "Conferences/CITN/CITN 2024/App and WebDev Roundtable.md",
     "Conferences/CITN/CITN 2024/Day 1 Keynote.md",
-    "Conferences/CITN/CITN 2024/Software Architecture and Design Patterns in the real world.md",
-    "Conferences/CITN/CITN 2024/Software Architecture Design Patterns.pdf",
+    "SQL Quick Ref.md",
+    "Conferences/CITN/CITN 2024/Modern Web Frameworks.md",
     "Conferences/CITN/CITN 2024/On a Mission with New Relic.md",
     "Conferences/CITN/CITN 2024/Tools for new devs.md",
     "Conferences/CITN/CITN 2024/SEO and Web Design Best Practices.md",
@@ -199,7 +187,6 @@
     "New Quick Notes/2024/8-Aug/2024-08-21.md",
     "New Quick Notes/2024/8-Aug/2024-08-05.md",
     "Conferences/RX/RX2024/Project Helix - Taking Lava to the Next Level.md",
-    "Conferences/RX/RX2024/Day 2 Keynote.md",
     "Conferences/RX/RX2024",
     "New Quick Notes/2024/8-Aug",
     "New Quick Notes/2024/7-Jul",
