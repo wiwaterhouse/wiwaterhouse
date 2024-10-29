@@ -21,4 +21,5 @@
 - Build extensible and scalable email templates
 - Scheduled send for followup after kids classes
 - Opt out group instead of communication list #followup 
+- Define solution requirements, these are goal posts for success to be measured against
 - 
