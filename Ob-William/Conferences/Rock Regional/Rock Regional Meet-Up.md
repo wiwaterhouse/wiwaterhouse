@@ -18,4 +18,7 @@
 - a way to have congregants give feedback ongoing as we build stuff in Rock, web, and app
 #followup 
 ## Life.Church Project Pigeon
+- Build extensible and scalable email templates
+- Scheduled send for followup after kids classes
+- Opt out group instead of communication list #followup 
 - 
