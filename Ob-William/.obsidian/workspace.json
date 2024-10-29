@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL Quick Ref.md",
+                "file": "Conferences/Rock Regional/Rock Regional Meet-Up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL Quick Ref"
-            }
-          },
-          {
-            "id": "936bf7923113ba3b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "Rock Regional Meet-Up"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "101f4314985fc9f5",
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Quick Ref.md",
+                "file": "Conferences/Rock Regional/Rock Regional Meet-Up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SQL Quick Ref"
+              "title": "Backlinks for Rock Regional Meet-Up"
             }
           },
           {
@@ -125,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Quick Ref.md",
+                "file": "Conferences/Rock Regional/Rock Regional Meet-Up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SQL Quick Ref"
+              "title": "Outgoing links from Rock Regional Meet-Up"
             }
           },
           {
@@ -152,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL Quick Ref.md"
+                "file": "Conferences/Rock Regional/Rock Regional Meet-Up.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of SQL Quick Ref"
+              "title": "Outline of Rock Regional Meet-Up"
             }
           },
           {
@@ -186,10 +174,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "936bf7923113ba3b",
+  "active": "c8c862a1080ca6f1",
   "lastOpenFiles": [
-    "All Zones Review.md",
     "SQL Quick Ref.md",
+    "Conferences/Rock Regional/Rock Regional Meet-Up.md",
+    "Conferences/Rock Regional",
+    "All Zones Review.md",
     "Database Performance Killers.md",
     "Conferences/CITN/CITN 2024/CITN 2024 Summary.md",
     "Conferences/CITN/CITN 2024/App Dev 101.md",
@@ -216,14 +206,11 @@
     "New Quick Notes/2024/8-Aug/2024-08-20.md",
     "New Quick Notes/2024/8-Aug/2024-08-26.md",
     "New Quick Notes/2024/8-Aug/2024-08-21.md",
-    "New Quick Notes/2024/8-Aug/2024-08-05.md",
-    "Conferences/RX/RX2024/Project Helix - Taking Lava to the Next Level.md",
     "Conferences/RX/RX2024",
     "New Quick Notes/2024/8-Aug",
     "New Quick Notes/2024/7-Jul",
     "New Quick Notes/2024/6-Jun",
     "New Quick Notes/2024/5-May",
-    "New Quick Notes/2024/4-Apr",
     "Notes/Research/Personal Data deletion request.png",
     "Conferences/RX/RX2022/Triumph what to document pic.jpeg",
     "Notes/Research/COPPA example.png",
