@@ -4,4 +4,5 @@
 - Delegation is important
 - Empower your users
 ## Engage Users in Rock App
+- Our app and stuff
 - 
