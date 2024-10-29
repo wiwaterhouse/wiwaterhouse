@@ -13,6 +13,9 @@
 - Comes with eRA badge in Rock already
 - Communication to person, staff engaging with the person
 - Exit eRA is connection request
+#followup 
 ## Feedback idea
 - a way to have congregants give feedback ongoing as we build stuff in Rock, web, and app
+#followup 
+## Life.Church Project Pigeon
 - 
