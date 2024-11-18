@@ -43,8 +43,25 @@
 	- | StripHtml useful
 	- | StripNewlines pulls out any new lines in the content
 	- | Trim removes whitespace before and after content
-	- | Split:'char' 
+	- | Split:'char'
 		- Can | into ToJson to get an array built as JSON text
 	- | Slice:0,2 - from 0, return 2 characters
-	- | Truncate:20,'...' will return first 20 characters followed by second parameter
+	- | Truncate:20,'...' will return first 20 characters followed by second parameter, count INCLUDES the following string
+		- can also | TruncateWords
+	- | WithFallback:'param1','param2' will use param1 if the text is not null
+	- | Default:'param' will return param value if value does not exist
+	- Attributes
+		- | Attribute:'key','property' OR 'Object' to return whole object
+- Numeric Filters
+	- | lots of math filters
+	- | Modulo for modulus division
+	- | AtLeast
+	- | AtMost
+	- | Floor is round down
+	- | Ceiling is round up
+	- | Round is closest
+	- | Format:'#,##0.00' uses excel number formatting
+- Date Filters
+	- | Date:'M/d/yy' standard stuff
+	- | DateAdd:14 days is default, use , then specify y,M,h for years, months, hours
 	- 
