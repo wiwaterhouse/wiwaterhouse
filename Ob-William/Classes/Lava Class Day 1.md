@@ -1,4 +1,4 @@
-### Session 1
+### Session 1 - Intro to Lava
 - Hello World
 	- Started life at Shopify.com
 	- Started as liquid Template language
@@ -32,5 +32,19 @@
 	- {% comment %} {% endcomment %} OR /- -/ for comment blocks
 	- //- for single line commenting
 
-### Session 2
-- 
+### Session 2 - Intro to Filters
+- Getting Data
+	- {{ thing | filter | Property:'' }}
+	- Access attributes {{ thing | Attribute:'AttributeKey' }}
+		- NOTE: Defaults to Text of some sort
+- Text Filters
+	- {{ item.Content | NewlineToBr }} adds breaks after each new line if returns exsit in database
+	- Lots of examples
+	- | StripHtml useful
+	- | StripNewlines pulls out any new lines in the content
+	- | Trim removes whitespace before and after content
+	- | Split:'char' 
+		- Can | into ToJson to get an array built as JSON text
+	- | Slice:0,2 - from 0, return 2 characters
+	- | Truncate:20,'...' will return first 20 characters followed by second parameter
+	- 
