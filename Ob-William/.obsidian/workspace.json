@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d07862b86eea65c3",
+        "id": "15967585fdf43903",
         "type": "tabs",
         "children": [
           {
-            "id": "c8c862a1080ca6f1",
+            "id": "6a93d801ea59de11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conferences/Rock Regional/Rock Regional Meet-Up.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Rock Regional Meet-Up"
+              "title": "New tab"
             }
           }
         ]
@@ -174,10 +170,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8c862a1080ca6f1",
+  "active": "6a93d801ea59de11",
   "lastOpenFiles": [
-    "SQL Quick Ref.md",
+    "Conferences/RX/RX2024/Keynote.md",
     "Conferences/Rock Regional/Rock Regional Meet-Up.md",
+    "SQL Quick Ref.md",
     "Conferences/Rock Regional",
     "All Zones Review.md",
     "Database Performance Killers.md",

@@ -1,0 +1,36 @@
+### Session 1
+- Hello World
+	- Started life at Shopify.com
+	- Started as liquid Template language
+	- Lava is NOT a programming language
+- Technical Terms
+	- Literal
+		- A value that is directly written into the source of a program
+	- Braces
+		- {{}} write this
+	- Pipes
+		- |
+	- LAVA IS CASE-SENSITIVE
+- Variables
+	- Yep, they are a thing
+	- camelCaseRecommended
+	- PascalCase for objects and properties
+	- Types
+		- Primitives
+		- Arrays
+		- Objects (specific to Rock)
+- Lava Tags
+	- {% %} commands
+- Anatomy of Objects
+	- Object.Property.PropertyOfProperty
+- Getting Data
+	- Merge Fields (provided by block)
+	- Get it ourselves
+		- Entity Commands
+		- SQL
+- Commenting
+	- {% comment %} {% endcomment %} OR /- -/ for comment blocks
+	- //- for single line commenting
+
+### Session 2
+- 
