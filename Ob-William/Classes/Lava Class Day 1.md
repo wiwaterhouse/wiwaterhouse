@@ -11,6 +11,7 @@
 	- Pipes
 		- |
 	- LAVA IS CASE-SENSITIVE
+	- HTML <pre></pre> tag wrapper to output raw data without any formatting
 - Variables
 	- Yep, they are a thing
 	- camelCaseRecommended
@@ -64,4 +65,9 @@
 - Date Filters
 	- | Date:'M/d/yy' standard stuff
 	- | DateAdd:14 days is default, use , then specify y,M,h for years, months, hours
-	- 
+	- | TimeOfDay will return a date as something like afternoont
+	- | AsDateTimeUtc
+### Session 3 - Working with Variables
+- {% capture varName %} {% endcapture %} grabs everything within as a variable
+	- NOTE, this only stores the printed text that would have been output to HTML
+- Otherwise, pretty normal stuff as far as variables go
