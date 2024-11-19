@@ -79,7 +79,7 @@
 	- {{ 'Global' | PageParameter:'key' }} looking for key in the URL
 	- | RunLava will run internal lava inside the thing
 	- | FromJSON treats a JSON file as an object, allowing to pull Object.Property out of it
-	- | PersistedDataset - research more
+	- | PersistedDataset - pulls data from an existing PersistedDataset created in admin settings
 	- | Url has a bunch of options to return whatever we need
 	- {{ 'Global' | Client:'key' }} ip addresses and other client stuff
 	- {{ 'Global' | Page:'key' }} Lots of options to return page stuff
