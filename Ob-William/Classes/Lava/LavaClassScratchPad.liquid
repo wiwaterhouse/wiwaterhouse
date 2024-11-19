@@ -1,0 +1,24 @@
+Lava Class Scratch Pad
+
+
+
+{{ CurrentPerson.NickName }}'s email is {{ CurrentPerson.Email }}
+
+{{ CurrentPerson.LastName | Right:4 }}
+
+{% capture statusMessage %}
+	Working...<br />
+
+	{% assign progress = '25' %}
+	{{ progress }}% complete<br />
+
+	{% assign animal = 'Octopus' %}
+	{% assign progress = '50' %}
+	{{ progress }}% complete<br />
+
+	{% assign number = 5 | Random %}
+	{% assign progress = '75' %}
+	{{ progress }}% complete<br />
+{% endcapture %}
+
+{{ statusMessage }}
