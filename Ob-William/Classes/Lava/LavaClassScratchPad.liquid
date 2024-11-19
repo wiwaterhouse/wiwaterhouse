@@ -22,3 +22,9 @@ Lava Class Scratch Pad
 {% endcapture %}
 
 {{ statusMessage }}
+
+
+{% for campus in Campuses %}
+	{{ campus.Name }}
+	{% if forloop.last == false %}, {% endif %}
+{% endfor %}
