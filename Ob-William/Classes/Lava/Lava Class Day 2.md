@@ -25,4 +25,17 @@
 			- first
 			- last
 ### Session 6 - Debugging
+- | Debug filter, REMINDER - lava is ALWAYS case sensitive
+- JSON
+	- Primitives
+		- "var"
+	- Arrays
+		- ["var1","var2","var3"]
+		- can also cantain objects where vars are
+		- can access specific array item by item[0].Property
+	- Objects
+		- { } everything contained in the curly braces
+		- Only objects can be named
+		- can nest objects within objects
+- Useful to use <pre>{{ array | ToJSON }}</pre> to view entire objects and available properties
 - 
