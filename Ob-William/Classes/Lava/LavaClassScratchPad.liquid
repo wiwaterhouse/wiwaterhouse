@@ -28,3 +28,10 @@ Lava Class Scratch Pad
 	{{ campus.Name }}
 	{% if forloop.last == false %}, {% endif %}
 {% endfor %}
+
+
+{% person where:'Position == "Pastor"' %}
+	<ul>
+		<li>{{ person.FullName }}</li>
+	</ul>
+{% endperson %}
