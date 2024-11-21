@@ -30,8 +30,36 @@ Lava Class Scratch Pad
 {% endfor %}
 
 
-{% person where:'Position == "Pastor"' %}
+{% person where:'Position *= "Pastor"' %}
 	<ul>
-		<li>{{ person.FullName }}</li>
+		{% for person in personItems %}
+			<li>{{ person.FullName }}: {{ person | Attribute:'Position' }}</li>
+		{% endfor %}
 	</ul>
+	{% endperson %}
+
+{% person dataview:'1' Sort:'LastName' %}
+<h3>Members and Attendees</h3>
+<ul>
+	{% for person in personItems %}
+		<li>{{ person.FullName }}</li>
+	{% endfor %}
+</ul>
 {% endperson %}
+
+
+{% assign sortedCampuses = Campuses | Shuffle %}
+<ul>
+    {% for campus in sortedCampuses %}
+        <li>
+            {{ campus.Name }} Campus
+        </li>
+    {% endfor %}
+</ul>
+
+
+{% assign currentYear = 'Now' | Date:'yyyy' %}
+{{ currentYear }}
+{% for i in (2022..currentYear) %}
+	{{ i }}
+{% endfor %}
