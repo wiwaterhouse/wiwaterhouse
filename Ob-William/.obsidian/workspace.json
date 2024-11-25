@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "15967585fdf43903",
+        "id": "12913cf14fd8602a",
         "type": "tabs",
         "children": [
           {
-            "id": "6a93d801ea59de11",
+            "id": "c087ef8fb5d1df6b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,8 +170,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a93d801ea59de11",
+  "active": "c087ef8fb5d1df6b",
   "lastOpenFiles": [
+    "Classes/Lava/Slides/Lava Session 1 - Beginning with the Basics.pdf",
+    "Classes/Lava/Lava Class Day 1.md",
+    "Classes/Lava/Lava Class Day 5.md",
+    "Classes/Lava/Lava Class Day 4.md",
+    "Classes/Lava/Lava Class Day 3.md",
+    "Classes/Lava/Lava Class Day 2.md",
     "Conferences/RX/RX2024/Keynote.md",
     "Conferences/Rock Regional/Rock Regional Meet-Up.md",
     "SQL Quick Ref.md",
@@ -196,13 +202,7 @@
     "New Quick Notes/2024/9-Sep/2024-09-10.md",
     "New Quick Notes/2024/9-Sep/2024-09-11.md",
     "New Quick Notes/2024/9-Sep/2024-09-19.md",
-    "New Quick Notes/2024/8-Aug/2024-08-29.md",
     "New Quick Notes/2024/9-Sep",
-    "Bema Workshop Sign-ups.md",
-    "New Quick Notes/2024/8-Aug/2024-08-27.md",
-    "New Quick Notes/2024/8-Aug/2024-08-20.md",
-    "New Quick Notes/2024/8-Aug/2024-08-26.md",
-    "New Quick Notes/2024/8-Aug/2024-08-21.md",
     "Conferences/RX/RX2024",
     "New Quick Notes/2024/8-Aug",
     "New Quick Notes/2024/7-Jul",
