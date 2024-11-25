@@ -39,20 +39,20 @@
 	- Large processes have a lot of data
 	- Persisted Dataset
 		- Stored in JSON and cached on specified interval
-		- Reminder, use | PersistedDataset filter to acccess
+		- Reminder, use | PersistedDataset filter to access
 	- Your Event (example)
 		- look at the slides #followup
 - Code Smell
 	- Code less clear
 	- hard to maintain
-	- may indicate deeper issues, opportunities for unintended consequenses
+	- may indicate deeper issues, opportunities for unintended consequences
 	- be aware of any lava in HTML comments, they still run
-	- When using lava, make sure using most effecient route avaialbe
+	- When using lava, make sure using most efficient route available
 		- Model map useful in this
 	- Process can have smell, too many pieces
 - Elegance
 	- Limit abstraction layers
-	- Keep data seperate from template wherever possible
+	- Keep data separate from template wherever possible
 		- Dataset is only the info
 		- HTML template and markup is how to display
 ### Final Q&A
