@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All Zones Review.md",
+                "file": "Notes/KDO Parent Portal Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "All Zones Review"
+              "title": "KDO Parent Portal Notes"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "parent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,6 +176,9 @@
   },
   "active": "c087ef8fb5d1df6b",
   "lastOpenFiles": [
+    "Conferences/RX/RX2022/Onboarding And Offboarding Using Project Management.md",
+    "Notes/KDO Parent Portal Notes.md",
+    "All Zones Review.md",
     "Classes/Lava/Slides/Lava Session 2 - Intro To Filters.pdf",
     "Classes/Lava/Lava Class Day 5.md",
     "Classes/Lava/Slides/Lava Session 1 - Beginning with the Basics.pdf",
@@ -186,7 +190,6 @@
     "Conferences/Rock Regional/Rock Regional Meet-Up.md",
     "SQL Quick Ref.md",
     "Conferences/Rock Regional",
-    "All Zones Review.md",
     "Database Performance Killers.md",
     "Conferences/CITN/CITN 2024/CITN 2024 Summary.md",
     "Conferences/CITN/CITN 2024/App Dev 101.md",
@@ -205,12 +208,10 @@
     "New Quick Notes/2024/9-Sep/2024-09-12.md",
     "New Quick Notes/2024/9-Sep/2024-09-10.md",
     "New Quick Notes/2024/9-Sep/2024-09-11.md",
-    "New Quick Notes/2024/9-Sep/2024-09-19.md",
     "New Quick Notes/2024/9-Sep",
     "Conferences/RX/RX2024",
     "New Quick Notes/2024/8-Aug",
     "New Quick Notes/2024/7-Jul",
-    "New Quick Notes/2024/6-Jun",
     "Notes/Research/Personal Data deletion request.png",
     "Conferences/RX/RX2022/Triumph what to document pic.jpeg",
     "Notes/Research/COPPA example.png",
