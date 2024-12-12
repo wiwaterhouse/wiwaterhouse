@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "12913cf14fd8602a",
+        "id": "89bc03f744887416",
         "type": "tabs",
         "children": [
           {
-            "id": "c087ef8fb5d1df6b",
+            "id": "f776ccd8d6da813a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/KDO Parent Portal Notes.md",
+                "file": "Classes/Lava/Lava Class Day 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KDO Parent Portal Notes"
+              "title": "Lava Class Day 4"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "parent",
+                "query": "array",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,18 +174,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c087ef8fb5d1df6b",
+  "active": "f776ccd8d6da813a",
   "lastOpenFiles": [
-    "Conferences/RX/RX2022/Onboarding And Offboarding Using Project Management.md",
-    "Notes/KDO Parent Portal Notes.md",
-    "All Zones Review.md",
-    "Classes/Lava/Slides/Lava Session 2 - Intro To Filters.pdf",
-    "Classes/Lava/Lava Class Day 5.md",
+    "Classes/Lava/Lava Class Day 2.md",
     "Classes/Lava/Slides/Lava Session 1 - Beginning with the Basics.pdf",
+    "Classes/Lava/Slides/Lava Session 2 - Intro To Filters.pdf",
     "Classes/Lava/Lava Class Day 1.md",
+    "Classes/Lava/Slides/Lava Session 10 - Entity Command.pdf",
+    "Classes/Lava/Slides/Lava Session 11 - SQL Command.pdf",
+    "Classes/Lava/Slides/Lava Session 12 - Advanced For Loops.pdf",
+    "Classes/Lava/Slides/Lava Session 13 - Attributes.pdf",
+    "Notes/KDO Parent Portal Notes.md",
+    "Conferences/RX/RX2022/Onboarding And Offboarding Using Project Management.md",
+    "All Zones Review.md",
+    "Classes/Lava/Lava Class Day 5.md",
     "Classes/Lava/Lava Class Day 4.md",
     "Classes/Lava/Lava Class Day 3.md",
-    "Classes/Lava/Lava Class Day 2.md",
     "Conferences/RX/RX2024/Keynote.md",
     "Conferences/Rock Regional/Rock Regional Meet-Up.md",
     "SQL Quick Ref.md",
@@ -207,11 +211,6 @@
     "Conferences/CITN/CITN 2024",
     "New Quick Notes/2024/9-Sep/2024-09-12.md",
     "New Quick Notes/2024/9-Sep/2024-09-10.md",
-    "New Quick Notes/2024/9-Sep/2024-09-11.md",
-    "New Quick Notes/2024/9-Sep",
-    "Conferences/RX/RX2024",
-    "New Quick Notes/2024/8-Aug",
-    "New Quick Notes/2024/7-Jul",
     "Notes/Research/Personal Data deletion request.png",
     "Conferences/RX/RX2022/Triumph what to document pic.jpeg",
     "Notes/Research/COPPA example.png",
