@@ -14,5 +14,8 @@
 - What community group are they in?
 - Listing of Springdale community groups
 	- Separate report
+	- member count
 - Listing of Springdale FSM groups
 	- Separate report
+	- member count
+- look into map on page
