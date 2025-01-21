@@ -9,6 +9,7 @@
 
 - What congregation do they attend?
 - How many households?
+	- 4,070
 - Ages of people?
 - What community group are they in?
 - Listing of Springdale community groups
