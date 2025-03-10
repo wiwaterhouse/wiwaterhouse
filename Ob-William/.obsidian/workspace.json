@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f18b23362ebcfb78",
+        "id": "62b16a655c3c6e1a",
         "type": "tabs",
         "children": [
           {
-            "id": "705d5444fc6fefb8",
+            "id": "e783dbcc029968f2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "Livestream Help For Megan.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "Livestream Help For Megan"
             }
           }
         ]
@@ -51,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "array",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,8 +174,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "705d5444fc6fefb8",
+  "active": "e783dbcc029968f2",
   "lastOpenFiles": [
+    "Meetings/CR Rock Feature Notes.md",
+    "Livestream Help For Megan.md",
     "Classes/Lava/Lava Class Day 4.md",
     "Notes/Bart Report for Springdale.md",
     "Classes/Lava/Lava Class Day 2.md",
@@ -208,8 +212,6 @@
     "Conferences/CITN/CITN 2024/SEO Web Design Best Practices.pdf",
     "New Quick Notes/2024/9-Sep/2024-09-27.md",
     "Conferences/CITN/CITN 2024",
-    "New Quick Notes/2024/9-Sep/2024-09-12.md",
-    "New Quick Notes/2024/9-Sep/2024-09-10.md",
     "Notes/Research/Personal Data deletion request.png",
     "Conferences/RX/RX2022/Triumph what to document pic.jpeg",
     "Notes/Research/COPPA example.png",
