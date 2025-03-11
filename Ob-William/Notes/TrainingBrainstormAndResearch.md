@@ -1,7 +1,0 @@
-- Digital resources
-	- Video, text, large-scale meeting
-	- Procedures
-	- Wiki
-- Lecture setting
-	- Class schedule?
-	- Bema resources to help train

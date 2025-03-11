@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Livestream Help For Megan"
             }
+          },
+          {
+            "id": "ad44d7d2e0374fc2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "101f4314985fc9f5",
@@ -175,10 +185,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e783dbcc029968f2",
+  "active": "ad44d7d2e0374fc2",
   "lastOpenFiles": [
-    "Meetings/CR Rock Feature Notes.md",
     "Livestream Help For Megan.md",
+    "Meetings/CR Rock Feature Notes.md",
     "Classes/Lava/Lava Class Day 4.md",
     "Notes/Bart Report for Springdale.md",
     "Classes/Lava/Lava Class Day 2.md",

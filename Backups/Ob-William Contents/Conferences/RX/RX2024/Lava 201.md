@@ -1,0 +1,42 @@
+- Lava is just a templating language
+- Gets data by entity framework, not directly from database
+- Attributes vs properties
+	- Attributes slow, properties fast
+	- Harder to use, easier to use
+- Properties use Ids, Attributes use GUIDs
+- RawValue parameter will print out what is stored in the database
+- Object parameter will return the whole object with all properties
+- Can use a property as a parameter
+
+Lava is Lazy (Entity Framework)
+- Entity framework only gets data when you ask for it*
+	- Wont get more data than asked
+	- Can make many trips to database
+	- can cause extra load, especially when using loops
+- Does this matter?
+	- internally, communication, workflow - probs not
+	- Website - probs yes
+- Caching
+	- Set cache on blocks
+	- Easy, but some caveats
+		- currentperson doesnt work
+		- stylesheet no worky
+		- javascript no worky
+	- Cache key and duration, twopass = true to process individual lava while caching
+	- Permissions for cached pages problem
+	- Cached as the first person saw it
+	- Internationalization also can break with caching
+	- Persisted dataset can help
+		- Caches the data, not the output
+- Lava webhooks
+	- Load more data on page button
+		- O data, do not use on web
+		- Can define limits to content items
+	- Can do lots of things with these
+
+Lava and Permissions
+- PERMISSIONS
+	- DONT TRUST USERS
+	- Make sure things are limited to make sure URL can't access things that are supposed to be locked down
+	- Parameters for SQL ALWAYS
+	- DO NOT PUT LAVA IN YOUR SQL, use parameters ALWAYS

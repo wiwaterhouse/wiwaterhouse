@@ -1,0 +1,68 @@
+### Session 17 - Performance
+- Cache
+	- Rock is fast, templates and customizations may slow down
+	- Cached records
+		- Defined values/types
+		- Campus
+		- Page
+		- Block
+		- Attribute, NOT VALUES
+		- (more in lava documentation)
+	- Entity commands and SQL go to database by default
+	- | FromCache:'EntityTYpe' for entity commnands to go get from cache
+	- Adding cache yourself
+		- Block settings
+	- Partially-Cached content
+		- {% cache key:'key' duration:'3600' %} {% endcache %} to specify parts to cache
+		- {% raw %} {{ something personalized }} {% endraw %} twopass:'true' in cache command to get the lava to process
+- Request Efficiency
+	- Limit number of database lookups, slowest type
+	- Every attribute lookup, requires database lookup
+	- multiple . means more database lookups
+	- Persisted Datasets
+		- Stored as JSON
+		- Refreshed on schedule
+### Session 18 - Other Topics
+- Azure Management plugin #folloup not sure what this is used for
+- Naming Things
+	- Make sure keys are type-able
+	- Consider context of keys
+	- Clarity is the name of the game
+- Don't repeat yourself
+	- DRY = Single Source of Truth
+	- Data views
+	- One Event, many occurrences
+	- Lava Short Codes
+		- #followup replace code snippets with short codes
+- Rigging
+	- What is it? A collection of components which support and control what you're doing
+	- Large processes have a lot of data
+	- Persisted Dataset
+		- Stored in JSON and cached on specified interval
+		- Reminder, use | PersistedDataset filter to access
+	- Your Event (example)
+		- look at the slides #followup
+- Code Smell
+	- Code less clear
+	- hard to maintain
+	- may indicate deeper issues, opportunities for unintended consequences
+	- be aware of any lava in HTML comments, they still run
+	- When using lava, make sure using most efficient route available
+		- Model map useful in this
+	- Process can have smell, too many pieces
+- Elegance
+	- Limit abstraction layers
+	- Keep data separate from template wherever possible
+		- Dataset is only the info
+		- HTML template and markup is how to display
+### Final Q&A
+- File Types
+	- Databes = secure
+	- File system != secure
+	- Blob storage = secure
+- QUESTION: best practices for caching images? Where are images cached, persisted datasets?
+	- width and height in the url, stored in filesystem as a copy once it's generated
+	- #followup search on page source for any GetImage without size limiters
+- Reports
+	- Lava fields have access to any columns added to the report, can uncheck show in grid for anything you need to make available to more easily get data
+	- can access by the name of the column, no need for row.Name

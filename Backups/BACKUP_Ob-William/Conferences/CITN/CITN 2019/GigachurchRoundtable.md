@@ -1,0 +1,9 @@
+- Communication between campuses
+- Budget
+- Boundary, figure out together, walk-through on regular basis
+- Project/Future facing meetings
+- Clear about support
+- HR training for onboarding
+- Billing alerts
+- What **==NEEDS==** to be in cloud
+- Cloud strategy

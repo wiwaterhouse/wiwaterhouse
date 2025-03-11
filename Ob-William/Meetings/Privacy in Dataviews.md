@@ -1,8 +1,0 @@
-- Over 300, contact us
-- purpose of email
-- bulk
-- ==**new group of people**==
-- Through MR - Audra
-- Purposes:
-	- Opt-in
-	- Ministry

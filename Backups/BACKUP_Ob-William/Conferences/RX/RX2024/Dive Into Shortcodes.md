@@ -1,0 +1,1 @@
+- Lava Shortcodes in CMS config

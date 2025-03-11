@@ -1,0 +1,42 @@
+- Cyberhawk dedicated server deployment
+- Produce alerts once detected
+- portal for cyberhawk
+- 2 options
+	- Virtual
+		- Runs on linux
+		- Includes weekly scan
+	- ~~Service on Windows~~
+- To-Do list to make sure everything is configured
+- Download linke in ^
+- Level 1 scans
+	- install on single Windows server
+- Level 2 scans
+	- Linux VM on Hyper-v
+- Not associated with AD
+	- treat as part
+	- Treat as not
+- Domain admin for credentials
+- Selective OU's or all
+- Additional Creds:
+	- Other workgroups
+	- Local admin creds
+- IP Ranges, can add manually
+- PCI will scan whole network
+- Can disable each scan as part of configuration
+- Run while PC's are accessible - level 1
+- Level 2 needs off-peak hours
+- alerts generated at specific times
+- SMTP server can be custom
+- WMI needs to be accessible on machines to be scanned
+	- Rapidfiretools.happyfox.com/
+	- GPO for WMI enabled
+- Results page for Pre-scan to see what is accessible
+- Needs to have access for Admin$ and .NET 3.5 at least
+- Smart Tags
+	- Can tag networks as Restricted, generate alerts
+	- Apply to specific ip ranges
+	- Computers
+	- users
+	- printers
+	- SSID
+- Red in policy requires more configuration

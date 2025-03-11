@@ -1,0 +1,15 @@
+- DNS, internal/external > all
+	- rename to ald
+	- cog
+	- ==only 2==
+- Shut down dev SQL
+	- Delete?
+- Shut down task server
+	- get script for signs
+	- cell phone alerts
+- roles for Rock
+- Communication areas teams for events
+- Individuals/groups - easy
+- Events - hard
+- GP test - fay to go live Friday
+- Workflows in Rock

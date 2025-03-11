@@ -1,6 +1,0 @@
-- Ask questions
-- community
-- next year, AV maybe?
-- Roundtable questions - need list
-	- 1st day - questions then answers
-	- 2nd day - specialized roles, same Q&A

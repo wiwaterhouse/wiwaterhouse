@@ -1,0 +1,109 @@
+# 16.x feature releases
+- Observability
+- Note pins
+- One click unsubscribe
+- .7 payment plans
+- interaction intents
+# v17
+- Adaptive messaging
+	- Personalizing based on segments
+- Communication wizard
+	- New templated row
+- Communication entry block
+	- new ux
+	- Rich text entry revamp
+	- in sms, emoji picker
+- LMS
+	- On-demand
+	- Academic calendar
+	- end of course testing
+- Dynamic data block
+	- new grid with filtering and sorting
+- Generosity reports
+	- Volunteer analysis
+	- Tithing overview
+		- Census data brought into Rock
+- Settings menu
+	- bit of a revamp
+	- surfacing new settings
+	- ALL settings on a single page
+- Peer Networks
+	- New list that shows relationship patterns
+	- higher score based on group type and weighted relationship score increments
+	- Peer graph to see all relationships, the list is limited to 20
+- Social network analysis
+	- individual measures
+		- number of connections
+		- trends
+	- organizational measures
+		- degree of connectedness
+- v17 completion status, about 70%
+# NextGen
+- DotNet Core updates
+- Obsidian blocks
+- Check-in v2
+	- 25x speed increase
+	- UI refresh
+		- a bit streamlined
+		- easier to theme
+	- Check-in features
+		- Check-in ads
+			- Content channel for these
+		- new label designer page
+			- new label categories
+			- Conditional fields
+			- conditional labels - YES
+			- adaptive font size
+			- dynamic text
+		- Cloud print
+			- abillity for server printer with no checkin device needed
+- Grid implementation
+- controls 100% done
+- api v2 about to be merged to develop branch
+- plugin patterns
+- Overall, about 50% next gen completed
+# AI
+- Provider framework
+	- OpenAI out of the box
+	- Plugins for other providers
+	- Can support self-hosted
+- Prayer automation - will be in v17
+	- categorize
+	- sentiment
+	- name removal
+	- formatting
+	- moderation
+	- appropriate for public
+- Auto note approval
+	- Can provide guidance for note types
+	- NOTE: comments on prayers are notes
+- AI completions
+	- Any entity created, can ask AI to automate some next steps
+- Insights and recommendations - TBD
+	- research on practical uses for this
+	- maybe button for 'Ask for Insights'
+- Semantic search - TBD
+	- uses LLM for more advanced search
+# Rock Mobile
+- Maui - NextGen for mobile - Available NOW
+	- Refreshed UI
+	- Easy light/dark transition
+- Staff apps
+	- Can now add connection requests in mobile app
+	- Person picker added to mobile
+- Page Transitions added
+- Media player redesign
+- Entra SSO support
+- Content channel view block
+	- Content collection view seems to be the name
+- Giving
+	- Native giving added to the app!
+- Mobile check-in native experience
+	- QR codes
+	- NFC support!
+	- Short links
+		- can deep link from NFC
+		- Schedule short links
+			- Dynamically re-assign the destination for the same link
+		- Analytics for short links
+				- New page to view data

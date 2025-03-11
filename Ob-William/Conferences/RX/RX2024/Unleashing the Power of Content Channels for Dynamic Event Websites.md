@@ -1,1 +1,0 @@
-Utilize a content channel for each item to drive a webpage in a template-ized manner. Single item is a webpage

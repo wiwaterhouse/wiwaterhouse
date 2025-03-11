@@ -1,0 +1,73 @@
+### Session 1 - Intro to Lava
+- Hello World
+	- Started life at Shopify.com
+	- Started as liquid Template language
+	- Lava is NOT a programming language
+- Technical Terms
+	- Literal
+		- A value that is directly written into the source of a program
+	- Braces
+		- {{}} write this
+	- Pipes
+		- |
+	- LAVA IS CASE-SENSITIVE
+	- HTML <pre></pre> tag wrapper to output raw data without any formatting
+- Variables
+	- Yep, they are a thing
+	- camelCaseRecommended
+	- PascalCase for objects and properties
+	- Types
+		- Primitives
+		- Arrays
+		- Objects (specific to Rock)
+- Lava Tags
+	- {% %} commands
+- Anatomy of Objects
+	- Object.Property.PropertyOfProperty
+- Getting Data
+	- Merge Fields (provided by block)
+	- Get it ourselves
+		- Entity Commands
+		- SQL
+- Commenting
+	- {% comment %} {% endcomment %} OR /- -/ for comment blocks
+	- //- for single line commenting
+
+### Session 2 - Intro to Filters
+- Getting Data
+	- {{ thing | filter | Property:'' }}
+	- Access attributes {{ thing | Attribute:'AttributeKey' }}
+		- NOTE: Defaults to Text of some sort
+- Text Filters
+	- {{ item.Content | NewlineToBr }} adds breaks after each new line if returns exsit in database
+	- Lots of examples
+	- | StripHtml useful
+	- | StripNewlines pulls out any new lines in the content
+	- | Trim removes whitespace before and after content
+	- | Split:'char'
+		- Can | into ToJson to get an array built as JSON text
+	- | Slice:0,2 - from 0, return 2 characters
+	- | Truncate:20,'...' will return first 20 characters followed by second parameter, count INCLUDES the following string
+		- can also | TruncateWords
+	- | WithFallback:'param1','param2' will use param1 if the text is not null
+	- | Default:'param' will return param value if value does not exist
+	- Attributes
+		- | Attribute:'key','property' OR 'Object' to return whole object
+- Numeric Filters
+	- | lots of math filters
+	- | Modulo for modulus division
+	- | AtLeast
+	- | AtMost
+	- | Floor is round down
+	- | Ceiling is round up
+	- | Round is closest
+	- | Format:'#,##0.00' uses excel number formatting
+- Date Filters
+	- | Date:'M/d/yy' standard stuff
+	- | DateAdd:14 days is default, use , then specify y,M,h for years, months, hours
+	- | TimeOfDay will return a date as something like afternoont
+	- | AsDateTimeUtc
+### Session 3 - Working with Variables
+- {% capture varName %} {% endcapture %} grabs everything within as a variable
+	- NOTE, this only stores the printed text that would have been output to HTML
+- Otherwise, pretty normal stuff as far as variables go
