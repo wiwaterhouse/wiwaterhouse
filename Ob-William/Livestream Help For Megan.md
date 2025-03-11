@@ -1,6 +1,5 @@
 # YouTube login
 - Open YouTube Studio
-- go to live tab and download the most recent livestream
 - Edit pencil on the most recent livestream vid
     - Title needs changed to sermon title | series | date of service
     - Description box, add teacher, title (get from Rock), refer to the content channel item for info
