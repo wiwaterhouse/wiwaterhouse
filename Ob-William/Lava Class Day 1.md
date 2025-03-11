@@ -1,3 +1,4 @@
+#class #lava
 ### Session 1 - Intro to Lava
 - Hello World
 	- Started life at Shopify.com

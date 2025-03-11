@@ -1,3 +1,4 @@
+#class #lava
 ### Session 8 - HTML Block
 - Standard HTML editing in Rock
 - Style guide too, standard stuff

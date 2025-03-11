@@ -1,3 +1,4 @@
+#class #lava
 ### Session 17 - Performance
 - Cache
 	- Rock is fast, templates and customizations may slow down

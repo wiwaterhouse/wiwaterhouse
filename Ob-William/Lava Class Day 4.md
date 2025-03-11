@@ -1,3 +1,4 @@
+#class #lava
 ### Session 12 - Advanced For Loops
 - Pre-filtering your Array
 	- assign array var outside of for loop and sort it first, then roll through th eloop

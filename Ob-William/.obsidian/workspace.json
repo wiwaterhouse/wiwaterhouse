@@ -22,13 +22,17 @@
             }
           },
           {
-            "id": "ad44d7d2e0374fc2",
+            "id": "3f935b068efb7e3b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CR Rock Feature Notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CR Rock Feature Notes"
             }
           }
         ],
@@ -185,9 +189,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad44d7d2e0374fc2",
+  "active": "3f935b068efb7e3b",
   "lastOpenFiles": [
     "Livestream Help For Megan.md",
+    "Lava Class Day 5.md",
+    "Lava Class Day 4.md",
+    "Lava Class Day 3.md",
+    "Lava Class Day 2.md",
+    "Lava Class Day 1.md",
     "Meetings/CR Rock Feature Notes.md",
     "Classes/Lava/Lava Class Day 4.md",
     "Notes/Bart Report for Springdale.md",
@@ -216,12 +225,7 @@
     "Conferences/CITN/CITN 2024/SQL Server for Smarties.md",
     "Conferences/CITN/CITN 2024/App and WebDev Roundtable.md",
     "Conferences/CITN/CITN 2024/Day 1 Keynote.md",
-    "Conferences/CITN/CITN 2024/Modern Web Frameworks.md",
-    "Conferences/CITN/CITN 2024/On a Mission with New Relic.md",
-    "Conferences/CITN/CITN 2024/Tools for new devs.md",
-    "Conferences/CITN/CITN 2024/SEO and Web Design Best Practices.md",
     "Conferences/CITN/CITN 2024/SEO Web Design Best Practices.pdf",
-    "New Quick Notes/2024/9-Sep/2024-09-27.md",
     "Conferences/CITN/CITN 2024",
     "Notes/Research/Personal Data deletion request.png",
     "Conferences/RX/RX2022/Triumph what to document pic.jpeg",

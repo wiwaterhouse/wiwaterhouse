@@ -1,3 +1,4 @@
+#class #lava
 ### Session 4 - Conditional Logic
 - {% case var %} then when var to set up switch case
 - Boolean Values 
