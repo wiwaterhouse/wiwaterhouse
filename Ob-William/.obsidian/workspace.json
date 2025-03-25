@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livestream Help For Megan.md",
+                "file": "2024-06-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Livestream Help For Megan"
+              "title": "2024-06-24"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ipad",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,8 +192,8 @@
   },
   "active": "3f935b068efb7e3b",
   "lastOpenFiles": [
-    "CR Rock Feature Notes.md",
     "Livestream Help For Megan.md",
+    "CR Rock Feature Notes.md",
     "Lava Class Day 5.md",
     "Lava Class Day 4.md",
     "Lava Class Day 3.md",
