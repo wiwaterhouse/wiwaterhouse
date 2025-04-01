@@ -22,17 +22,13 @@
             }
           },
           {
-            "id": "3f935b068efb7e3b",
+            "id": "21686aabc0049af0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-06-24.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024-06-24"
+              "title": "New tab"
             }
           }
         ],
@@ -68,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ipad",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +85,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,11 +185,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f935b068efb7e3b",
+  "active": "21686aabc0049af0",
   "lastOpenFiles": [
-    "CR Landing Checkin Notes.md",
     "Livestream Help For Megan.md",
+    "Regional Rock Meeting 4-2025.md",
     "CR Rock Feature Notes.md",
+    "Bart Report for Springdale.md",
+    "BeeFreeRolloutPlan.md",
+    "2024-06-24.md",
+    "CR Landing Checkin Notes.md",
     "Lava Class Day 5.md",
     "Lava Class Day 4.md",
     "Lava Class Day 3.md",
@@ -221,11 +220,7 @@
     "SQL Quick Ref.md",
     "Conferences/Rock Regional",
     "Database Performance Killers.md",
-    "Conferences/CITN/CITN 2024/CITN 2024 Summary.md",
-    "Conferences/CITN/CITN 2024/App Dev 101.md",
     "Conferences/CITN/CITN 2024/Software Architecture Design Patterns.pdf",
-    "Conferences/CITN/CITN 2024/Software Architecture and Design Patterns in the real world.md",
-    "Conferences/CITN/CITN 2024/SQL Server for Smarties.md",
     "Conferences/CITN/CITN 2024/SEO Web Design Best Practices.pdf",
     "Conferences/CITN/CITN 2024",
     "Notes/Research/Personal Data deletion request.png",
