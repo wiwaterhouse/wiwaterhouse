@@ -1,3 +1,4 @@
 - Project Finder from Northside for sign-ups (signup genius)
 	- [Project Finder](https://github.com/Northside-CC/ProjectFinder?tab=readme-ov-file)
+- Potentially turn off Private Notes on person profile page
 - 
