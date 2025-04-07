@@ -3,6 +3,8 @@
     - App for mac
 - Simple Power Pack
     - javascript to add to the page, no plugin required
+    - feedback
+        - Anything goes wonky, send it to the proper bucket
 - Rock Updates
     - Can upgrade to 16.10
         - Why could we not upgrade????
