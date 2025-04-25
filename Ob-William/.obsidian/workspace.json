@@ -25,10 +25,14 @@
             "id": "21686aabc0049af0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PFS Rough Draft 2026.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "PFS Rough Draft 2026"
             }
           }
         ],
@@ -187,6 +191,7 @@
   },
   "active": "21686aabc0049af0",
   "lastOpenFiles": [
+    "PFS Rough Draft 2026.md",
     "Rock LMS Bema Presentation.md",
     "SimpleNotes.md",
     "Livestream Help For Megan.md",
@@ -218,7 +223,6 @@
     "Classes/Lava/Lava Class Day 5.md",
     "Classes/Lava/Lava Class Day 3.md",
     "Conferences/RX/RX2024/Keynote.md",
-    "Conferences/Rock Regional/Rock Regional Meet-Up.md",
     "Conferences/Rock Regional",
     "Conferences/CITN/CITN 2024/Software Architecture Design Patterns.pdf",
     "Conferences/CITN/CITN 2024/SEO Web Design Best Practices.pdf",
