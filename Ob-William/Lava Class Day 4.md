@@ -1,7 +1,7 @@
 #class #lava
 ### Session 12 - Advanced For Loops
 - Pre-filtering your Array
-	- assign array var outside of for loop and sort it first, then roll through th eloop
+	- assign array var outside of for loop and sort it first, then roll through the loop
 	- | SortByAttribute filter to do what it says on the tin
 	- | Concat:var to add one array to another
 	- Reminder - | Distinct'Property' works for this too
