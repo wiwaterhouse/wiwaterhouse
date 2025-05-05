@@ -4,6 +4,7 @@ Seems to be security in nature
 	- Escalate only when necessary
 		- Workflow to escalate security
 			- Request sent to Christy?
+			- Approval required?
 			- Time duration?
 	- regular security audit
 	- 
