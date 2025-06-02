@@ -11,3 +11,6 @@
 ### Online
 - Community over content
 	- We live in a content rich, community poor world
+### Printing
+- paper cut alternative to printix
+- 
