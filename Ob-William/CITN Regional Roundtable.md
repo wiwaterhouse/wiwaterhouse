@@ -8,3 +8,6 @@
 ### Integrations
 - Clerk SMS - texting integration into Teams, also campaigns (not sure if plugin into Rock)
 ### Automations
+### Online
+- Community over content
+	- We live in a content rich, community poor world
