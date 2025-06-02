@@ -1,1 +1,1 @@
-- Check to see if flag to be added for international travel
+- Check to see if attribute to be added for international travel
