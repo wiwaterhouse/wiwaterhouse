@@ -6,4 +6,5 @@
 - KnowBe4
 - ClipTraining
 ### Integrations
+- Clerk SMS - texting integration into Teams, also campaigns (not sure if plugin into Rock)
 - 
