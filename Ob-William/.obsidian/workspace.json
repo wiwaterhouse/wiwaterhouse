@@ -20,33 +20,8 @@
               "icon": "lucide-file",
               "title": "CITN Regional Roundtable"
             }
-          },
-          {
-            "id": "2c525bb5f66ea654",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mosyle Training.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Mosyle Training"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,7 +175,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c525bb5f66ea654",
+  "active": "8b4de76eca626002",
   "lastOpenFiles": [
     "Mosyle Training.md",
     "CITN Regional Roundtable.md",
