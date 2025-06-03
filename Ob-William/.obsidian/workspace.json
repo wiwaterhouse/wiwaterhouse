@@ -20,8 +20,33 @@
               "icon": "lucide-file",
               "title": "CITN Regional Roundtable"
             }
+          },
+          {
+            "id": "2c525bb5f66ea654",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mosyle Training.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Mosyle Training"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,10 +200,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b4de76eca626002",
+  "active": "2c525bb5f66ea654",
   "lastOpenFiles": [
-    "401k.md",
+    "Mosyle Training.md",
     "CITN Regional Roundtable.md",
+    "Untitled 1.md",
+    "401k.md",
     "2023-11-30.md",
     "2023-11-29.md",
     "Bart Report for Springdale.md",
@@ -211,8 +238,6 @@
     "Lava Class Day 2.md",
     "Meetings/CR Rock Feature Notes.md",
     "Classes/Lava/Lava Class Day 4.md",
-    "Notes/Bart Report for Springdale.md",
-    "Classes/Lava/Lava Class Day 2.md",
     "Notes/Research/Personal Data deletion request.png",
     "Conferences/RX/RX2022/Triumph what to document pic.jpeg",
     "Notes/Research/COPPA example.png",
