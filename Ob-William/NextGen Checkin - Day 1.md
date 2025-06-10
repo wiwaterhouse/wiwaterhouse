@@ -97,10 +97,10 @@
 		- May help with SMS check out codes??? #followup 
 	- NO APOSTROPHES in any of the diplay settings for checkin
 	- Registration mode only on manned kiosks
-	- 
 #questions 
-- What's the benefit to not having kids be members of groups?
-	- 
+- ~~What's the benefit to not having kids be members of groups?
+	- No need to move kids during promotion
+	- checkin by criteria
 - ~~How to organize groups and group types across all campuses in checkin config?
 	- USE group viewer instead of config
 	- Unify config AND groups, customize locations
