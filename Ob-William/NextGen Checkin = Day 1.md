@@ -1,0 +1,52 @@
+## Why NextGen?
+- Faster, by far
+- Previous based on workflow
+- Now single block, everything done in code
+- Old had stuff tacked on over time
+- Old checkin was one of the first parts of Rock
+## NexGen History
+- Funded by bunch of big churches
+- First beta in 16.7
+- Don't roll out until 17.1
+## New Features
+- Labels
+	- Label designer
+		- Drag-and-drop gui
+		- Adaptive font size for longer names
+			- limits text to bounding box so no overflow
+	- Label types to print per/ lots of things
+		- Used to be just per family or per person
+		- type cannot be changed after the fact
+	- Conditional labels built-in
+- Kiosk templates
+	- Can create on the fly for auto-checkboxes
+	- Binds to URL so can bypass the need to select (beware for multi-config kiosks)
+	- Saved as defined type
+- Cloud print
+	- prolly won't use
+- Special Needs Features
+	- People and group have attribute so only correct groups show at checkin time
+- Kiosk Ads
+	- Welcome screen, driven by content channel
+	- Rotates each active content item with display durations
+- Person selection
+	- re-vamped with better error messaging
+- Themes
+	- Make a copy of NextGen then edit if needed
+- Cloning Checkin Schedules
+	- Clones group and location checkboxes to another schedule
+- Prefer enrolled groups
+- Prefer concurrent check-in
+	- Prevents checking into multiple groups in same area
+- Birth month range on groups
+	- We may not use
+- Overflow locations
+- Remove family from kiosk
+- All kiosk types support camera for code scanning
+- Proximity check-in
+	- geofencing? Bluetooth beacon? not sure yet...
+- New grade/ age matching features
+	- Kindergarten/preschool fixes
+- Age restrictions
+	- can hide adults or kids depending on config
+
