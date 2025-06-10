@@ -49,4 +49,34 @@
 	- Kindergarten/preschool fixes
 - Age restrictions
 	- can hide adults or kids depending on config
+- Split registration mode to only add or edit
+- Config screens
+	- changes coming soon
+- Checkin manager
+	- changes coming soon
+- Config will accordion
+- May not have every feature in classic
+	- TEST TEST TEST TEST TEST TEST
+- NextGen can run SIMULTANEOUSLY with classic
+	- Configured at kiosk level
+## Getting Started (classic)
+- Checkin needs to know
+	- Person
+	- Group
+	- Location
+	- Schedule
+- Ways to check in
+	- Criteria based
+		- grade/age/gender/birthdate
+		- ability level
+		- data view
+	- Membership-based
+		- already belongs
+		- add on checkin
+	- both of the above
+#note difference between location and named location in Rock? A name
+- Locations
+	- NOT getting multiple thresholds for different services/schedules/congregations
+- Schedules
+	- Recommendation to share schedules as much as possible
 
