@@ -79,4 +79,5 @@
 	- NOT getting multiple thresholds for different services/schedules/congregations
 - Schedules
 	- Recommendation to share schedules as much as possible
-
+- Checkin config
+	- Configurations are group types
