@@ -100,5 +100,9 @@
 	- 
 #questions 
 - What's the benefit to not having kids be members of groups?
-- How to organize groups and group types across all campuses in checkin config?
+- ~~How to organize groups and group types across all campuses in checkin config?
+	- USE group viewer instead of config
+	- Unify config AND groups, customize locations
+	- Locations will house the campus for reporting
 - ~~I there a reason to allow duplicate checkin?~~
+	- not really, just a church preference thing
