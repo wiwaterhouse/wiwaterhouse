@@ -86,11 +86,18 @@
 	- Place to organize groups
 	- Recommendation to keep no group members in any groups, do not add on checkin
 	- Recommendation to NOT have a checkin config per campus
-
-
-
-
+	- Recommendation to go to 4 characters for code length
+		- Slows down with more codes, checkin stops if runs out
+		- ALL checkins generate codes, even without printing
+		- Recycles at midnight
+		- Shared across ALL campuses and checkin configs
+		- Check to see if we're close to half of 13,000 for code availability per day
+	- Full phone number checkin provides to checkin data what number was used to check in kid
+		- May help with SMS check out codes??? #followup 
+	- NO APOSTROPHES in any of the diplay settings for checkin
+	- Registration mode only on manned kiosks
+	- 
 #questions 
 - What's the benefit to not having kids be members of groups?
 - How to organize groups and group types across all campuses in checkin config?
-- I there a reason to allow duplicate checkin?
+- ~~I there a reason to allow duplicate checkin?~~
