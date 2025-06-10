@@ -81,3 +81,7 @@
 	- Recommendation to share schedules as much as possible
 - Checkin config
 	- Configurations are group types
+		- Allowed child group types make other types show up in configuration
+	- Settings on kiosk
+	- Place to organize groups
+	- 
