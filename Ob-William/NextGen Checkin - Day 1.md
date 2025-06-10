@@ -84,4 +84,5 @@
 		- Allowed child group types make other types show up in configuration
 	- Settings on kiosk
 	- Place to organize groups
-	- 
+	- Recommendation to keep no group members in any groups, do not add on checkin
+	- Recommendation to NOT have a checkin config per campus
