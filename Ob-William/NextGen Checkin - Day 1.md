@@ -100,6 +100,7 @@
 	- 
 #questions 
 - What's the benefit to not having kids be members of groups?
+	- 
 - ~~How to organize groups and group types across all campuses in checkin config?
 	- USE group viewer instead of config
 	- Unify config AND groups, customize locations
