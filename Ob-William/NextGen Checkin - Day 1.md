@@ -1,14 +1,15 @@
-## Why NextGen?
+## NextGen
+### Why NextGen?
 - Faster, by far
 - Previous based on workflow
 - Now single block, everything done in code
 - Old had stuff tacked on over time
 - Old checkin was one of the first parts of Rock
-## NexGen History
+### NexGen History
 - Funded by bunch of big churches
 - First beta in 16.7
 - Don't roll out until 17.1
-## New Features
+### New Features
 - Labels
 	- Label designer
 		- Drag-and-drop gui
