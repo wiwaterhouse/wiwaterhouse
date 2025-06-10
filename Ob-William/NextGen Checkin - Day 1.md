@@ -86,3 +86,11 @@
 	- Place to organize groups
 	- Recommendation to keep no group members in any groups, do not add on checkin
 	- Recommendation to NOT have a checkin config per campus
+
+
+
+
+#questions 
+- What's the benefit to not having kids be members of groups?
+- How to organize groups and group types across all campuses in checkin config?
+- I there a reason to allow duplicate checkin?
