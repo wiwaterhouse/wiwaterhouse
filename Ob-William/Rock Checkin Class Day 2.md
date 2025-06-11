@@ -4,4 +4,5 @@
 - Grade transition date changes nothing in Rock, all grades are always calculated on the fly, nothing changes in the database
 - Alternate identifiers are used for barcodes
 - Recommendation, disable label caching
+## Checkin manager
 - 
