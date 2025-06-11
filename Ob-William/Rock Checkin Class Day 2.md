@@ -19,4 +19,5 @@
 ## Streaks, Achievements, and Celebrations
 - gamify activities in Rock for lots of things
 - Achievements can add steps
+- Rebuilding achievements does not git rid of completed achievements, but does delete the in-progress ones
 - 
