@@ -9,4 +9,9 @@
 ## Attendance Analytics
 - Pretty much same stuff
 ## New Families
-- 
+- sames stuff again
+## Mobile Checkin
+- 2 Pages
+	- Phone number lookup
+	- Mobile Check-in Launcher
+	- 
