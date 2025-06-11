@@ -9,9 +9,14 @@
 ## Attendance Analytics
 - Pretty much same stuff
 ## New Families
-- sames stuff again
+- same stuff again
 ## Mobile Checkin
 - 2 Pages
 	- Phone number lookup
 	- Mobile Check-in Launcher
-	- 
+## Rapid Attendance entry
+- check for option to use with training center perhaps
+## Streaks, Achievements, and Celebrations
+- gamify activities in Rock for lots of things
+- Achievements can add steps
+- 
