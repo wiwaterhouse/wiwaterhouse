@@ -107,3 +107,5 @@
 	- Locations will house the campus for reporting
 - ~~I there a reason to allow duplicate checkin?~~
 	- not really, just a church preference thing
+
+#class #rock #checkin
