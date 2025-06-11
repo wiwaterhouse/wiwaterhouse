@@ -5,4 +5,6 @@
 - Alternate identifiers are used for barcodes
 - Recommendation, disable label caching
 ## Checkin manager
+- same stuff
+## Attendance Analytics
 - 
