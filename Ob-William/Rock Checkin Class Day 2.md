@@ -7,4 +7,6 @@
 ## Checkin manager
 - same stuff
 ## Attendance Analytics
+- Pretty much same stuff
+## New Families
 - 
