@@ -1,0 +1,5 @@
+- Talk about redirecting domains
+- Look into Azure Frontdoor for security instead of Cloudflare
+	- Cloudflare for DNS
+	- Frontdoor for WAF and CDN
+- 
