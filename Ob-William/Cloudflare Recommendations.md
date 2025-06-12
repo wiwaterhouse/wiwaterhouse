@@ -1,5 +1,11 @@
 - Talk about redirecting domains
+	- Reduced attack surface
+	- Reduced tech debt
+	- main fellowshipnwa.org domain gets FAR more traffic than other domains by an order of magnitude
 - Look into Azure Frontdoor for security instead of Cloudflare
 	- Cloudflare for DNS
-	- Frontdoor for WAF and CDN
-- 
+	- Frontdoor for WAF and CDN - $300 plus bandwidth
+- VPN to Rock
+	- Discuss decommissioning FBCWEBX 
+	- Cost analysis for Events2HVAC
+- Talk about blocking direct traffic to public IP's
