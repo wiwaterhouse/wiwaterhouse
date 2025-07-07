@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Theme Temp"
             }
+          },
+          {
+            "id": "ffca89b5482a0943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "So it begins - Rock and IT.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "So it begins - Rock and IT"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -234,10 +258,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fb47119f1617b1d",
+  "active": "ffca89b5482a0943",
   "lastOpenFiles": [
-    "Cloudflare Recommendations.md",
+    "So it begins - Rock and IT.md",
     "Theme Temp.md",
+    "Cloudflare Recommendations.md",
     "Rock Checkin Class Day 2.md",
     "NextGen Checkin Day 1.md",
     "CITN Regional Roundtable.md",
@@ -271,7 +296,6 @@
     "CR Rock Feature Notes.md",
     "BeeFreeRolloutPlan.md",
     "2024-06-24.md",
-    "CR Landing Checkin Notes.md",
     "Notes/Research/Personal Data deletion request.png",
     "Conferences/RX/RX2022/Triumph what to document pic.jpeg",
     "Notes/Research/COPPA example.png",

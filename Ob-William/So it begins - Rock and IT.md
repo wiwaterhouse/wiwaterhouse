@@ -1,0 +1,3 @@
+- Unified front face, specialization behind
+- Point person owns issue, gets to next step/person who can help more
+- 
