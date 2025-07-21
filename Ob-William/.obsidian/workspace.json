@@ -150,9 +150,33 @@
               "icon": "lucide-file",
               "title": "New Time Clock for iPads"
             }
+          },
+          {
+            "id": "315d59c75a529d53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enable meeting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Enable meeting"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -209,7 +233,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "101f4314985fc9f5",
@@ -305,8 +330,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4e5aaffed048146",
+  "active": "315d59c75a529d53",
   "lastOpenFiles": [
+    "Enable meeting.md",
     "New Time Clock for iPads.md",
     "Communication List Plan.md",
     "So it begins - Rock and IT.md",
@@ -342,7 +368,6 @@
     "Lava Session 18 - Other Topics.pdf",
     "PFS Rough Draft 2026.md",
     "Rock LMS Bema Presentation.md",
-    "Regional Rock Meeting 4-2025.md",
     "Notes/Research/Personal Data deletion request.png",
     "Conferences/RX/RX2022/Triumph what to document pic.jpeg",
     "Notes/Research/COPPA example.png",
