@@ -6,4 +6,3 @@
 - Labor group set to department
 - Keypad timeout to 60 seconds
 - NOTE: registration downloads cookie to device, if cookie is ever cleared, must re-register device
-- 

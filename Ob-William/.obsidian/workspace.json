@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -233,8 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "101f4314985fc9f5",
@@ -330,12 +329,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "315d59c75a529d53",
+  "active": "d4e5aaffed048146",
   "lastOpenFiles": [
-    "Enable meeting.md",
-    "New Time Clock for iPads.md",
     "Communication List Plan.md",
     "So it begins - Rock and IT.md",
+    "Enable meeting.md",
+    "New Time Clock for iPads.md",
     "Admin Meeting.md",
     "Theme Temp.md",
     "Cloudflare Recommendations.md",
