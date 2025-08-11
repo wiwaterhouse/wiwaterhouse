@@ -1,3 +1,3 @@
 - Josh owning ticket management
 - Get new security role created for IT to start adding permissions
-- 
+- #todo Mosyle to figure out auto-lock for the ipads
