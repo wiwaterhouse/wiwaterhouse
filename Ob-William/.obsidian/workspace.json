@@ -128,30 +128,6 @@
             }
           },
           {
-            "id": "d4e5aaffed048146",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New Time Clock for iPads.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "New Time Clock for iPads"
-            }
-          },
-          {
             "id": "315d59c75a529d53",
             "type": "leaf",
             "state": {
@@ -174,9 +150,33 @@
               "icon": "lucide-file",
               "title": "Enable meeting"
             }
+          },
+          {
+            "id": "6eb09c8faa64f294",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech Team Meeting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tech Team Meeting"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -329,12 +329,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4e5aaffed048146",
+  "active": "6eb09c8faa64f294",
   "lastOpenFiles": [
+    "Tech Team Meeting.md",
     "Communication List Plan.md",
+    "New Time Clock for iPads.md",
     "So it begins - Rock and IT.md",
     "Enable meeting.md",
-    "New Time Clock for iPads.md",
     "Admin Meeting.md",
     "Theme Temp.md",
     "Cloudflare Recommendations.md",
@@ -366,7 +367,6 @@
     "Lava Session 17 - Performance.pdf",
     "Lava Session 18 - Other Topics.pdf",
     "PFS Rough Draft 2026.md",
-    "Rock LMS Bema Presentation.md",
     "Notes/Research/Personal Data deletion request.png",
     "Conferences/RX/RX2022/Triumph what to document pic.jpeg",
     "Notes/Research/COPPA example.png",

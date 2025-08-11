@@ -1,0 +1,3 @@
+- Josh owning ticket management
+- Get new security role created for IT to start adding permissions
+- 
