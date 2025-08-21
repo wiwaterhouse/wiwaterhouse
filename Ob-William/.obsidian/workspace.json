@@ -126,21 +126,9 @@
               "icon": "lucide-file",
               "title": "Communication List Plan"
             }
-          },
-          {
-            "id": "101dc35d79db7431",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -197,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "101f4314985fc9f5",
@@ -295,11 +282,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "101dc35d79db7431",
+  "active": "fff282bf77dba86d",
   "lastOpenFiles": [
-    "Livestream Help For Megan.md",
     "So it begins - Rock and IT.md",
     "Communication List Plan.md",
+    "Zebra RMA Process.md",
+    "Livestream Help For Megan.md",
     "Enable meeting.md",
     "Tech Team Meeting.md",
     "New Time Clock for iPads.md",
@@ -332,7 +320,6 @@
     "Lava Session 4 - Conditional Logic.pdf",
     "Lava Session 17 - Performance.pdf",
     "Lava Session 18 - Other Topics.pdf",
-    "PFS Rough Draft 2026.md",
     "Notes/Research/Personal Data deletion request.png",
     "Conferences/RX/RX2022/Triumph what to document pic.jpeg",
     "Notes/Research/COPPA example.png",
