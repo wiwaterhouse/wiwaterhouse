@@ -10,9 +10,8 @@
 	- var[1] = | Index:1
 		- REMINDER - arrays start at 0
 - Showing Arrays Without Loops
-	- Can display by using {{ arrayVar | Join:'</li><li>' }}
+	- Can display by using `{{ arrayVar | Join:'</li><li>' }}
 	- | Map:'Property' to trim to only info specified
-	- 
 ### Session 13 - Working with Attributes
 - Properties are .Properties
 	- Typically not changed often
