@@ -114,9 +114,21 @@
               "icon": "lucide-file-text",
               "title": "Lava Session 5 - Iterating"
             }
+          },
+          {
+            "id": "39290bc420366fff",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -271,7 +283,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fff282bf77dba86d",
+  "active": "39290bc420366fff",
   "lastOpenFiles": [
     "Lava Session 4 - Conditional Logic.pdf",
     "Lava Session 3 - Working With Variables.pdf",
