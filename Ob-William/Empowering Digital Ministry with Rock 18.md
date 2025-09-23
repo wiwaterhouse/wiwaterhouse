@@ -93,6 +93,11 @@ Coming soon! 🙄
 	- NOT in v18
 	- Aiming for v19
 	- Building agent skills to get things done in Rock
-	- 
+	- Voice agent is being built too
+- All written in C#
+- plugin support and lava support
+- MCP Server
+	- AI agents can call into Rock to do stuff
+- Realtime chats or Offline Automations
 
 #rx #rx2025 
