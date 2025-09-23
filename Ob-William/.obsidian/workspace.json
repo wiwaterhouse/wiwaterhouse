@@ -114,21 +114,9 @@
               "icon": "lucide-file-text",
               "title": "Lava Session 5 - Iterating"
             }
-          },
-          {
-            "id": "39290bc420366fff",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -283,13 +271,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39290bc420366fff",
+  "active": "fff282bf77dba86d",
   "lastOpenFiles": [
+    "Lava Session 5 - Iterating.pdf",
     "Lava Session 4 - Conditional Logic.pdf",
     "Lava Session 3 - Working With Variables.pdf",
     "Lava Session 2 - Intro To Filters.pdf",
     "Lava Session 1 - Beginning with the Basics.pdf",
-    "Lava Session 5 - Iterating.pdf",
     "The Model Map And Lava.md",
     "Lava Class Day 4.md",
     "Lava Class Day 2.md",
