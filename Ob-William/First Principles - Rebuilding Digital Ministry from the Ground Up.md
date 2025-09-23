@@ -1,4 +1,60 @@
-### 
-
+### Five Key questions
+- What is our why?
+	- In moments of disruptions, we need clarity
+	- Not in analogy, in truth
+	- Mission over methos
+- What is digital ministry?
+	- application of digital tools to amplify the mission of the church
+	- NOT our current online strategy
+	- It's not about new things, it's doing things in a new way
+	- Anchors:
+		- Break the Sunday-only mold
+		- Empower through participation
+			- Work through our people, not just on our people
+			- SEO vs GPO, God's people optimization
+			- Church and seekers
+		- Integrate not isolate
+			- not digital or analogue, its combo of both
+		- Measure what matters
+			- Elevate spiritual growth and life cahnge above other interactions
+		- Stay Rooted
+			- digital tools should not something
+- What trends should we be paying attention to?
+	- Change one - how content is consumed
+		- More AI agents
+		- consumption highly curated
+		- content will be subjectively summarized
+		- AI will hamper direct access to sources
+	- Change two - how content is discovered
+		- Click-through rate plummeting
+		- bypass SEO
+- How do we get started?
+	- Content is king
+		- If no content, Find noursishment elsewhere
+		- if no content, go hungry
+	- Generate more content
+	- Re-purpose content
+		- clips
+	- curate
+	- Empower your people
+		- right tools
+		- create content worth sharing
+		- cast clear vision
+- Next Steps
+	- leaders
+		- Reallocate resources to support digital ministry
+		- Hold digital teams accountable to the mission
+		- Embrace the disconfort that comes with innovation
+	- Digital teams
+		- steward leaderships trust faithfully
+		- prioritize mission of methods
+		- Integrate volunteerism into digital ministry
+- Closing Thoughts
+	- Eval tools and services with discernment
+	- digital ministry is next gold rush
+		- miner focused on th evalue of the outcome
+		- some tool provicers focus on quick returns
+			- there are no silver bullets
+		- we should not emulate business, borrow what's useful and reject what's not
 
 #rx #rx2025

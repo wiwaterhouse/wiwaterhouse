@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "24e549dc87958697",
+        "id": "54a8d038ab2fe8bb",
         "type": "tabs",
         "children": [
           {
-            "id": "935c527e331f6f0a",
+            "id": "2bf448b7dd362a8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "First Principles - Rebuilding Digital Ministry from the Ground Up.md",
+                "file": "Reset - How to Change What's Not Working.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "First Principles - Rebuilding Digital Ministry from the Ground Up"
+              "title": "Reset - How to Change What's Not Working"
             }
           }
         ]
@@ -187,9 +187,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "935c527e331f6f0a",
+  "active": "2bf448b7dd362a8f",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Reset - How to Change What's Not Working.md",
     "First Principles - Rebuilding Digital Ministry from the Ground Up.md",
+    "Untitled.md",
     "Rock Checkin Class Day 2.md",
     "Cloudflare Recommendations.md",
     "Theme Temp.md",
@@ -215,13 +218,10 @@
     "NextGen Checkin Day 1.md",
     "CITN Regional Roundtable.md",
     "Mosyle Training.md",
-    "Untitled 1.md",
     "401k.md",
     "2023-11-30.md",
     "2023-11-29.md",
     "Bart Report for Springdale.md",
-    "List of double-check stuff.md",
-    "Notes from Chris.md",
     "Lava Session 12 - Advanced For Loops.pdf",
     "Lava Session 7 - Additional Filters.pdf",
     "Lava Session 8 - HTML Block (1).pdf",
