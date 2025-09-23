@@ -19,4 +19,12 @@
 - Are things we doing working?
 - Will new things we try work?
 	- ask small before asking big
+### Connecting Pastorally
+- data can trigger care
+- stops - how can I pray for you?
+- starts - what is God doing in your lfe?
+### Balancing Data Privacy
+- What is the business need for access?
+	- Tiers of access (separating names and amounts for the majority)
+- leverage giving data without the dollar amounts
 - 
