@@ -11,10 +11,24 @@
             "id": "de59932225e7e59f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Digital Discipleship.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Digital Discipleship"
             }
           }
         ]
@@ -175,6 +189,7 @@
   },
   "active": "de59932225e7e59f",
   "lastOpenFiles": [
+    "Digital Discipleship.md",
     "Why Pastors Should use giving data.md",
     "To GPT or Not to GPT.md",
     "Reset - How to Change What's Not Working.md",
@@ -207,7 +222,6 @@
     "NextGen Checkin Day 1.md",
     "CITN Regional Roundtable.md",
     "Mosyle Training.md",
-    "401k.md",
     "Lava Session 12 - Advanced For Loops.pdf",
     "Lava Session 7 - Additional Filters.pdf",
     "Lava Session 8 - HTML Block (1).pdf",
