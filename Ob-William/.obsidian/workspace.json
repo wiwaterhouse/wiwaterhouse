@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "8e4a0d68317a6433",
+        "id": "24e549dc87958697",
         "type": "tabs",
         "children": [
           {
-            "id": "c2b19034bce88652",
+            "id": "935c527e331f6f0a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "First Principles - Rebuilding Digital Ministry from the Ground Up.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "First Principles - Rebuilding Digital Ministry from the Ground Up"
             }
           }
         ]
@@ -173,7 +187,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2b19034bce88652",
+  "active": "935c527e331f6f0a",
   "lastOpenFiles": [
     "First Principles - Rebuilding Digital Ministry from the Ground Up.md",
     "Rock Checkin Class Day 2.md",
