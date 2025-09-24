@@ -11,10 +11,24 @@
             "id": "8c3d0c842b132c63",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Group Finder with Helix.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Group Finder with Helix"
             }
           }
         ]
@@ -175,6 +189,7 @@
   },
   "active": "8c3d0c842b132c63",
   "lastOpenFiles": [
+    "Group Finder with Helix.md",
     "AI Agents.md",
     "Community Keynote.md",
     "Rock Mobile Keynote.md",
@@ -207,7 +222,6 @@
     "Enable meeting.md",
     "Tech Team Meeting.md",
     "New Time Clock for iPads.md",
-    "Admin Meeting.md",
     "Lava Session 12 - Advanced For Loops.pdf",
     "Lava Session 7 - Additional Filters.pdf",
     "Lava Session 8 - HTML Block (1).pdf",
