@@ -51,5 +51,6 @@
 - no eta yet
 
 note: mywell payment is the only one working
+follow-up: ministry pass plugin for checkin?
 
 #rx #rx2025 
