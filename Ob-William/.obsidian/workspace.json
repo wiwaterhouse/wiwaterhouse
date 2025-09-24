@@ -11,10 +11,24 @@
             "id": "71d6262b5bbebb83",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AI Agents.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "AI Agents"
             }
           }
         ]
@@ -175,6 +189,7 @@
   },
   "active": "71d6262b5bbebb83",
   "lastOpenFiles": [
+    "AI Agents.md",
     "Community Keynote.md",
     "Rock Mobile Keynote.md",
     "Digital Discipleship.md",
@@ -207,7 +222,6 @@
     "Tech Team Meeting.md",
     "New Time Clock for iPads.md",
     "Admin Meeting.md",
-    "NextGen Checkin Day 1.md",
     "Lava Session 12 - Advanced For Loops.pdf",
     "Lava Session 7 - Additional Filters.pdf",
     "Lava Session 8 - HTML Block (1).pdf",
