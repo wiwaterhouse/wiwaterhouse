@@ -35,5 +35,21 @@ Not in v18
 ### Registering Tools
 - .well-known/ai-tools.json for what tools are available
 - API keys will be able to be added to person profiles directly for access stuff
+### Remaining Challenges
+- Speed (not Rock but the models)
+- Memory
+	- Agent
+	- Knowlegebase
+- Voice
+- Tool Authoring
+- Security
+### Phase 2
+- RAG - Retrieval Augmented Generation
+- More Knowledge base
+- Graphs
+### Next Steps
+- Additional services and subscriptions required?
+- Implementation strategies within the UI
+- Knowledge base design and architecture
 
 #rx #rx2025 
