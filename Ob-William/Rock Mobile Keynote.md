@@ -24,7 +24,7 @@
 	- Push notificatoins
 	- DMs can be opt-in/out
 	- Enable chat configurable on group type
-	- triumph.tech app factory chat
+	- https://www.triumph.tech/app-factory for pricing
 	- THIS IS A SUBSCRIPTION separate from app factory
 		- they use a chat backend provider, cause of the costs
 - Proximity Checkin
