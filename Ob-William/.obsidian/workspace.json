@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e3f4d24cbee8a5c4",
+        "id": "4553f91efcae2656",
         "type": "tabs",
         "children": [
           {
-            "id": "8c3d0c842b132c63",
+            "id": "b5dc8dba11add4f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Group Finder with Helix.md",
+                "file": "Obsidian Development.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Group Finder with Helix"
+              "title": "Obsidian Development"
             }
           }
         ]
@@ -187,8 +187,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c3d0c842b132c63",
+  "active": "b5dc8dba11add4f1",
   "lastOpenFiles": [
+    "Obsidian Development.md",
     "Group Finder with Helix.md",
     "AI Agents.md",
     "Community Keynote.md",
@@ -221,7 +222,6 @@
     "Livestream Help For Megan.md",
     "Enable meeting.md",
     "Tech Team Meeting.md",
-    "New Time Clock for iPads.md",
     "Lava Session 12 - Advanced For Loops.pdf",
     "Lava Session 7 - Additional Filters.pdf",
     "Lava Session 8 - HTML Block (1).pdf",
