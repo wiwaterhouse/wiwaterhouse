@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c0024ba1a6bfe100",
+        "id": "30e160da7f904616",
         "type": "tabs",
         "children": [
           {
-            "id": "de59932225e7e59f",
+            "id": "6a8da0a6dd9fe198",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Discipleship.md",
+                "file": "Community Keynote.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Digital Discipleship"
+              "title": "Community Keynote"
             }
           }
         ]
@@ -187,8 +187,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de59932225e7e59f",
+  "active": "6a8da0a6dd9fe198",
   "lastOpenFiles": [
+    "Community Keynote.md",
     "Digital Discipleship.md",
     "Why Pastors Should use giving data.md",
     "To GPT or Not to GPT.md",
@@ -221,7 +222,6 @@
     "Admin Meeting.md",
     "NextGen Checkin Day 1.md",
     "CITN Regional Roundtable.md",
-    "Mosyle Training.md",
     "Lava Session 12 - Advanced For Loops.pdf",
     "Lava Session 7 - Additional Filters.pdf",
     "Lava Session 8 - HTML Block (1).pdf",
