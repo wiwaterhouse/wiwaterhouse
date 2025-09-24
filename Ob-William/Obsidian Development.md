@@ -6,6 +6,6 @@ Note, check the guide
 	- Client - TypeScript .obs
 - Components - building blocks that make up your block
 obsidian blocks in rx24, go watch it
-
+Prepping for obsidian in rx24, go watch it
 
 #rx #rx2025 

@@ -1,0 +1,21 @@
+### The Mission
+- Painpoints
+	- Dynamic content
+	- data capture
+	- Extensibility of Rock
+- Today's Solutions
+	- custom javascript
+	- heavy workflows
+	- custom blocks
+- Offer easy way to build dynamic content without javascript
+- build out reusable components and fields that feed into this
+- limit the need to ever write custom C# code
+### Helix
+- HTMX, Lava Applications, Lava Commands, Control Shortcodes
+- https://htmx.org
+- HTMX dynamic without javascript
+- Lava Applications - endpoints to be called
+- Lava Commands - added modifyentity and deleteentity
+- Control Shortcodes - for controls on the page
+- https://community.rockrms.com/helix
+- https://gallery.triumph.tech/helix
