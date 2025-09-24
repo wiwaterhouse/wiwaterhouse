@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Community Keynote"
             }
+          },
+          {
+            "id": "56b28e13e305d5fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rock Mobile Keynote.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Rock Mobile Keynote"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,9 +212,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a8da0a6dd9fe198",
+  "active": "56b28e13e305d5fd",
   "lastOpenFiles": [
     "Community Keynote.md",
+    "Rock Mobile Keynote.md",
     "Digital Discipleship.md",
     "Why Pastors Should use giving data.md",
     "To GPT or Not to GPT.md",
@@ -221,7 +247,6 @@
     "New Time Clock for iPads.md",
     "Admin Meeting.md",
     "NextGen Checkin Day 1.md",
-    "CITN Regional Roundtable.md",
     "Lava Session 12 - Advanced For Loops.pdf",
     "Lava Session 7 - Additional Filters.pdf",
     "Lava Session 8 - HTML Block (1).pdf",
