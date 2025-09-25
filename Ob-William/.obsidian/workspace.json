@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "876c1a5167cba26f",
+        "id": "036021cf4e1750eb",
         "type": "tabs",
         "children": [
           {
-            "id": "044555fbc40bbb84",
+            "id": "eac3e6bea265ab87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Birds of a feather - Database Admin.md",
+                "file": "Regional Hub Meetup.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Birds of a feather - Database Admin"
+              "title": "Regional Hub Meetup"
             }
           }
         ]
@@ -187,8 +187,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "044555fbc40bbb84",
+  "active": "eac3e6bea265ab87",
   "lastOpenFiles": [
+    "Regional Hub Meetup.md",
     "Birds of a feather - Database Admin.md",
     "Helix can simplify your life.md",
     "Supercharged Group Pages.md",
@@ -214,7 +215,6 @@
     "Untitled.md",
     "Rock Checkin Class Day 2.md",
     "Cloudflare Recommendations.md",
-    "Theme Temp.md",
     "Lava Session 5 - Iterating.pdf",
     "Lava Session 4 - Conditional Logic.pdf",
     "Lava Session 3 - Working With Variables.pdf",
