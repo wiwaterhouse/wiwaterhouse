@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "44ce97cff8f05567",
+        "id": "876c1a5167cba26f",
         "type": "tabs",
         "children": [
           {
-            "id": "17b9624f43f8ad9d",
+            "id": "044555fbc40bbb84",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "New tab"
             }
           }
         ]
@@ -187,9 +173,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17b9624f43f8ad9d",
+  "active": "044555fbc40bbb84",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Helix can simplify your life.md",
+    "Supercharged Group Pages.md",
+    "Helix Show and Tell.md",
     "Magnus and AI.md",
     "Steps to guide assimilation.md",
     "Step flows to better understand your people.md",
@@ -218,8 +206,6 @@
     "Lava Session 3 - Working With Variables.pdf",
     "Lava Session 2 - Intro To Filters.pdf",
     "Lava Session 1 - Beginning with the Basics.pdf",
-    "The Model Map And Lava.md",
-    "Lava Class Day 4.md",
     "Lava Session 14 - Shortcodes.pdf",
     "Lava Session 16 - Other Places.pdf",
     "Lava Session 12 - Advanced For Loops.pdf",
