@@ -11,10 +11,24 @@
             "id": "044555fbc40bbb84",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Birds of a feather - Database Admin.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Birds of a feather - Database Admin"
             }
           }
         ]
@@ -175,6 +189,7 @@
   },
   "active": "044555fbc40bbb84",
   "lastOpenFiles": [
+    "Birds of a feather - Database Admin.md",
     "Helix can simplify your life.md",
     "Supercharged Group Pages.md",
     "Helix Show and Tell.md",
@@ -200,7 +215,6 @@
     "Rock Checkin Class Day 2.md",
     "Cloudflare Recommendations.md",
     "Theme Temp.md",
-    "So it begins - Rock and IT.md",
     "Lava Session 5 - Iterating.pdf",
     "Lava Session 4 - Conditional Logic.pdf",
     "Lava Session 3 - Working With Variables.pdf",
