@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9f07f95a9c660052",
+        "id": "9a10cc36e7ba1415",
         "type": "tabs",
         "children": [
           {
-            "id": "d331a5c1c1bdcfff",
+            "id": "048d17afbbc28754",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lava Applications with Helix.md",
+                "file": "Rock Automation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lava Applications with Helix"
+              "title": "Rock Automation"
+            }
+          },
+          {
+            "id": "e96e6ad3be66c576",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trifecta.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Trifecta"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,8 +212,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d331a5c1c1bdcfff",
+  "active": "e96e6ad3be66c576",
   "lastOpenFiles": [
+    "Rock Automation.md",
+    "Trifecta.md",
     "Lava Applications with Helix.md",
     "Obsidian Development.md",
     "Group Finder with Helix.md",
@@ -220,8 +247,6 @@
     "Lava Session 16 - Other Places.pdf",
     "Communication List Plan.md",
     "Zebra RMA Process.md",
-    "Livestream Help For Megan.md",
-    "Enable meeting.md",
     "Lava Session 12 - Advanced For Loops.pdf",
     "Lava Session 7 - Additional Filters.pdf",
     "Lava Session 8 - HTML Block (1).pdf",
