@@ -1,3 +1,4 @@
 - Attendance for CR - could possibly use a workflow to mark attendance in the small groups when checked into the large group or vice versa
 - Check out - in room ipads used for check out
+- Sign-up wizard plugin
 - 
