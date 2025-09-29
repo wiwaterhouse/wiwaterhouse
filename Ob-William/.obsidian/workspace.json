@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "036021cf4e1750eb",
+        "id": "622d72bd38f387ca",
         "type": "tabs",
         "children": [
           {
-            "id": "eac3e6bea265ab87",
+            "id": "2b146bf1f05ae8c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regional Hub Meetup.md",
+                "file": "Rock Automation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Regional Hub Meetup"
+              "title": "Rock Automation"
             }
           }
         ]
@@ -63,12 +63,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "automation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5,
-    "collapsed": true
+    "width": 247.5
   },
   "right": {
     "id": "101f4314985fc9f5",
@@ -187,7 +186,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eac3e6bea265ab87",
+  "active": "2b146bf1f05ae8c8",
   "lastOpenFiles": [
     "Regional Hub Meetup.md",
     "Birds of a feather - Database Admin.md",
