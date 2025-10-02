@@ -1,0 +1,1 @@
+Attending RX 2025 was a valuable opportunity to connect with the wider Rock community, share ideas, and learn from peers and experts. The conference provided a space for team-building with our new 

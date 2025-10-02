@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "101a6aef43b89297",
+            "id": "23e6a499a15f2967",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RX 2025 FULL.md",
+                "file": "CITN 2024 Summary.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,41 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "RX 2025 FULL"
+              "title": "CITN 2024 Summary"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "623edd701500b460",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39957487939013f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RX 2025 Final Summary.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "RX 2025 Final Summary"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,10 +264,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4884aed88ce5972",
+  "active": "39957487939013f1",
   "lastOpenFiles": [
-    "CITN 2024 Summary.md",
     "RX 2025 Summary.md",
+    "RX 2025 Final Summary.md",
+    "CITN 2024 Summary.md",
     "RX 2025 FULL.md",
     "Birds of a feather - Database Admin.md",
     "Helix can simplify your life.md",
@@ -261,7 +292,6 @@
     "Reset - How to Change What's Not Working.md",
     "First Principles - Rebuilding Digital Ministry from the Ground Up.md",
     "Regional Hub Meetup.md",
-    "Cloudflare Recommendations.md",
     "Lava Session 5 - Iterating.pdf",
     "Lava Session 4 - Conditional Logic.pdf",
     "Lava Session 3 - Working With Variables.pdf",
