@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rock Automation.md",
+                "file": "Birds of a feather - Database Admin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rock Automation"
+              "title": "Birds of a feather - Database Admin"
+            }
+          },
+          {
+            "id": "e4884aed88ce5972",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RX 2025 Summary.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "RX 2025 Summary"
+            }
+          },
+          {
+            "id": "1dcd2b104c7f0dbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CITN 2024 Summary.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CITN 2024 Summary"
+            }
+          },
+          {
+            "id": "101a6aef43b89297",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RX 2025 FULL.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "RX 2025 FULL"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "automation",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +157,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,33 +258,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b146bf1f05ae8c8",
+  "active": "1dcd2b104c7f0dbf",
   "lastOpenFiles": [
-    "Regional Hub Meetup.md",
+    "RX 2025 FULL.md",
     "Birds of a feather - Database Admin.md",
     "Helix can simplify your life.md",
-    "Supercharged Group Pages.md",
     "Helix Show and Tell.md",
+    "Supercharged Group Pages.md",
     "Magnus and AI.md",
     "Steps to guide assimilation.md",
     "Step flows to better understand your people.md",
-    "Rock Automation.md",
     "Trifecta.md",
+    "Rock Automation.md",
     "Lava Applications with Helix.md",
+    "CITN 2024 Summary.md",
     "Obsidian Development.md",
     "Group Finder with Helix.md",
     "AI Agents.md",
-    "Community Keynote.md",
     "Rock Mobile Keynote.md",
+    "Community Keynote.md",
     "Digital Discipleship.md",
     "Why Pastors Should use giving data.md",
     "To GPT or Not to GPT.md",
-    "Reset - How to Change What's Not Working.md",
     "Empowering Digital Ministry with Rock 18.md",
-    "GoldCircleNomination.md",
+    "Reset - How to Change What's Not Working.md",
     "First Principles - Rebuilding Digital Ministry from the Ground Up.md",
-    "Untitled.md",
-    "Rock Checkin Class Day 2.md",
+    "RX 2025 Summary.md",
+    "Regional Hub Meetup.md",
     "Cloudflare Recommendations.md",
     "Lava Session 5 - Iterating.pdf",
     "Lava Session 4 - Conditional Logic.pdf",
