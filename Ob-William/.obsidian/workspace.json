@@ -109,21 +109,8 @@
               "icon": "lucide-file",
               "title": "RX 2025 Final Summary"
             }
-          },
-          {
-            "id": "95f5ecb456eb8c64",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 247.5,
+    "collapsed": true
   },
   "right": {
     "id": "101f4314985fc9f5",
@@ -277,7 +265,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95f5ecb456eb8c64",
+  "active": "39957487939013f1",
   "lastOpenFiles": [
     "RX 2025 Summary.md",
     "RX 2025 Final Summary.md",
