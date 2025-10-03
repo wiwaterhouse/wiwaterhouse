@@ -86,3 +86,23 @@ Attending RX 2025 was a valuable opportunity to connect with the wider Rock comm
 - Provide training and resources for staff and volunteers to leverage new technical tools.
 - Continue engaging with the Rock community for ongoing support, collaboration, and best practices.
 - Reallocate resources to support digital ministry initiatives and ensure alignment with our mission.
+
+---
+**Attending RX 2025 was a valuable opportunity to connect with the broader Rock community, exchange ideas, and learn from both peers and experts. The conference provided dedicated time for team-building with our new teammates and offered an immersive environment to introduce the IT team to the full capabilities of Rock.**
+
+**Key Takeaways from the Sessions:**
+
+- The importance of mindful and intentional use of AI tools, including understanding the difference between generative and agentic AI, and how these can support ministry goals.
+- New capabilities with the Helix plugin, enabling faster, more interactive, and modular development without the need for custom JavaScript.
+- Introduction of the Rock Automations system, which streamlines workflows and allows for more efficient, event-driven processes.
+- Upcoming features in Rock v18 and beyond, such as enhanced communication flows, improved analytics, expanded mobile capabilities, and deeper integration of digital ministry tools.
+- Emphasis on digital discipleship—using digital tools to foster relationships, track spiritual growth, and guide people along their discipleship journey.
+- Best practices for leveraging giving data to support pastoral care, while maintaining data privacy and focusing on spiritual outcomes.
+
+**Next Steps:**
+
+- Install and begin using Helix to enable faster, more dynamic feature implementation and improve user experience for both staff and congregation.
+- Continue learning about and experimenting with AI tools to assist in daily work, with a focus on practical applications that align with our mission.
+- Deepen my knowledge of Rock, Lava, and Obsidian to better support our staff and help integrate new features as they become available.
+- Explore ways to empower our team and volunteers to create and share meaningful content, leveraging the new tools and frameworks introduced at RX 2025.
+- Evaluate and adapt our digital ministry strategy to ensure we are measuring what matters—spiritual growth and life change—rather than just digital engagement metrics.
