@@ -78,22 +78,15 @@
               "icon": "lucide-file",
               "title": "RX 2025 FULL"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "623edd701500b460",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "39957487939013f1",
+            "id": "c91770bcc7f23c7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RX 2025 Summary - William.md",
-                "mode": "preview",
+                "file": "List for Josh and Collin.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -107,10 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "RX 2025 Summary - William"
+              "title": "List for Josh and Collin"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -264,12 +258,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39957487939013f1",
+  "active": "c91770bcc7f23c7f",
   "lastOpenFiles": [
-    "RX 2025 FULL.md",
-    "RX 2025 Summary.md",
+    "List for Josh and Collin.md",
     "CITN 2024 Summary.md",
     "RX 2025 Summary - William.md",
+    "RX 2025 FULL.md",
+    "RX 2025 Summary.md",
     "Birds of a feather - Database Admin.md",
     "Helix can simplify your life.md",
     "Helix Show and Tell.md",
@@ -291,7 +286,6 @@
     "Empowering Digital Ministry with Rock 18.md",
     "Reset - How to Change What's Not Working.md",
     "First Principles - Rebuilding Digital Ministry from the Ground Up.md",
-    "Regional Hub Meetup.md",
     "Lava Session 5 - Iterating.pdf",
     "Lava Session 4 - Conditional Logic.pdf",
     "Lava Session 3 - Working With Variables.pdf",
