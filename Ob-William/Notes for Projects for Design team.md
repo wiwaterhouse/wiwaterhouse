@@ -1,0 +1,5 @@
+- Recurring projects and sub projects
+- Auto-generate tasks per type of project
+- Views
+- Projects going to notion, api connection to create notion stuff, then mark Rock project complete
+- 

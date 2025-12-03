@@ -102,9 +102,33 @@
               "icon": "lucide-file",
               "title": "List for Josh and Collin"
             }
+          },
+          {
+            "id": "53ac76372b36503d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes for Projects for Design team.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Notes for Projects for Design team"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -258,10 +282,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c91770bcc7f23c7f",
+  "active": "53ac76372b36503d",
   "lastOpenFiles": [
-    "VS Code Extension download.md",
+    "Notes for Projects for Design team.md",
     "List for Josh and Collin.md",
+    "VS Code Extension download.md",
     "Temp.md",
     "CITN 2024 Summary.md",
     "RX 2025 Summary - William.md",
@@ -285,7 +310,6 @@
     "Digital Discipleship.md",
     "Why Pastors Should use giving data.md",
     "To GPT or Not to GPT.md",
-    "Empowering Digital Ministry with Rock 18.md",
     "Lava Session 5 - Iterating.pdf",
     "Lava Session 4 - Conditional Logic.pdf",
     "Lava Session 3 - Working With Variables.pdf",
