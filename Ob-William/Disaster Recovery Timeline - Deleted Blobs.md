@@ -15,3 +15,5 @@
 	- Engineer expected to give bi-hourly updates on recovery attempt
 12:24 pm - Chris Tucker arrives, discussion around possibility for what could have happened with the AI agent
 12:32 pm - Email update from Bill that this storage account is not under scope for Foundation team
+1:01 pm - Chris and William working to find locations for all missing files
+1:26 pm - Email update from Microsoft engineer, they could not find any file deletes from a 24 hour range from 12/3, sent email reply to check from 11/27 to 12/3 for any deletes
