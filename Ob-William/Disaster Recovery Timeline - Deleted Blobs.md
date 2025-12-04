@@ -19,3 +19,5 @@
 1:26 pm - Email update from Microsoft engineer, they could not find any file deletes from a 24 hour range from 12/3, sent email reply to check from 11/27 to 12/3 for any deletes
 2:00 pm - Call with Microsoft engineer, no files found yet, sent information over to backend team to continue searching for files. 24/7 tech removed for now since they are waiting on response from backend team.
 2:34 pm - Email received from Microsoft engineer, following up on call with same information, removing the 24/7 tag and waiting on response from the backend team
+3:52 pm - Started sql query to build temp table for locating all of the places files would need to be re-uploaded in case they are not able to be recovered.
+	- Also, planning to use this query to assist in marking buttons as inactive on the site temporarily while we resolve the files missing
