@@ -17,3 +17,4 @@
 12:32 pm - Email update from Bill that this storage account is not under scope for Foundation team
 1:01 pm - Chris and William working to find locations for all missing files
 1:26 pm - Email update from Microsoft engineer, they could not find any file deletes from a 24 hour range from 12/3, sent email reply to check from 11/27 to 12/3 for any deletes
+2:00 pm - Call with Microsoft engineer, no files found yet, sent information over to backend team to continue searching for files. 24/7 tech removed for now since they are waiting on response from backend team.
