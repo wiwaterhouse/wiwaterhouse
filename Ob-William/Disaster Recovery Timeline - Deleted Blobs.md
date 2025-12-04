@@ -2,6 +2,7 @@
 8:20 am - William notified that blobs were deleted
 8:30 am - William engaged to investigate
 9:03 am - SQL query showing binary file references in the database still existed on rockProd database
+9:30am - After further discussion 
 10:45 am - Ran SQL query on RockDev database, it showed no results
 	- May be that a bad API request had been run against rockDev that deleted the blobs and the database references and left the database references untouched in rockProd
 10:55 am - Started process to open support case with Microsoft Azure team to attempt recovery
