@@ -126,9 +126,33 @@
               "icon": "lucide-file",
               "title": "Notes for Projects for Design team"
             }
+          },
+          {
+            "id": "66ffc68f04c07db3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Disaster Recovery Timeline - Deleted Blobs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Disaster Recovery Timeline - Deleted Blobs"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -282,9 +306,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53ac76372b36503d",
+  "active": "66ffc68f04c07db3",
   "lastOpenFiles": [
     "Notes for Projects for Design team.md",
+    "Disaster Recovery Timeline - Deleted Blobs.md",
     "List for Josh and Collin.md",
     "VS Code Extension download.md",
     "Temp.md",
@@ -309,7 +334,6 @@
     "Community Keynote.md",
     "Digital Discipleship.md",
     "Why Pastors Should use giving data.md",
-    "To GPT or Not to GPT.md",
     "Lava Session 5 - Iterating.pdf",
     "Lava Session 4 - Conditional Logic.pdf",
     "Lava Session 3 - Working With Variables.pdf",
