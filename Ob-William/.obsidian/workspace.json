@@ -150,9 +150,33 @@
               "icon": "lucide-file",
               "title": "Disaster Recovery Timeline - Deleted Blobs"
             }
+          },
+          {
+            "id": "059fa40c932802cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Query to review for Blobs to set inactive on the site.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Query to review for Blobs to set inactive on the site"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -306,10 +330,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66ffc68f04c07db3",
+  "active": "059fa40c932802cf",
   "lastOpenFiles": [
-    "Notes for Projects for Design team.md",
     "Disaster Recovery Timeline - Deleted Blobs.md",
+    "Query to review for Blobs to set inactive on the site.md",
+    "Notes for Projects for Design team.md",
     "List for Josh and Collin.md",
     "VS Code Extension download.md",
     "Temp.md",
@@ -333,7 +358,6 @@
     "Rock Mobile Keynote.md",
     "Community Keynote.md",
     "Digital Discipleship.md",
-    "Why Pastors Should use giving data.md",
     "Lava Session 5 - Iterating.pdf",
     "Lava Session 4 - Conditional Logic.pdf",
     "Lava Session 3 - Working With Variables.pdf",
