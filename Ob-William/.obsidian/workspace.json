@@ -174,9 +174,33 @@
               "icon": "lucide-file",
               "title": "Query to review for Blobs to set inactive on the site"
             }
+          },
+          {
+            "id": "fa748cf72a46329b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Volunteer Pipeline Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Volunteer Pipeline Notes"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -330,10 +354,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "059fa40c932802cf",
+  "active": "fa748cf72a46329b",
   "lastOpenFiles": [
-    "Disaster Recovery Timeline - Deleted Blobs.md",
     "Query to review for Blobs to set inactive on the site.md",
+    "Volunteer Pipeline Notes.md",
+    "Disaster Recovery Timeline - Deleted Blobs.md",
     "Notes for Projects for Design team.md",
     "List for Josh and Collin.md",
     "VS Code Extension download.md",
@@ -357,7 +382,6 @@
     "AI Agents.md",
     "Rock Mobile Keynote.md",
     "Community Keynote.md",
-    "Digital Discipleship.md",
     "Lava Session 5 - Iterating.pdf",
     "Lava Session 4 - Conditional Logic.pdf",
     "Lava Session 3 - Working With Variables.pdf",
