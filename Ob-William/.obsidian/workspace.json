@@ -8,78 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23e6a499a15f2967",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CITN 2024 Summary.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CITN 2024 Summary"
-            }
-          },
-          {
-            "id": "e4884aed88ce5972",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RX 2025 Summary.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "RX 2025 Summary"
-            }
-          },
-          {
-            "id": "03c67b9293d80be2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RX 2025 FULL.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "RX 2025 FULL"
-            }
-          },
-          {
             "id": "c91770bcc7f23c7f",
             "type": "leaf",
             "state": {
@@ -104,12 +32,12 @@
             }
           },
           {
-            "id": "53ac76372b36503d",
+            "id": "e68351b4d35a52c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes for Projects for Design team.md",
+                "file": "Idea for off-boarding.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,83 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Notes for Projects for Design team"
-            }
-          },
-          {
-            "id": "66ffc68f04c07db3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Disaster Recovery Timeline - Deleted Blobs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Disaster Recovery Timeline - Deleted Blobs"
-            }
-          },
-          {
-            "id": "059fa40c932802cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Query to review for Blobs to set inactive on the site.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Query to review for Blobs to set inactive on the site"
-            }
-          },
-          {
-            "id": "fa748cf72a46329b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Volunteer Pipeline Notes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Volunteer Pipeline Notes"
+              "title": "Idea for off-boarding"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -354,34 +210,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa748cf72a46329b",
+  "active": "e68351b4d35a52c6",
   "lastOpenFiles": [
-    "Query to review for Blobs to set inactive on the site.md",
+    "Idea for off-boarding.md",
+    "List for Josh and Collin.md",
     "Volunteer Pipeline Notes.md",
+    "VS Code Extension download.md",
+    "GroupsCommunityPanel.md",
+    "ReadyAimFire ApproachToWorkingTrhoughProcessesAndSolutions.md",
+    "RockKeynote.md",
+    "ThinkDifferently.md",
+    "Windows 10 Guide.md",
+    "2024-01-12.md",
+    "2023-12-15.md",
+    "CITN 2024 Summary.md",
+    "RX 2025 Summary.md",
+    "RX 2025 FULL.md",
+    "Communication List and Email Deliverability Issue.md",
+    "Query to review for Blobs to set inactive on the site.md",
     "Disaster Recovery Timeline - Deleted Blobs.md",
     "Notes for Projects for Design team.md",
-    "List for Josh and Collin.md",
-    "VS Code Extension download.md",
     "Temp.md",
-    "CITN 2024 Summary.md",
     "RX 2025 Summary - William.md",
-    "RX 2025 FULL.md",
-    "RX 2025 Summary.md",
     "Birds of a feather - Database Admin.md",
     "Helix can simplify your life.md",
     "Helix Show and Tell.md",
     "Supercharged Group Pages.md",
     "Magnus and AI.md",
     "Steps to guide assimilation.md",
-    "Step flows to better understand your people.md",
-    "Trifecta.md",
-    "Rock Automation.md",
-    "Lava Applications with Helix.md",
-    "Obsidian Development.md",
-    "Group Finder with Helix.md",
-    "AI Agents.md",
-    "Rock Mobile Keynote.md",
-    "Community Keynote.md",
     "Lava Session 5 - Iterating.pdf",
     "Lava Session 4 - Conditional Logic.pdf",
     "Lava Session 3 - Working With Variables.pdf",

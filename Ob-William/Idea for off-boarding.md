@@ -1,0 +1,2 @@
+- Data view for former employees with security roles
+- inactivate in all security roles with lava in workflow
