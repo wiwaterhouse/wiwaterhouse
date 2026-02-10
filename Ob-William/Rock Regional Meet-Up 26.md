@@ -1,1 +1,2 @@
 - Test passwordless login to see if it creates duplicates with non-mobile numbers
+- Google Notebook LM - give docs for ai chatbot refs
