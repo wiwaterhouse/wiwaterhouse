@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "0b15d803ed049044",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
-            }
-          },
-          {
             "id": "d028ca2764750f0e",
             "type": "leaf",
             "state": {
@@ -89,6 +77,30 @@
               },
               "icon": "lucide-file",
               "title": "2026-27 Vision Planning Meeting"
+            }
+          },
+          {
+            "id": "d17c046efe375115",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rock Regional Meet-Up 26.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Rock Regional Meet-Up 26"
             }
           }
         ],
@@ -247,9 +259,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d028ca2764750f0e",
+  "active": "d17c046efe375115",
   "lastOpenFiles": [
     "2026-27 Vision Planning Meeting.md",
+    "Rock Regional Meet-Up 26.md",
     "Idea for off-boarding.md",
     "List for Josh and Collin.md",
     "Volunteer Pipeline Notes.md",
@@ -274,7 +287,6 @@
     "Helix can simplify your life.md",
     "Helix Show and Tell.md",
     "Supercharged Group Pages.md",
-    "Magnus and AI.md",
     "Lava Session 5 - Iterating.pdf",
     "Lava Session 4 - Conditional Logic.pdf",
     "Lava Session 3 - Working With Variables.pdf",
