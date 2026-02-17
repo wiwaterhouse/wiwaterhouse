@@ -102,9 +102,57 @@
               "icon": "lucide-file",
               "title": "Rock Regional Meet-Up 26"
             }
+          },
+          {
+            "id": "f1eaf8facbd2bb6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VS Code Extension download.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "VS Code Extension download"
+            }
+          },
+          {
+            "id": "20127a43dccbd805",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Streamside Meeting 2-17-26.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Streamside Meeting 2-17-26"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -157,12 +205,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 247.5,
-    "collapsed": true
+    "width": 247.5
   },
   "right": {
     "id": "101f4314985fc9f5",
@@ -259,14 +307,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d17c046efe375115",
+  "active": "20127a43dccbd805",
   "lastOpenFiles": [
+    "VS Code Extension download.md",
+    "Streamside Meeting 2-17-26.md",
     "2026-27 Vision Planning Meeting.md",
     "Rock Regional Meet-Up 26.md",
     "Idea for off-boarding.md",
     "List for Josh and Collin.md",
     "Volunteer Pipeline Notes.md",
-    "VS Code Extension download.md",
     "GroupsCommunityPanel.md",
     "ReadyAimFire ApproachToWorkingTrhoughProcessesAndSolutions.md",
     "RockKeynote.md",
@@ -286,7 +335,6 @@
     "Birds of a feather - Database Admin.md",
     "Helix can simplify your life.md",
     "Helix Show and Tell.md",
-    "Supercharged Group Pages.md",
     "Lava Session 5 - Iterating.pdf",
     "Lava Session 4 - Conditional Logic.pdf",
     "Lava Session 3 - Working With Variables.pdf",
