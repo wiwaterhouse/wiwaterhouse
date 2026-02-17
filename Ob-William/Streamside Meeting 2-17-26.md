@@ -1,7 +1,15 @@
 This is for hvac migration to E2H
 - Cost?
+	- negligible
 - HVAC only?
+	- May need separate E2H instance
 - Zones and triggers?
-
 - Connection?
 	- Realtime, send when event happens, can be prone to failure
+	- VPN should be fine
+	- Realtime vs schedule objects - preferred schedule objects, can change if needed
+		- bacnet stack enabled
+		- Alerton gotchas for schedule objects? Not much
+			- no exception schedules, only manual overrides
+		- schedule objects command a point
+		- have bacnet digital twin of the schedule objects, make sure they're exposed via bacnet
