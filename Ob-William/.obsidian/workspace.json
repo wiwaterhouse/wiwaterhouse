@@ -151,7 +151,8 @@
               "title": "Streamside Meeting 2-17-26"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -306,14 +307,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c91770bcc7f23c7f",
+  "active": "f1eaf8facbd2bb6c",
   "lastOpenFiles": [
-    "Streamside Meeting 2-17-26.md",
+    "List for Josh and Collin.md",
     "VS Code Extension download.md",
+    "Streamside Meeting 2-17-26.md",
     "2026-27 Vision Planning Meeting.md",
     "Rock Regional Meet-Up 26.md",
     "Idea for off-boarding.md",
-    "List for Josh and Collin.md",
     "Volunteer Pipeline Notes.md",
     "GroupsCommunityPanel.md",
     "ReadyAimFire ApproachToWorkingTrhoughProcessesAndSolutions.md",
