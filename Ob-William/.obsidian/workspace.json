@@ -151,8 +151,7 @@
               "title": "Streamside Meeting 2-17-26"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -307,10 +306,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20127a43dccbd805",
+  "active": "c91770bcc7f23c7f",
   "lastOpenFiles": [
-    "VS Code Extension download.md",
     "Streamside Meeting 2-17-26.md",
+    "VS Code Extension download.md",
     "2026-27 Vision Planning Meeting.md",
     "Rock Regional Meet-Up 26.md",
     "Idea for off-boarding.md",
