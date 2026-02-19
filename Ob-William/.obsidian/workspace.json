@@ -150,9 +150,33 @@
               "icon": "lucide-file",
               "title": "Streamside Meeting 2-17-26"
             }
+          },
+          {
+            "id": "c8eccdd07408a2a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Communication List To-Dos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Communication List To-Dos"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -210,7 +234,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 247.5,
+    "collapsed": true
   },
   "right": {
     "id": "101f4314985fc9f5",
@@ -307,11 +332,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1eaf8facbd2bb6c",
+  "active": "c8eccdd07408a2a9",
   "lastOpenFiles": [
-    "List for Josh and Collin.md",
-    "VS Code Extension download.md",
     "Streamside Meeting 2-17-26.md",
+    "Communication List To-Dos.md",
+    "VS Code Extension download.md",
+    "List for Josh and Collin.md",
     "2026-27 Vision Planning Meeting.md",
     "Rock Regional Meet-Up 26.md",
     "Idea for off-boarding.md",
@@ -334,7 +360,6 @@
     "RX 2025 Summary - William.md",
     "Birds of a feather - Database Admin.md",
     "Helix can simplify your life.md",
-    "Helix Show and Tell.md",
     "Lava Session 5 - Iterating.pdf",
     "Lava Session 4 - Conditional Logic.pdf",
     "Lava Session 3 - Working With Variables.pdf",

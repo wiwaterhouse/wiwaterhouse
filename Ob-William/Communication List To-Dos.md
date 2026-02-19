@@ -1,0 +1,10 @@
+- [ ] unsubscribe link implementation and testing
+	- [ ] workflow to set person inactive in group
+	- [ ] link with person token to launch workflow
+	- [ ] get unsubscribe link to contain info to link back to communication list
+	- [ ] test
+- [ ] criteria for data views to populate communication lists
+	- [ ] Write data views for each comm list
+	- [ ] Ping Christy to double-check
+- [ ] attach job automation to workflow and data view
+- [ ] Test and validate
